@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.182,29.066],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Sıkıştığı Yerde Saatlerce Mahsur Kalan Kediyi Böyle ...</b><br>Sıkıştığı yerde saatlerce mahsur kalan kediyi böyle kurtardılarBURSA - Bursa'nın İnegöl ilçesinde bir iş yerinin açık bırakılan ahşap penceresine sıkışan kedi itfaiye ekiplerince kurtarıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sikistigi-yerde-saatlerce-mahsur-kalan-kediyi-11565799-haberi/>https://www.haberler.com/sikistigi-yerde-saatlerce-mahsur-kalan-kediyi-11565799-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 18:06:00");
+                        marker.bindPopup("<b>Tarımda hedef akıllı üretim</b><br>Bursa'nın marka değerini kültür ve turizmde olduğu gibi tarımda da artırmak istediklerini belirten Büyükşehir Belediye Başkanı Alinur Aktaş, ekilebilir alanlarda akıllı üretim ve hassas tarım uygulamalarını yaygınlaştırmak için yoğun çaba sarf ettiklerini söyledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tarimda-hedef-akilli-uretim-13286548-haberi/>https://www.haberler.com/tarimda-hedef-akilli-uretim-13286548-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:40:00");
 
                     

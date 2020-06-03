@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.749,39.494],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Başkan Başsoy, Personelle Buluşmaya Devam Ediyor</b><br>Erzincan Belediye Başkanı Cemalettin Başsoy, Su ve Kanalizasyon Müdülüğünde görevli personelin taleplerini dinledi ve hasbihal etti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/baskan-bassoy-personelle-bulusmaya-devam-ediyor-11564037-haberi/>https://www.haberler.com/baskan-bassoy-personelle-bulusmaya-devam-ediyor-11564037-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 09:54:00");
+                        marker.bindPopup("<b>Erzincan'da otomobilin önünde seyreden araca çarpması ...</b><br>Erzincan'da otomobilin önünde seyreden araca çarpması sonucu 2'si çocuk 5 kişi yaralandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/erzincan-da-otomobilin-onunde-seyreden-araca-13286491-haberi/>https://www.haberler.com/erzincan-da-otomobilin-onunde-seyreden-araca-13286491-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:27:00");
 
                     

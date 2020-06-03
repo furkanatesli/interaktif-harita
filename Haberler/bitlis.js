@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.400,42.108],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Bolu'da, Yöresel Ürünler Pazarı Kuruldu</b><br>Bolu'da, yöresel ürünler pazarı kuruldu 81 ilin yöresel ürünleri Highway AVM'de satışa sunulduBOLU - Bolu'da, TEM Otoyolu üzerinde bulunan Highway Alışveriş Merkezi'nde kurulan Üretici Sokağı Yöresel Ürünler Pazarı'nda 81 ilden gelen doğal ürünler satışa sunulmaya başladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bolu-da-yoresel-urunler-pazari-kuruldu-11565355-haberi/>https://www.haberler.com/bolu-da-yoresel-urunler-pazari-kuruldu-11565355-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 15:59:00");
+                        marker.bindPopup("<b>Bitlis'te 2 terörist daha etkisiz hale getirildi</b><br>İçişleri Bakanlığı, Bitlis kırsalında İl Jandarma Komutanlığınca düzenlenen operasyonda 2 teröristin etkisiz hale getirildiğini bildirdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bitlis-te-2-terorist-daha-etkisiz-hale-getirildi-13286637-haberi/>https://www.haberler.com/bitlis-te-2-terorist-daha-etkisiz-hale-getirildi-13286637-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:55:00");
 
                     

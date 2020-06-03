@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.724,30.288],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Devrilen Traktörün Altında Kalan Sürücü Öldü</b><br>Burdur'un Bucak ilçesinde, devrilen traktörün altında kalan sürücü hayatını kaybetti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/devrilen-traktorun-altinda-kalan-surucu-oldu-11565891-haberi/>https://www.haberler.com/devrilen-traktorun-altinda-kalan-surucu-oldu-11565891-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 18:46:00");
+                        marker.bindPopup("<b>Son dakika haber | Burdur'da yeni toplu taşıma kuralları</b><br>Gelen son dakika haberine göre Burdur İl Umumi Hıfzıssıhha Kurulu tarafından şehir içi ve şehirler arası toplu taşıma araçlarına yönelik yeni Korona virüs önlemleri alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haber-burdur-da-yeni-toplu-tasima-kurallari-13286476-haberi/>https://www.haberler.com/son-dakika-haber-burdur-da-yeni-toplu-tasima-kurallari-13286476-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:23:00");
 
                     

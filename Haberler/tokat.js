@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.326,36.554],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Yangında Annenin Alevlerden Ulaşamadığı Yağız Öldü, ...</b><br>TOKAT'ta iki katlı ahşap evde çıkan yangında içeride mahsur kalan Yağız Efe Süsoy (3) hayatını kaybetti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yanginda-annenin-alevlerden-ulasamadigi-yagiz-oldu-11565270-haberi/>https://www.haberler.com/yanginda-annenin-alevlerden-ulasamadigi-yagiz-oldu-11565270-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 15:37:00");
+                        marker.bindPopup("<b>2019 yılında Samsun'da 15 bin 652 canlı bebek doğdu</b><br>Türkiye İstatistik Kurumu (TÜİK) Samsun Bölge Müdürlüğü Orta Karadeniz Bölgesi'ndeki nüfus ve taşıt konusundaki istatistik verilerini paylaştı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/2019-yilinda-samsun-da-15-bin-652-canli-bebek-13286175-haberi/>https://www.haberler.com/2019-yilinda-samsun-da-15-bin-652-canli-bebek-13286175-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:27:00");
 
                     

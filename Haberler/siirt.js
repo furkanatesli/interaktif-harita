@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.930,41.940],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Bursa'da Siirt'teki Öğrenciler İçin Kermes</b><br>BURSA'da anaokulu öğrencileri, Siirt'teki bir ilkokulun öğrencilerine destek için kermes düzenledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bursa-da-siirt-teki-ogrenciler-icin-kermes-11564685-haberi/>https://www.haberler.com/bursa-da-siirt-teki-ogrenciler-icin-kermes-11564685-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 12:47:00");
+                        marker.bindPopup("<b>Şehit babasından gururlandıran vasiyet</b><br>Siirt'in Pervari ilçesinde askeri aracın devrilmesi sonucu şehit olan Jandarma Astsubay Çavuş Celal Özcan'ın babası Tuncer Özcan, küçük oğluna ağabeyinin kaldığı yerden devam etmesi için vasiyet ettiğini bildirdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sehit-babasindan-gururlandiran-vasiyet-13286571-haberi/>https://www.haberler.com/sehit-babasindan-gururlandiran-vasiyet-13286571-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:45:00");
 
                     

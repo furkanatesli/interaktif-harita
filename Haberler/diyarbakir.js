@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.916,40.222],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Diyarbakır'da "İlahiyat Akademi" Çalıştayı</b><br>Diyanet İşleri Başkanlığı ile Diyanet Vakfı'nın birlikte yürüttüğü 'İlahiyat Akademi' programı kapsamında Diyarbakır'da düzenlenen çalıştayda, 11 ilden il ve ilçe müftüleri, ilahiyat fakültesi dekanları, öğretim üyeleri ve görevlileri bir araya geldi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/diyarbakir-da-ilahiyat-akademi-calistayi-11565833-haberi/>https://www.haberler.com/diyarbakir-da-ilahiyat-akademi-calistayi-11565833-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 18:19:00");
+                        marker.bindPopup("<b>Sur olaylarında zarar gören 5 yıldızlı otel tadilata ...</b><br>Diyarbakır'ın Sur ilçesindeki hendek operasyonlarında teröristler tarafından tahribata uğratılan kentin ilk 5 yıldızlı oteli, huzur ve güven ortamının yeniden inşa edilmesi ile birlikte tadilata alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sur-olaylarinda-zarar-goren-5-yildizli-otel-13286622-haberi/>https://www.haberler.com/sur-olaylarinda-zarar-goren-5-yildizli-otel-13286622-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:53:00");
 
                     

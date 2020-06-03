@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.906,41.273],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Erzurum'da Yoğun Sis</b><br>Erzurum'daki Palandöken Dağı etekleri ile kent merkezini kaplayan yoğun sis, güzel görüntüler oluşturdu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/erzurum-da-yogun-sis-11565735-haberi/>https://www.haberler.com/erzurum-da-yogun-sis-11565735-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 17:47:00");
+                        marker.bindPopup("<b>Erzincan'da otomobilin önünde seyreden araca çarpması ...</b><br>Erzincan'da otomobilin önünde seyreden araca çarpması sonucu 2'si çocuk 5 kişi yaralandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/erzincan-da-otomobilin-onunde-seyreden-araca-13286491-haberi/>https://www.haberler.com/erzincan-da-otomobilin-onunde-seyreden-araca-13286491-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:27:00");
 
                     

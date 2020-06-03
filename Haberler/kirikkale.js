@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.847,33.528],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Fetö'nün "Kırıkkale İl İmamı" Kayseri'de Yakalandı</b><br>Fetullahçı Terör Örgütü/Paralel Devlet Yapılanması'nın (FETÖ/PDY) 'Kırıkkale il imamı' olduğu iddiasıyla aranan zanlı, Kayseri'de hücre evinde gözaltına alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/feto-nun-kirikkale-il-imami-kayseri-de-yakalandi-11565309-haberi/>https://www.haberler.com/feto-nun-kirikkale-il-imami-kayseri-de-yakalandi-11565309-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 15:47:00");
+                        marker.bindPopup("<b>Yolun karşısına geçmek isteyen kadın; ezilmekten son ...</b><br>Yolun karşısına geçmek isteyen kadın; ezilmekten son anda kurtulduKırıkkale'de yolun karşısına geçmek isteyen yaşlı kadın, ezilmekten son anda kurtuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yolun-karsisina-gecmek-isteyen-kadin-ezilmekten-13286545-haberi/>https://www.haberler.com/yolun-karsisina-gecmek-isteyen-kadin-ezilmekten-13286545-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:40:00");
 
                     

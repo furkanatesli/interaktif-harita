@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.073,36.255],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Papağana 42. Yaş Günü Kutlaması</b><br>Osmaniye'de petshop işletmeciliği yapan Ali İhsan Özsipahi, 42 yaşına giren papağını için doğum günü düzenledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/papagana-42-yas-gunu-kutlamasi-11565596-haberi/>https://www.haberler.com/papagana-42-yas-gunu-kutlamasi-11565596-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 17:11:00");
+                        marker.bindPopup("<b>Üzerine ağaç dalı düşen PTT çalışanı yaralandı</b><br>Osmaniye'de, Kadirli Kaymakamlığı bahçesinde kesimi yapılan ağaç dalı üzerine düşen PTT çalışanı kadın yaralandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/uzerine-agac-dali-dusen-ptt-calisani-yaralandi-13286200-haberi/>https://www.haberler.com/uzerine-agac-dali-dusen-ptt-calisani-yaralandi-13286200-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:31:00");
 
                     

@@ -1,5 +1,5 @@
 
                         var marker = L.marker([36.900,30.693],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Antalya'da Falezlerden Düşen Kişi Öldü</b><br>Antalya'da falezlerden düşen kişi öldüANTALYA'da, falezlerden kayalıklara düşen Ali Yıldız (34), yaşamını yitirdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/antalya-da-falezlerden-dusen-kisi-oldu-11566187-haberi/>https://www.haberler.com/antalya-da-falezlerden-dusen-kisi-oldu-11566187-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 21:51:00");
+                        marker.bindPopup("<b>Karantinada kalan babaya doğum günü sürprizi</b><br>Antalya'da yaşayan Doğukan Kındır, korona virüsten dolayı karantina altına alınan babasına doğum günü sürprizi yaptı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karantinada-kalan-babaya-dogum-gunu-surprizi-13286635-haberi/>https://www.haberler.com/karantinada-kalan-babaya-dogum-gunu-surprizi-13286635-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:55:00");
 
                     

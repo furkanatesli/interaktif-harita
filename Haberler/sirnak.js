@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.518,42.461],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Şırnak'ta "Mevlid-i Nebi Gençlik Bilgi Yarışması" ...</b><br>Şırnak'ta Diyanet İşleri Bakanlığınca 'Mevlid-i Nebi Gençlik Bilgi Yarışması' düzenlendi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sirnak-ta-mevlid-i-nebi-genclik-bilgi-yarismasi-11565806-haberi/>https://www.haberler.com/sirnak-ta-mevlid-i-nebi-genclik-bilgi-yarismasi-11565806-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 18:10:00");
+                        marker.bindPopup("<b>Cizre'de karantinadaki apartman ve sokaklar dezenfekte ...</b><br>Şırnak'ın Cizre İlçe Belediyesi Temizlik İşleri Müdürlüğü ekipleri, yeni tip korona virüs salgını nedeniyle karantina altına alınan apartman ve sokaklarda dezenfekte çalışması gerçekleştirdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/cizre-de-karantinadaki-apartman-ve-sokaklar-13286625-haberi/>https://www.haberler.com/cizre-de-karantinadaki-apartman-ve-sokaklar-13286625-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:53:00");
 
                     

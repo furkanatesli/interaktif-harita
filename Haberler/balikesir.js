@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.647,27.885],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Türkiye Büyük Erkekler Ferdi Boks Şampiyonası</b><br>Türkiye Büyük Erkekler Ferdi Boks Şampiyonası, final müsabakalarıyla tamamlandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/turkiye-buyuk-erkekler-ferdi-boks-sampiyonasi-11566003-haberi/>https://www.haberler.com/turkiye-buyuk-erkekler-ferdi-boks-sampiyonasi-11566003-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 19:43:00");
+                        marker.bindPopup("<b>Edremit Körfezi'nde turizmci, yaz sezonundan umutlu</b><br>BALIKESİR'in Edremit Körfezi'ndeki turizm işletmelerinin kapıları, koronavirüs tedbirleri kapsamındaki normalleşme sürecinde müşterilere yeniden açıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/edremit-korfezi-nde-turizmci-yaz-sezonundan-umutlu-13286549-haberi/>https://www.haberler.com/edremit-korfezi-nde-turizmci-yaz-sezonundan-umutlu-13286549-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:40:00");
 
                     

@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.820,34.809],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Yozgat Adalet Eğitim Merkezi İnşaatında Sona Yaklaşıldı</b><br>Yozgat'ta inşaat seviyesi yüzde 95 oranında tamamlanan 328 yatak kapasiteli Yozgat Adalet Eğitim Merkezi inşaatı hızla sürüyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yozgat-adalet-egitim-merkezi-insaatinda-sona-11565703-haberi/>https://www.haberler.com/yozgat-adalet-egitim-merkezi-insaatinda-sona-11565703-haberi/</a><br><b>Paylasim Tarihi : <b>22.12.2018 17:37:00");
+                        marker.bindPopup("<b>Yozgat'ta kıraathanede oyun oynayan 9 kişiye "sosyal ...</b><br>Yozgat'ın Sorgun ilçesinde bir kıraathanede, sosyal mesafe kuralını ihlal ederek okey oynayan 9 kişiye, toplam 3 bin 528 lira idari ceza kesildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yozgat-ta-kiraathanede-oyun-oynayan-9-kisiye-13286577-haberi/>https://www.haberler.com/yozgat-ta-kiraathanede-oyun-oynayan-9-kisiye-13286577-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:45:00");
 
                     

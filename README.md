@@ -14,13 +14,13 @@ Projenin kapsamı içerik olarak verileri düzenli ve koordinat bilgisi sunan ve
 
 #### Referans Materyaller
 
-Projede kullanılan bot için “Python” dili kullanılmıştır.</br>
+Projede kullanılan bot için "Python" dili kullanılmıştır.</br>
 Harita üzerinde işaretçilerin gösterilmesi için ‘JavaScript’ dili kullanılmıştır.</br>
-Haber ve Deprem bilgilerini Python üzerinde kaynaklardan çekmek için “BeautifulSoup” ve “urllib” modülleri kullanılmıştır.</br>
-Haber veri kaynağı olarak “https://www.haberler.com/” kullanılmıştır.</br>
-Deprem veri kaynağı olarak “http://www.koeri.boun.edu.tr/scripts/lst1.asp” kullanılmıştır.</br>
-Elde edilen verileri işleyip bir harita üzerinde göstermek için “https://leafletjs.com/” kullanılmıştır.</br>
-Harita kaynağı olarak “https://www.openstreetmap.org/“ kullanılmıştır.</br>
+Haber ve Deprem bilgilerini Python üzerinde kaynaklardan çekmek için "BeautifulSoup" ve "urllib" modülleri kullanılmıştır.</br>
+Haber veri kaynağı olarak "https://www.haberler.com/" kullanılmıştır.</br>
+Deprem veri kaynağı olarak "http://www.koeri.boun.edu.tr/scripts/lst1.asp" kullanılmıştır.</br>
+Elde edilen verileri işleyip bir harita üzerinde göstermek için "https://leafletjs.com/" kullanılmıştır.</br>
+Harita kaynağı olarak "https://www.openstreetmap.org/" kullanılmıştır.</br>
 
 #### Tanımlar Ve Kısaltmalar
 
@@ -49,11 +49,11 @@ Sistemde şu anda, illerin son haberleri ve son 24 saatte Türkiye’de olan dep
 
 #### Haber Kaynağı
 
-Haber verilerini illere göre çekmek için kaynağımız olan haber sitesinin XML kaynağına (“https://rss.haberler.com/rsskonu.asp?konu=”) erişiyoruz. Bu URL’nin sonuna istediğimiz bir ilin adını girerek bu istenilen ilin son girilen haberlerini XML olarak görebiliyoruz. Bizim amacımız bu URL’nin tüm Türkiye illerini kapsaması ve illere ait girilen son haber verisinin işlenip haritamız üzerinde gösterilmesi. Bunun için de Python’da illerin isimlerinin yazılı olduğu bir liste(sehirler), bu illere ait olan koordinatları bulunduran ikinci bir liste(koordinatlar) ve haberleri çekebilmek için bir fonksiyon yazdım(haber_cek). Bu fonksiyonda ilk olarak bir sayaç belirledik sonra bir döngü belirledik bu döngü illerin isimlerinin yazılı olduğu liste kadar dönecek. Her döngüde haber kaynağımız olan URL’yi ulrlib kütüphanesi ile açıp BeautifulSoup kütüphanesi ile XML belgesi şeklinde okutup bu XML belgesinde geçen ilk ‘item’ isimli tagı bulup bu tag içerisinde ki tüm verileri UTF-8 formatında kaynak isimli değişkenimize kayıt ediyor. Yine döngü içerisinde dosya açıyor dosya hedefi olarak proje klasörünün içerisindeki Haberler klasörünü seçiyor dosya ismini o anki döngüde bulunan şehir ismi olarak uzantısını da .js yani JavaScript olarak oluşturuyor ve sadece yazılabilir şekilde açıyor. Dosya içerisine kaynak siteden gelen verileri Leaflet’in işaretçi ve popup olayına uygun bir şekilde kayıt ediyor. Kayıt ederken, işaret kontrolü için koordinat dizisinin içerisindeki koordinatlar gelen verideki ile karşılık gelen koordinatı alıyor. Popup bilgisi için gelen verideki title, description, link ve pubDate tagları içerisindeki verileri UTF-8 formatına çevirip JavaScrip dosyamıza kayıt ediliyor. Ardından dosyayı kapatıyor ve sayaç değişkenini bir arttırıyor.
+Haber verilerini illere göre çekmek için kaynağımız olan haber sitesinin XML kaynağına ("https://rss.haberler.com/rsskonu.asp?konu=") erişiyoruz. Bu URL’nin sonuna istediğimiz bir ilin adını girerek bu istenilen ilin son girilen haberlerini XML olarak görebiliyoruz. Bizim amacımız bu URL’nin tüm Türkiye illerini kapsaması ve illere ait girilen son haber verisinin işlenip haritamız üzerinde gösterilmesi. Bunun için de Python’da illerin isimlerinin yazılı olduğu bir liste(sehirler), bu illere ait olan koordinatları bulunduran ikinci bir liste(koordinatlar) ve haberleri çekebilmek için bir fonksiyon yazdım(haber_cek). Bu fonksiyonda ilk olarak bir sayaç belirledik sonra bir döngü belirledik bu döngü illerin isimlerinin yazılı olduğu liste kadar dönecek. Her döngüde haber kaynağımız olan URL’yi ulrlib kütüphanesi ile açıp BeautifulSoup kütüphanesi ile XML belgesi şeklinde okutup bu XML belgesinde geçen ilk ‘item’ isimli tagı bulup bu tag içerisinde ki tüm verileri UTF-8 formatında kaynak isimli değişkenimize kayıt ediyor. Yine döngü içerisinde dosya açıyor dosya hedefi olarak proje klasörünün içerisindeki Haberler klasörünü seçiyor dosya ismini o anki döngüde bulunan şehir ismi olarak uzantısını da .js yani JavaScript olarak oluşturuyor ve sadece yazılabilir şekilde açıyor. Dosya içerisine kaynak siteden gelen verileri Leaflet’in işaretçi ve popup olayına uygun bir şekilde kayıt ediyor. Kayıt ederken, işaret kontrolü için koordinat dizisinin içerisindeki koordinatlar gelen verideki ile karşılık gelen koordinatı alıyor. Popup bilgisi için gelen verideki title, description, link ve pubDate tagları içerisindeki verileri UTF-8 formatına çevirip JavaScrip dosyamıza kayıt ediliyor. Ardından dosyayı kapatıyor ve sayaç değişkenini bir arttırıyor.
 
 #### Deprem Kaynağı
 
-Deprem verilerini çekmek için kaynağımız olan Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Bölgesel Deprem-Tsunami İzleme Ve Değerlendirme Merkezi’nin sağladığı verilerin XML kaynağına (“http://udim.koeri.boun.edu.tr/zeqmap/xmlt/son24saat.xml”) erişiyoruz. Bu URL’de Türkiye de son 24 saat içerisinde olan depremler listelenmektedir. Buradaki amacımız bu URL’deki verileri işleyip harita üzerinde göstermek. Bunun için de Python’da bu verileri çekip işleyen bir fonksiyon yazdım(deprem_cek). Bu fonksiyonda ilk olarak Deprem verilerini aldığımız XML url’sini urllib kütüphanesi ile açıp BeautifulSoup kütüphanesi ile XML belgesi şeklinde okutuyoruz. Sonra bir dosya oluşturuyoruz dosya hedefi olarak proje klasörünün içerisindeki Depremler klasörünü seçiyor dosya ismini Depremler olarak uzantısınıda .js yani JavaScript olarak oluşturuyor ve sadece yazılabilir şekilde açıyor. Sonra bir döngü oluşturup bu döngüyü XML belgesinde geçen ‘earhquake’ tagı kadar döndürüyoruz. Döngüde dosya içerisine kaynak siteden gelen verileri Leaflet’in işaretçi ve popup olayına uygun bir şekilde kayıt ediyor.
+Deprem verilerini çekmek için kaynağımız olan Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü Bölgesel Deprem-Tsunami İzleme Ve Değerlendirme Merkezi’nin sağladığı verilerin XML kaynağına ("http://udim.koeri.boun.edu.tr/zeqmap/xmlt/son24saat.xml") erişiyoruz. Bu URL’de Türkiye de son 24 saat içerisinde olan depremler listelenmektedir. Buradaki amacımız bu URL’deki verileri işleyip harita üzerinde göstermek. Bunun için de Python’da bu verileri çekip işleyen bir fonksiyon yazdım(deprem_cek). Bu fonksiyonda ilk olarak Deprem verilerini aldığımız XML url’sini urllib kütüphanesi ile açıp BeautifulSoup kütüphanesi ile XML belgesi şeklinde okutuyoruz. Sonra bir dosya oluşturuyoruz dosya hedefi olarak proje klasörünün içerisindeki Depremler klasörünü seçiyor dosya ismini Depremler olarak uzantısınıda .js yani JavaScript olarak oluşturuyor ve sadece yazılabilir şekilde açıyor. Sonra bir döngü oluşturup bu döngüyü XML belgesinde geçen ‘earhquake’ tagı kadar döndürüyoruz. Döngüde dosya içerisine kaynak siteden gelen verileri Leaflet’in işaretçi ve popup olayına uygun bir şekilde kayıt ediyor.
 Kayıt ederken, işaret kontrolü için kaynak siteden gelen XML’i içerisindeki ‘lat’ ve ‘lng’ verilerini alıyor. Popup bilgisi için gelen verideki ‘earhquake’ tag’ı içerisindeki ‘name’,’lokasyon’,’mag’ ve ‘Depth’ tagrarı içerisindeki verileri JavaScript dosyamıza kayıt ediyor. Ardından dosyamızı kapatıyor.
 
 #### Veri Sözlüğü
@@ -111,7 +111,7 @@ Deprem İşaretçisi: Depremin olduğu noktayı gösterir, tıklandığında pop
 *Haberler için haber kaynağı.
 *Depremler için deprem veri kaynağı.
 *Arayüzde harita göstermek için OpenStreetMap.
-*Harita üzerinde işaretçilerin gösterilmesi ve popup olayları için “JavaScript” dili.
+*Harita üzerinde işaretçilerin gösterilmesi ve popup olayları için "JavaScript" dili.
 *Harita üzerinde işaretçileri göstermek için JavaScript Leaflet kütüphanesi.
 ```
 

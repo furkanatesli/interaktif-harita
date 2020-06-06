@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.763,38.276],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>AdÄ±yaman'da spor kompleksleri sporsever iÃ§in hazÄ±rlanÄ±yor</b><br>AdÄ±yaman Belediyesi bÃ¼nyesinde bulunan ve korona virÃ¼sten dolayÄ± uzun sÃ¼redir kapalÄ± tutulan spor komplekslerinde normalleÅŸme sÃ¼reci iÃ§in hazÄ±rlÄ±klar sÃ¼rÃ¼yor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/adiyaman-da-spor-kompleksleri-sporsever-icin-13286509-haberi/>https://www.haberler.com/adiyaman-da-spor-kompleksleri-sporsever-icin-13286509-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:31:00");
+                        marker.bindPopup("<b>Son dakika haberleri... Depremde 2 ev hasar gördü</b><br>Son dakika haberi: Depremde 2 ev hasar gördü Malatya Pütürge depreminde Adıyaman'ın Sincik ilçesine bağlı iki köyde 2 toprak evde hasar oluştu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-depremde-2-ev-hasar-gordu-13295801-haberi/>https://www.haberler.com/son-dakika-haberleri-depremde-2-ev-hasar-gordu-13295801-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:47:00");
 
                     

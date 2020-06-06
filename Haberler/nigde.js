@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.970,34.679],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>NiÄŸde'de asayiÅŸ</b><br>NiÄŸde'de dÃ¼zenlenen uyuÅŸturucu operasyonunda gÃ¶zaltÄ±na alÄ±nan 4 ÅŸÃ¼pheliden biri tutuklandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/nigde-de-asayis-13285944-haberi/>https://www.haberler.com/nigde-de-asayis-13285944-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 11:43:00");
+                        marker.bindPopup("<b>Kayseri ve Niğde'de Cuma namazında avlular doldu taştı</b><br>Kayseri ve Niğde'de Cuma namazında avlular doldu taştı Korona virüs salgını nedeniyle alınan önlemlerin ardından geçilen normalleşme sürecinde cemaatle kılınan cuma namazını Kayserili ve Niğdeli vatandaşlar sosyal mesafe ve maske kurallarına uyarak kıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kayseri-ve-nigde-de-cuma-namazinda-avlular-doldu-13295687-haberi/>https://www.haberler.com/kayseri-ve-nigde-de-cuma-namazinda-avlular-doldu-13295687-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:58:00");
 
                     

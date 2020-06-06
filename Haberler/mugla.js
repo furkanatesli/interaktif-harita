@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.213,28.365],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>KÃ¶yceÄŸiz'de kenevir operasyonu</b><br>MuÄŸla Ä°l Jandarma KomutanlÄ±ÄŸÄ± Ä°stihbarat Åube MÃ¼dÃ¼rlÃ¼ÄŸÃ¼ ekipleri tarafÄ±ndan yapÄ±lan istihbari Ã§alÄ±ÅŸmalar sonucu, KÃ¶yceÄŸiz Ä°lÃ§esi BeyobasÄ± Mahallesinde ikamet eden M.G. isimli ÅŸahsÄ±n arazisinin iÃ§indeki sebzelerinin arasÄ±na kenevir bitkisi ektiÄŸi bilgisi alÄ±ndÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/koycegiz-de-kenevir-operasyonu-13286628-haberi/>https://www.haberler.com/koycegiz-de-kenevir-operasyonu-13286628-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:54:00");
+                        marker.bindPopup("<b>Zeynep'i öldüren boksör erkek arkadaşı tutuklandı</b><br>MUĞLA'da, kız arkadaşı Zeynep Şenpınar'ı (24) dövdükten sonra göğsünden bıçaklayarak öldüren ardından kendisini de bıçakla yaralayan boksör Selim Ahmet Kemaloğlu'nun (26) hastanedeki tedavisi tamamladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/zeynep-i-olduren-boksor-erkek-arkadasi-tutuklandi-13295743-haberi/>https://www.haberler.com/zeynep-i-olduren-boksor-erkek-arkadasi-tutuklandi-13295743-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:23:00");
 
                     

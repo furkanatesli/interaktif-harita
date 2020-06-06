@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.655,29.272],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son Dakika: Yalova Belediyesi'ndeki 'zimmet' soruÅŸturmasÄ±nda ...</b><br>Son dakika haberleri... YALOVA Belediyesi'nde 19 kiÅŸinin tutuklu olduÄŸu milyonlarca liralÄ±k 'zimmet' soruÅŸturmasÄ± kapsamÄ±nda belediye Ã§alÄ±ÅŸanÄ± 4 kiÅŸi daha gÃ¶zaltÄ±na alÄ±ndÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-yalova-belediyesi-ndeki-zimmet-sorusturmasinda-4-13286631-haberi/>https://www.haberler.com/son-dakika-yalova-belediyesi-ndeki-zimmet-sorusturmasinda-4-13286631-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:54:00");
+                        marker.bindPopup("<b>Bursa ve çevre illerde 18 yaş altı çocuklar güneşli ...</b><br>Bursa, Eskişehir, Yalova, Çanakkale, Kütahya ve Balıkesir'de yeni tip koronavirüs (Kovid-19) tedbirleri kapsamında sokağa çıkması kısıtlanan 18 yaş altı çocuklar, getirilen 6 saatlik serbestlikle güzel havanın tadını çıkardı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bursa-ve-cevre-illerde-18-yas-alti-cocuklar-13294459-haberi/>https://www.haberler.com/bursa-ve-cevre-illerde-18-yas-alti-cocuklar-13294459-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 16:03:00");
 
                     

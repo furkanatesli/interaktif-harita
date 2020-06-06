@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.921,32.853],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Ankara'da yedek parÃ§a dolandÄ±rÄ±cÄ±larÄ± yakalandÄ±</b><br>Ankara'da yedek parÃ§a dolandÄ±rÄ±cÄ±larÄ± yakalandÄ±ANKARA'da internet sitesi Ã¼zerinden oto yedek parÃ§asÄ± sattÄ±klarÄ±nÄ± sÃ¶yleyerek vatandaÅŸlarÄ± 205 bin TL dolandÄ±ran 5 kiÅŸi, polisin dÃ¼zenlediÄŸi operasyonla yakalandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ankara-da-yedek-parca-dolandiricilari-yakalandi-13286313-haberi/>https://www.haberler.com/ankara-da-yedek-parca-dolandiricilari-yakalandi-13286313-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:50:00");
+                        marker.bindPopup("<b>Ankara-Sivas YHT hattı yıl sonunda seferlere başlıyor</b><br>Ankara-Sivas YHT hattı yıl sonunda seferlere başlıyor YHT hattında çalışmalar hız kesmeden devam ediyor Ankara-Sivas ulaşım mesafesini 2 saate düşürecek Yüksek Hızlı Tren hattı çalışmalarıyla ilgili değerlendirmelerde bulunan AK Parti Kırıkkale Milletvekili Ramazan Can, 'Bu yıl sonu...<br><b>Kaynak :</b> <a href=https://www.haberler.com/ankara-sivas-yht-hatti-yil-sonunda-seferlere-13295815-haberi/>https://www.haberler.com/ankara-sivas-yht-hatti-yil-sonunda-seferlere-13295815-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:54:00");
 
                     

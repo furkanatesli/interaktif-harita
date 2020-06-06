@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.586,36.903],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika haberi! MaraÅŸ Ã¼rÃ¼nleri Avrupa yolunda</b><br>Son dakika haberlerine gÃ¶re KAHRAMANMARAÅ'Ä±n tescilli MaraÅŸ Ã‡Ã¶reÄŸi, MaraÅŸ TarhanasÄ± ile Ã‡aÄŸlayancerit Cevizi'nin Avrupa BirliÄŸi (AB) coÄŸrafi iÅŸaret tescili baÅŸvurularÄ± yapÄ±ldÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberi-maras-urunleri-avrupa-yolunda-13284693-haberi/>https://www.haberler.com/son-dakika-haberi-maras-urunleri-avrupa-yolunda-13284693-haberi/</a><br><b>Paylasim Tarihi : <b>2.06.2020 20:22:00");
+                        marker.bindPopup("<b>Ziya Selçuk: Olgunlaşma enstitüleri dünya markası ...</b><br>MİLLİ Eğitim Bakanı Ziya Selçuk, Türk moda tarihinin en önemli kurumlarından olan olgunlaşma enstitülerine ayrı bir önem verdiklerini belirterek, 'Olgunlaşma enstitülerinin gelişmesi için, dünya çapında bir markaya dönüşmeleri için çok ciddi çalışmaların içinde arkadaşlarımız.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ziya-selcuk-olgunlasma-enstituleri-dunya-markasi-13295746-haberi/>https://www.haberler.com/ziya-selcuk-olgunlasma-enstituleri-dunya-markasi-13295746-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:24:00");
 
                     

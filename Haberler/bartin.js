@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.632,32.338],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>AydÄ±nlatma direÄŸine Ã§arpan otomobildeki iki kiÅŸi yaralandÄ±</b><br>KarabÃ¼k'Ã¼n Safranbolu ilÃ§esinde otomobilin aydÄ±nlatma direÄŸine Ã§arpmasÄ± sonucu iki kiÅŸi yaralandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/aydinlatma-diregine-carpan-otomobildeki-iki-kisi-13284692-haberi/>https://www.haberler.com/aydinlatma-diregine-carpan-otomobildeki-iki-kisi-13284692-haberi/</a><br><b>Paylasim Tarihi : <b>2.06.2020 20:20:00");
+                        marker.bindPopup("<b>Bartın'da sahte içki operasyonu</b><br>Bartın'da polis ekiplerince bir eve düzenlenen operasyonda sahte içki yapımında kullanılan etil alkol ele geçirilirken, 1 kişi gözaltına alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bartin-da-sahte-icki-operasyonu-13295431-haberi/>https://www.haberler.com/bartin-da-sahte-icki-operasyonu-13295431-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 20:56:00");
 
                     

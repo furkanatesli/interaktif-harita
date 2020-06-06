@@ -1,5 +1,5 @@
 
                         var marker = L.marker([36.217,36.165],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika haberleri! Hatay Su ÃœrÃ¼nleri Birlik BaÅŸkanÄ±'na ...</b><br>Son dakika haberleri... HATAY Su ÃœrÃ¼nleri Birlik BaÅŸkanÄ± Celal Bilen, esnafla yaptÄ±ÄŸÄ± toplantÄ± sonrasÄ± iÅŸ yerine yÃ¼rÃ¼dÃ¼ÄŸÃ¼ sÄ±rada bÄ±Ã§aklÄ± saldÄ±rÄ±ya uÄŸradÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-hatay-su-urunleri-birlik-baskani-na-bicakli-13286538-haberi/>https://www.haberler.com/son-dakika-haberleri-hatay-su-urunleri-birlik-baskani-na-bicakli-13286538-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:39:00");
+                        marker.bindPopup("<b>Dolunay ve çilek Ayı tutulması Hatayda Türkiyenin ...</b><br>2020 yılının ikincisi olan ve 'Çilek Ayı' olarak adlandırılan dolunay Hatayda Türkiye'nin simgeleri ile görüntülendi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dolunay-ve-cilek-ayi-tutulmasi-hatayda-turkiyenin-13295887-haberi/>https://www.haberler.com/dolunay-ve-cilek-ayi-tutulmasi-hatayda-turkiyenin-13295887-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:33:00");
 
                     

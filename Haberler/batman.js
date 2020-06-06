@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.884,41.128],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Batman'da uyuÅŸturucu tacirlerine ÅŸafak operasyonu: ...</b><br>Batman'da 'torbacÄ±lara' yÃ¶nelik dÃ¼zenlenen uyuÅŸturucu operasyonunda 12 kiÅŸi gÃ¶zaltÄ±na alÄ±ndÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/batman-da-uyusturucu-tacirlerine-safak-operasyonu-13286455-haberi/>https://www.haberler.com/batman-da-uyusturucu-tacirlerine-safak-operasyonu-13286455-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:18:00");
+                        marker.bindPopup("<b>Son Dakika: Gercüş'te bir köy ikinci defa karantinaya ...</b><br>Son dakika genel haberine göre Gercüş'te bir köy ikinci defa karantinaya alındı Batman'ın Gercüş ilçesine bağlı Gönüllü köyü, korona virüs tedbirleri kapsamında ikinci defa karantinaya alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-gercus-te-bir-koy-ikinci-defa-karantinaya-alindi-13295412-haberi/>https://www.haberler.com/son-dakika-gercus-te-bir-koy-ikinci-defa-karantinaya-alindi-13295412-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 20:50:00");
 
                     

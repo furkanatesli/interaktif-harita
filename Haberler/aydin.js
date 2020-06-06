@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.845,27.834],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>BuÄŸdayda 74 bin tonluk rekolte beklentisi</b><br>AydÄ±n Ticaret BorsasÄ± BaÅŸkanÄ± Fevzi Ã‡ondur, bu sezon buÄŸdayda 74 bin ton rekolte beklediklerini sÃ¶yledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bugdayda-74-bin-tonluk-rekolte-beklentisi-13286488-haberi/>https://www.haberler.com/bugdayda-74-bin-tonluk-rekolte-beklentisi-13286488-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:27:00");
+                        marker.bindPopup("<b>Çalıştığı kuyumcudan altın çaldığı iddia edilen kişi ...</b><br>Aydın'ın Söke ilçesinde çalıştığı kuyumcudan altın çaldığı iddia edilen kişi tutuklandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/calistigi-kuyumcudan-altin-caldigi-iddia-edilen-13295786-haberi/>https://www.haberler.com/calistigi-kuyumcudan-altin-caldigi-iddia-edilen-13295786-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:39:00");
 
                     

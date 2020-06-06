@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.414,27.144],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Ä°zmir Adnan Menderes HavalimanÄ±'nda uÃ§uÅŸlar baÅŸarÄ±yla ...</b><br>TAV HavalimanlarÄ± tarafÄ±ndan iÅŸletilen Ä°zmir Adnan Menderes HavalimanÄ±'nda iÃ§ hat uÃ§uÅŸlarÄ± sorunsuz ÅŸekilde sÃ¼rÃ¼yor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/izmir-adnan-menderes-havalimani-nda-ucuslar-13286425-haberi/>https://www.haberler.com/izmir-adnan-menderes-havalimani-nda-ucuslar-13286425-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:11:00");
+                        marker.bindPopup("<b>Yem karma makinesine düşen çiftçi, öldü</b><br>İZMİR'in Kemalpaşa ilçesinde, çiftçi İsmail Kazancı (24), hayvanlara yem hazırladığı sırada, dengesini kaybetmesi sonucu yem karma makinesine düşerek hayatını kaybetti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yem-karma-makinesine-dusen-ciftci-oldu-13295825-haberi/>https://www.haberler.com/yem-karma-makinesine-dusen-ciftci-oldu-13295825-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:59:00");
 
                     

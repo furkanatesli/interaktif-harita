@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.930,41.940],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Åehit babasÄ±ndan gururlandÄ±ran vasiyet</b><br>Siirt'in Pervari ilÃ§esinde askeri aracÄ±n devrilmesi sonucu ÅŸehit olan Jandarma Astsubay Ã‡avuÅŸ Celal Ã–zcan'Ä±n babasÄ± Tuncer Ã–zcan, kÃ¼Ã§Ã¼k oÄŸluna aÄŸabeyinin kaldÄ±ÄŸÄ± yerden devam etmesi iÃ§in vasiyet ettiÄŸini bildirdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sehit-babasindan-gururlandiran-vasiyet-13286571-haberi/>https://www.haberler.com/sehit-babasindan-gururlandiran-vasiyet-13286571-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:45:00");
+                        marker.bindPopup("<b>Siirt'te teröristlerin kullandığı sığınak imha edildi</b><br>Siirt'te teröristlerin kullandığı sığınak imha edildi Siirt'in Baykan ilçesinde düzenlenen operasyonda 2 terörist etkisiz hale getirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/siirt-te-teroristlerin-kullandigi-siginak-imha-13295670-haberi/>https://www.haberler.com/siirt-te-teroristlerin-kullandigi-siginak-imha-13295670-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:52:00");
 
                     

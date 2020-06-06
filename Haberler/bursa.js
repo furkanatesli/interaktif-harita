@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.182,29.066],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>TarÄ±mda hedef akÄ±llÄ± Ã¼retim</b><br>Bursa'nÄ±n marka deÄŸerini kÃ¼ltÃ¼r ve turizmde olduÄŸu gibi tarÄ±mda da artÄ±rmak istediklerini belirten BÃ¼yÃ¼kÅŸehir Belediye BaÅŸkanÄ± Alinur AktaÅŸ, ekilebilir alanlarda akÄ±llÄ± Ã¼retim ve hassas tarÄ±m uygulamalarÄ±nÄ± yaygÄ±nlaÅŸtÄ±rmak iÃ§in yoÄŸun Ã§aba sarf ettiklerini sÃ¶yledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tarimda-hedef-akilli-uretim-13286548-haberi/>https://www.haberler.com/tarimda-hedef-akilli-uretim-13286548-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:40:00");
+                        marker.bindPopup("<b>Otomobil ile çarpışan motosikletin sürücüsü öldü</b><br>BURSA'nın İnegöl ilçesinde, otomobil ile çarpışan motosikletin sürücüsü Abdulkadir Yazar (64), hayatını kaybetti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/otomobil-ile-carpisan-motosikletin-surucusu-oldu-13295730-haberi/>https://www.haberler.com/otomobil-ile-carpisan-motosikletin-surucusu-oldu-13295730-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:16:00");
 
                     

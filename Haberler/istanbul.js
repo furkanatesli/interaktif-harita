@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.009,28.965],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>KontrollÃ¼ normale dÃ¶nÃ¼ÅŸ sÃ¼reci (1)</b><br>KadÄ±kÃ¶y rÄ±htÄ±m ve Bahariye'den detaylar Ä°stanbul KadÄ±kÃ¶y'de normalleÅŸme sÃ¼reciyle birlikte cadde ve meydanlarda yoÄŸunluk yaÅŸandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kontrollu-normale-donus-sureci-1-13286600-haberi/>https://www.haberler.com/kontrollu-normale-donus-sureci-1-13286600-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:50:00");
+                        marker.bindPopup("<b>İstanbul'da dolunay kartpostallık görüntüler oluşturdu</b><br>İSTANBUL da bu akşam gerçekleşen ay tutulması kartpostallık görüntüler oluşturdu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/istanbul-da-dolunay-kartpostallik-goruntuler-13295810-haberi/>https://www.haberler.com/istanbul-da-dolunay-kartpostallik-goruntuler-13295810-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:52:00");
 
                     

@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.370,34.027],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Aksaray Belediyesinin yaptÄ±ÄŸÄ± 4 yeni kÃ¶prÃ¼ ÅŸehir trafiÄŸini ...</b><br>Aksaray Belediyesinin vatandaÅŸlara gÃ¼venli ve rahat bir ulaÅŸÄ±m imkanÄ± sunmak amacÄ± ile hayata geÃ§irdiÄŸi yeni kÃ¶prÃ¼ler trafik yoÄŸunluÄŸunu azalttÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/aksaray-belediyesinin-yaptigi-4-yeni-kopru-sehir-13286569-haberi/>https://www.haberler.com/aksaray-belediyesinin-yaptigi-4-yeni-kopru-sehir-13286569-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:45:00");
+                        marker.bindPopup("<b>18 yaş altı çocuklar güzel havanın tadını çıkardı</b><br>Konya, Aksaray, Karaman ve Afyonkarahisar'da, yeni tip koronavirüs (Kovid-19) tedbirleri kapsamında sokağa çıkması kısıtlanan 18 yaş altı çocuklar, kısıtlamadan muaf tutuldukları saatlerde dışarı çıkarak güzel havanın tadını çıkardı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/18-yas-alti-cocuklar-guzel-havanin-tadini-cikardi-13294195-haberi/>https://www.haberler.com/18-yas-alti-cocuklar-guzel-havanin-tadini-cikardi-13294195-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 15:12:00");
 
                     

@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.885,40.496],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>BingÃ¶l'de Ã§iftÃ§ilere 1 milyon TL kredi desteÄŸi verildi</b><br>BingÃ¶l'de OrkÃ¶y projeleri kapsamÄ±nda DoÄŸankaya, Ã‡atma ve AÅŸaÄŸÄ± YaÄŸmurlu kÃ¶ylerindeki Ã§iftÃ§ilere 1 milyon TL sÃ¼t sÄ±ÄŸÄ±rcÄ±lÄ±ÄŸÄ± ve sÃ¼t koyunculuÄŸu kredi desteÄŸi verildiÄŸi bildirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bingol-de-ciftcilere-1-milyon-tl-kredi-destegi-13286514-haberi/>https://www.haberler.com/bingol-de-ciftcilere-1-milyon-tl-kredi-destegi-13286514-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:32:00");
+                        marker.bindPopup("<b>Özlüce Barajı Gölü'ndeki kafeslere 500 bin yavru alabalık ...</b><br>Geçen yıl su ürünleri yetiştiriciliğine açılan Bingöl'ün Yayladere ilçesindeki Özlüce Barajı Gölü'nde kurulan 5 çiftliğe törenle 500 bin yavru alabalık bırakıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ozluce-baraji-golu-ndeki-kafeslere-500-bin-yavru-13295430-haberi/>https://www.haberler.com/ozluce-baraji-golu-ndeki-kafeslere-500-bin-yavru-13295430-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 20:55:00");
 
                     

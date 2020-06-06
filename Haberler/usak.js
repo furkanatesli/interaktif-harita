@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.681,29.403],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Banaz'da trafik kazasÄ±: 2 yaralÄ±</b><br>UÅŸak'Ä±n Banaz ilÃ§esinde iki otomobilin Ã§arpÄ±ÅŸmasÄ± sonucu 2 kiÅŸi yaralandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/banaz-da-trafik-kazasi-2-yarali-13286620-haberi/>https://www.haberler.com/banaz-da-trafik-kazasi-2-yarali-13286620-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:52:00");
+                        marker.bindPopup("<b>Uşak'ta otomobil ile traktörün çarpışması sonucu 3 ...</b><br>Uşak'ta otomobil ile traktörün çarpışması sonucu 3 kişi yaralandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/usak-ta-otomobil-ile-traktorun-carpismasi-sonucu-3-13295796-haberi/>https://www.haberler.com/usak-ta-otomobil-ile-traktorun-carpismasi-sonucu-3-13295796-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:43:00");
 
                     

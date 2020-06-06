@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.757,30.534],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Meteorolojiden saÄŸanak uyarÄ±sÄ±</b><br>BatÄ± Akdeniz, Ä°Ã§ Anadolu'nun doÄŸusu, Karadeniz BÃ¶lgesi ile Afyonkarahisar, Adana, Hatay, Osmaniye, Ankara, Ã‡ankÄ±rÄ±, KÄ±rÄ±kkale, Sinop ve GÃ¼mÃ¼ÅŸhane'de yarÄ±n gÃ¶k gÃ¼rÃ¼ltÃ¼lÃ¼ saÄŸanak bekleniyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/meteorolojiden-saganak-uyarisi-13286434-haberi/>https://www.haberler.com/meteorolojiden-saganak-uyarisi-13286434-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:13:00");
+                        marker.bindPopup("<b>Karantinada kaldığı yurttan ayrılırken öğrencilere ...</b><br>Irak'tan getirilerek yeni tip koronavirüs (Kovid-19) tedbirleri kapsamında Afyonkarahisar'daki yurda yerleştirilen vatandaşın, buradan ayrılırken öğrencilere harçlık ve mektup bıraktığı ortaya çıktı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karantinada-kaldigi-yurttan-ayrilirken-ogrencilere-13295822-haberi/>https://www.haberler.com/karantinada-kaldigi-yurttan-ayrilirken-ogrencilere-13295822-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:57:00");
 
                     

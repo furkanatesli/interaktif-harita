@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.326,36.554],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>2019 yÄ±lÄ±nda Samsun'da 15 bin 652 canlÄ± bebek doÄŸdu</b><br>TÃ¼rkiye Ä°statistik Kurumu (TÃœÄ°K) Samsun BÃ¶lge MÃ¼dÃ¼rlÃ¼ÄŸÃ¼ Orta Karadeniz BÃ¶lgesi'ndeki nÃ¼fus ve taÅŸÄ±t konusundaki istatistik verilerini paylaÅŸtÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/2019-yilinda-samsun-da-15-bin-652-canli-bebek-13286175-haberi/>https://www.haberler.com/2019-yilinda-samsun-da-15-bin-652-canli-bebek-13286175-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:27:00");
+                        marker.bindPopup("<b>Tokat'ta 30'a yakın köyü dolu vurdu, zarar büyük</b><br>Tokat'ta 30'a yakın köyü dolu vurdu, zarar büyük Tokat'ta yaklaşık 30 köyde etkili olan dolu yağışının ardından yapılan incelemelerde meyve ağaçları ve sebze fidelerinin büyük oranda zarar gördüğü tespit edildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tokat-ta-30-a-yakin-koyu-dolu-vurdu-zarar-buyuk-13294965-haberi/>https://www.haberler.com/tokat-ta-30-a-yakin-koyu-dolu-vurdu-zarar-buyuk-13294965-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 17:52:00");
 
                     

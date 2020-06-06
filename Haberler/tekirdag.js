@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.978,27.515],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>TEKÄ°RDAÄ ÅEHÄ°R HASTANESÄ°, AÄUSTOS AYINDA HASTA KABULÃœNE ...</b><br>TRAKYA'da nitelikli yatak sayÄ±sÄ±nÄ± artÄ±rÄ±p, saÄŸlÄ±k hizmetlerini Ã¼st seviyeye taÅŸÄ±yacak 480 yataklÄ± TekirdaÄŸ Åehir Hastanesi'nin, aÄŸustos ayÄ±nda hasta kabulÃ¼ne baÅŸlamasÄ± planlanÄ±yor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tekirdag-sehir-hastanesi-agustos-ayinda-hasta-13285232-haberi/>https://www.haberler.com/tekirdag-sehir-hastanesi-agustos-ayinda-hasta-13285232-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 09:04:00");
+                        marker.bindPopup("<b>Kızı tarafından istediği ayakkabıyı almadığı için ...</b><br>Tekirdağ'da pahalı bulduğu ayakkabıyı almadığı için kızı tarafından merdivenlerden itildiği iddia edilen anne, kızını karakolda affetti. İfadesi alınan anne, kızından şikayetçi olmadı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kizi-tarafindan-istedigi-ayakkabiyi-almadigi-icin-13295455-haberi/>https://www.haberler.com/kizi-tarafindan-istedigi-ayakkabiyi-almadigi-icin-13295455-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 21:09:00");
 
                     

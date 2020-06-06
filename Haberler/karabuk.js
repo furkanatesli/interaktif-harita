@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.197,32.623],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>KarabÃ¼k'te araÃ§ park etme yasaÄŸÄ± kaldÄ±rÄ±ldÄ±</b><br>KarabÃ¼k'te bazÄ± cadde ve sokaklara yeni tip korona virÃ¼sÃ¼ (Covid-19) salgÄ±nÄ± nedeniyle alÄ±nan tedbir kapsamÄ±nda getirilen araÃ§ park etme yasaÄŸÄ± kaldÄ±rÄ±ldÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karabuk-te-arac-park-etme-yasagi-kaldirildi-13286122-haberi/>https://www.haberler.com/karabuk-te-arac-park-etme-yasagi-kaldirildi-13286122-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:15:00");
+                        marker.bindPopup("<b>Karabük'ün il oluşunun 25. yılı</b><br>Karabük Valisi Fuat Gürel, Karabük'ün il oluşunun 25. yılı dolayısıyla mesaj yayımladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karabuk-un-il-olusunun-25-yili-13295527-haberi/>https://www.haberler.com/karabuk-un-il-olusunun-25-yili-13295527-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 21:45:00");
 
                     

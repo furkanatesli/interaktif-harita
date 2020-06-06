@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.375,33.776],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika 3. sayfa: Kastamonu'da ormanlÄ±k alanda ...</b><br>Son dakika haberlerine gÃ¶re Kastamonu'nun Daday ilÃ§esinde ormanlÄ±k alanda traktÃ¶r devrildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-3-sayfa-kastamonu-da-ormanlik-alanda-traktor-devrildi-1-13286439-haberi/>https://www.haberler.com/son-dakika-3-sayfa-kastamonu-da-ormanlik-alanda-traktor-devrildi-1-13286439-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:15:00");
+                        marker.bindPopup("<b>Tartıştığı karısını tabancayla vurdu</b><br>Kastamonu'nun Taşköprü ilçesinde bir kişi tartıştığı eşini tabancayla vurdu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tartistigi-karisini-tabancayla-vurdu-13295891-haberi/>https://www.haberler.com/tartistigi-karisini-tabancayla-vurdu-13295891-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:35:00");
 
                     

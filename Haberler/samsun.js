@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.289,36.332],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Samsun'da HTÅ operasyonu: 1 yabancÄ±ya gÃ¶zaltÄ±</b><br>Samsun'da Heyet Tahrir El Åam (HTÅ) terÃ¶r Ã¶rgÃ¼tÃ¼ne yÃ¶nelik jandarma tarafÄ±ndan dÃ¼zenlenen operasyonda Suriye uyruklu bir kiÅŸi gÃ¶zaltÄ±na alÄ±ndÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/samsun-da-hts-operasyonu-1-yabanciya-gozalti-13286482-haberi/>https://www.haberler.com/samsun-da-hts-operasyonu-1-yabanciya-gozalti-13286482-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:25:00");
+                        marker.bindPopup("<b>Cuma namazında avlular doldu, cemaat yollara taştı</b><br>Cuma namazında avlular doldu, cemaat yollara taştı Samsun'da cuma namazında cami avlularına sığmayan cemaat yol kenarlarına ve refüjlere taştı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/cuma-namazinda-avlular-doldu-cemaat-yollara-tasti-13295854-haberi/>https://www.haberler.com/cuma-namazinda-avlular-doldu-cemaat-yollara-tasti-13295854-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:14:00");
 
                     

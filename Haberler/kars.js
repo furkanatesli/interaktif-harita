@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.605,43.097],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>KarslÄ± vatandaÅŸlar maskesiz dÄ±ÅŸarÄ± Ã§Ä±kmÄ±yor</b><br>Yeni tip koronavirÃ¼s (Kovid-19) ile mÃ¼cadelede maskesiz sokaÄŸa Ã§Ä±kmanÄ±n yasak olduÄŸu Kars'ta, vatandaÅŸlarÄ±n kurallara uyduÄŸu gÃ¶zlendi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karsli-vatandaslar-maskesiz-disari-cikmiyor-13286511-haberi/>https://www.haberler.com/karsli-vatandaslar-maskesiz-disari-cikmiyor-13286511-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:31:00");
+                        marker.bindPopup("<b>Son dakika güncel: Fidanlar Kovid-19 ile mücadele ...</b><br>Son dakika haberi... Kars'ta yeni tip koronavirüsle (Kovid-19) mücadelede fedakarca görev yapan sağlıkçılar için hatıra ormanı oluşturuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-guncel-fidanlar-kovid-19-ile-mucadele-eden-kahraman-13295559-haberi/>https://www.haberler.com/son-dakika-guncel-fidanlar-kovid-19-ile-mucadele-eden-kahraman-13295559-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 21:59:00");
 
                     

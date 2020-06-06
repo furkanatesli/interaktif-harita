@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.650,35.834],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>2019 yÄ±lÄ±nda Samsun'da 15 bin 652 canlÄ± bebek doÄŸdu</b><br>TÃ¼rkiye Ä°statistik Kurumu (TÃœÄ°K) Samsun BÃ¶lge MÃ¼dÃ¼rlÃ¼ÄŸÃ¼ Orta Karadeniz BÃ¶lgesi'ndeki nÃ¼fus ve taÅŸÄ±t konusundaki istatistik verilerini paylaÅŸtÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/2019-yilinda-samsun-da-15-bin-652-canli-bebek-13286175-haberi/>https://www.haberler.com/2019-yilinda-samsun-da-15-bin-652-canli-bebek-13286175-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:27:00");
+                        marker.bindPopup("<b>Bulduğu parayı belediye görevlilerine teslim etti</b><br>Amasya'nın Taşova ilçesinde 20 yaşındaki Resul Şahin, yolda bulduğu parayı belediyeye teslim etti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/buldugu-parayi-belediye-gorevlilerine-teslim-etti-13294764-haberi/>https://www.haberler.com/buldugu-parayi-belediye-gorevlilerine-teslim-etti-13294764-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 17:07:00");
 
                     

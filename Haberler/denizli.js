@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.771,29.086],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika haberi: Denizli'de 2019 yÄ±lÄ±nda 3 bin 202 ...</b><br>Son dakika geliÅŸmesine gÃ¶re TÃ¼rkiye Ä°statistik Kurumu (TÃœÄ°K) verilerine gÃ¶re, 2019 yÄ±lÄ±nda Denizli'de 3 bin 202 adet Ã¶lÃ¼mlÃ¼ ve yaralanmalÄ± trafik kazasÄ± meydana geldi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberi-denizli-de-2019-yilinda-3-bin-202-olumlu-ve-13286617-haberi/>https://www.haberler.com/son-dakika-haberi-denizli-de-2019-yilinda-3-bin-202-olumlu-ve-13286617-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:52:00");
+                        marker.bindPopup("<b>Cuma namazında cemaat cami bahçelerinin dışına taştı</b><br>Cuma namazında cemaat cami bahçelerinin dışına taştı Cuma namazı sosyal mesafe kurallarına göre eda edildi Korona virüs önlemleri kapsamında 2'inci defa eda edilen Cuma namazında Denizli'de bir çok camide cemaat avluya sığmayarak kaldırımlara kadar taştı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/cuma-namazinda-cemaat-cami-bahcelerinin-disina-13295683-haberi/>https://www.haberler.com/cuma-namazinda-cemaat-cami-bahcelerinin-disina-13295683-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:56:00");
 
                     

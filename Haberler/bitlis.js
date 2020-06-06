@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.400,42.108],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Bitlis'te 2 terÃ¶rist daha etkisiz hale getirildi</b><br>Ä°Ã§iÅŸleri BakanlÄ±ÄŸÄ±, Bitlis kÄ±rsalÄ±nda Ä°l Jandarma KomutanlÄ±ÄŸÄ±nca dÃ¼zenlenen operasyonda 2 terÃ¶ristin etkisiz hale getirildiÄŸini bildirdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bitlis-te-2-terorist-daha-etkisiz-hale-getirildi-13286637-haberi/>https://www.haberler.com/bitlis-te-2-terorist-daha-etkisiz-hale-getirildi-13286637-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:55:00");
+                        marker.bindPopup("<b>Ahlat'ta 'Süper Ay' görüntülendi</b><br>Ahlat'ta 'Süper Ay' görüntülendi Bitlis'in Ahlat ilçesinde 'Süper Ay' görenleri kendine hayran bıraktırdı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ahlat-ta-super-ay-goruntulendi-13295864-haberi/>https://www.haberler.com/ahlat-ta-super-ay-goruntulendi-13295864-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:20:00");
 
                     

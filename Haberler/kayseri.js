@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.724,35.485],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika haberleri! Ã‡ocuk yÃ¼zÃ¼nden Ã§Ä±kan kavgada ...</b><br>Son dakika haberleri... Kayseri'nin Melikgazi ilÃ§esinde Ã§adÄ±rda yaÅŸayan aileler arasÄ±nda kavga Ã§Ä±ktÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-cocuk-yuzunden-cikan-kavgada-aileler-birbirine-13286634-haberi/>https://www.haberler.com/son-dakika-haberleri-cocuk-yuzunden-cikan-kavgada-aileler-birbirine-13286634-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:55:00");
+                        marker.bindPopup("<b>Kayseri ve Niğde'de Cuma namazında avlular doldu taştı</b><br>Kayseri ve Niğde'de Cuma namazında avlular doldu taştı Korona virüs salgını nedeniyle alınan önlemlerin ardından geçilen normalleşme sürecinde cemaatle kılınan cuma namazını Kayserili ve Niğdeli vatandaşlar sosyal mesafe ve maske kurallarına uyarak kıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kayseri-ve-nigde-de-cuma-namazinda-avlular-doldu-13295687-haberi/>https://www.haberler.com/kayseri-ve-nigde-de-cuma-namazinda-avlular-doldu-13295687-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:58:00");
 
                     

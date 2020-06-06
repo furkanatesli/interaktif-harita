@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.022,40.519],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Rize'de ÅŸantiye yangÄ±nÄ±</b><br>Rize'nin Ã‡ayeli ilÃ§esinde bir inÅŸaat ÅŸantiyesinde Ã§Ä±kan yangÄ±nda iÅŸÃ§ilerin yaÅŸam alanÄ± kullanÄ±lamaz hale geldi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/rize-de-santiye-yangini-13285527-haberi/>https://www.haberler.com/rize-de-santiye-yangini-13285527-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 10:18:00");
+                        marker.bindPopup("<b>Son Dakika | Rize-Artvin Havalimanı inşaatında üst ...</b><br>Son dakika güncel haberi: Türkiye'nin Ordu-Giresun Havalimanı'ndan sonra denize dolgu yapılarak inşa edilen 2. havalimanı olacak olan Rize-Artvin Havalimanı inşaatının dolgu çalışmalarının yanı sıra üst yapı çalışmaları da sürüyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-rize-artvin-havalimani-insaatinda-ust-yapilar-13294812-haberi/>https://www.haberler.com/son-dakika-rize-artvin-havalimani-insaatinda-ust-yapilar-13294812-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 17:18:00");
 
                     

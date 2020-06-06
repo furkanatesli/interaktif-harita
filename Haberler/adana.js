@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.002,35.326],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Adana Ticaret BorsasÄ±</b><br>Adana Ticaret BorsasÄ±nda buÄŸdayÄ±n kilogramÄ± en yÃ¼ksek 1,70 liradan satÄ±ldÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/adana-ticaret-borsasi-2-13286315-haberi/>https://www.haberler.com/adana-ticaret-borsasi-2-13286315-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:51:00");
+                        marker.bindPopup("<b>Ceyhan'da terör propagandası yapan 4 kişi gözaltına ...</b><br>Adana'nın Ceyhan ilçesinde PKK/KCK-PYD/YPG terör örgütünün propagandasını yapan 4 kişi yakalandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ceyhan-da-teror-propagandasi-yapan-4-kisi-13295803-haberi/>https://www.haberler.com/ceyhan-da-teror-propagandasi-yapan-4-kisi-13295803-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:48:00");
 
                     

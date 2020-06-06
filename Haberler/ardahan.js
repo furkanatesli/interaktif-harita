@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.109,42.704],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Ardahan'da STK temsilcilerinden "meralarÄ±n korunmasÄ±" ...</b><br>Ardahan'daki sivil toplum kuruluÅŸ temsilcileri ile mahalle muhtarlarÄ±, ValiliÄŸin kontrolsÃ¼z hayvan gÃ¶Ã§Ã¼ veya aÅŸÄ±rÄ± otlatma ile zarar gÃ¶ren meralarÄ±n korunup Ã¶ncelikle yÃ¶re halkÄ±na tahsis edilmesi yÃ¶nÃ¼ndeki kararÄ±na destek verdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ardahan-da-stk-temsilcilerinden-meralarin-13286430-haberi/>https://www.haberler.com/ardahan-da-stk-temsilcilerinden-meralarin-13286430-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:13:00");
+                        marker.bindPopup("<b>Doğu Anadolu'daki 4 ilde gök gürültülü sağanak bekleniyor</b><br>Doğu Anadolu Bölgesi'ndeki Erzurum, Erzincan, Kars ve Ardahan'da gök gürültülü sağanağın etkili olacağı bildirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-anadolu-daki-4-ilde-gok-gurultulu-saganak-13293284-haberi/>https://www.haberler.com/dogu-anadolu-daki-4-ilde-gok-gurultulu-saganak-13293284-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 11:59:00");
 
                     

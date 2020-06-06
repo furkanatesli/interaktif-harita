@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.770,30.555],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Demirel'in kÃ¶yÃ¼nde 1 tarÄ±m iÅŸÃ§isi karantina, 11 kiÅŸi ...</b><br>TÃœRKÄ°YE'nin 9'uncu CumhurbaÅŸkanÄ± SÃ¼leyman Demirel'in doÄŸup, bÃ¼yÃ¼dÃ¼ÄŸÃ¼ Isparta'nÄ±n Atabey ilÃ§esine baÄŸlÄ± Ä°slamkÃ¶y'e ÅanlÄ±urfa'dan gelen tarÄ±m iÅŸÃ§isinde koronavirÃ¼s tespit edildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/demirel-in-koyunde-1-tarim-iscisi-karantina-11-13286426-haberi/>https://www.haberler.com/demirel-in-koyunde-1-tarim-iscisi-karantina-11-13286426-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:12:00");
+                        marker.bindPopup("<b>Isparta'da düğünlerde kişiye özel vakumlanmış yemek ...</b><br>Isparta'da düğünlerde kişiye özel vakumlanmış yemek dönemi Düğün yemeklerine koronavirüs etkisi Isparta'da firmalar düğünlerde kişiye özel paketli yemek hizmeti sunacak Isparta'da yeni tip korona virüs salgını süreciyle birlikte düğünlerdeki yemek alışkanları da değişiyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/isparta-da-dugunlerde-kisiye-ozel-vakumlanmis-13295904-haberi/>https://www.haberler.com/isparta-da-dugunlerde-kisiye-ozel-vakumlanmis-13295904-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:46:00");
 
                     

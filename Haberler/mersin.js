@@ -1,5 +1,5 @@
 
                         var marker = L.marker([36.812,34.634],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Ä°zolasyon kuralÄ±na uymadÄ±, 12 kiÅŸiye virÃ¼s bulaÅŸtÄ±rdÄ±</b><br>MERSÄ°N'den Van'Ä±n TuÅŸba ilÃ§esinde gelen ve otobÃ¼s firmasÄ±nda ÅŸofÃ¶r olarak Ã§alÄ±ÅŸan 1 kiÅŸi, izolasyon kurallarÄ±na uymadÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/izolasyon-kuralina-uymadi-12-kisiye-virus-13286489-haberi/>https://www.haberler.com/izolasyon-kuralina-uymadi-12-kisiye-virus-13286489-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:27:00");
+                        marker.bindPopup("<b>Mersin'de fuhuş operasyonu</b><br>Mersin'de fuhuş operasyonu Mersin'in Aydıncık ilçesinde jandarma ekiplerince düzenlenen fuhuş operasyonunda gözaltına alınan 9 şüpheliden 3'ü tutuklandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/mersin-de-fuhus-operasyonu-2-13295896-haberi/>https://www.haberler.com/mersin-de-fuhus-operasyonu-2-13295896-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:40:00");
 
                     

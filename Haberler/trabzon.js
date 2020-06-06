@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.005,39.718],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>SÃ¼mela ManastÄ±rÄ± iÃ§in hedef UNESCO'da kalÄ±cÄ± olmak</b><br>Trabzon BÃ¼yÃ¼kÅŸehir Belediye BaÅŸkanÄ± Murat ZorluoÄŸlu, yaptÄ±ÄŸÄ± yazÄ±lÄ± aÃ§Ä±klamada, KÃ¼ltÃ¼r ve Turizm BakanÄ± Mehmet Nuri Ersoy'un, video konferans yÃ¶ntemiyle gerÃ§ekleÅŸtirdiÄŸi toplantÄ±ya katÄ±ldÄ±ÄŸÄ±nÄ± belirtti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sumela-manastiri-icin-hedef-unesco-da-kalici-olmak-13286602-haberi/>https://www.haberler.com/sumela-manastiri-icin-hedef-unesco-da-kalici-olmak-13286602-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:51:00");
+                        marker.bindPopup("<b>Son Dakika | Oksijen tüpü silah sayıldı</b><br>Son dakika haberi: Oksijen tüpü silah sayıldı Trabzon'da kaybettiği babasının ardından hastanede elindeki oksijen tüpü ile doktorlara saldırdığı iddiasıyla ev hapsi kararı verilen şahıs ile ilgili hazırlanan iddianame mahkeme tarafından kabul edildi İddianamede şahsın elindeki oksijen tüpü silah...<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-oksijen-tupu-silah-sayildi-13295884-haberi/>https://www.haberler.com/son-dakika-oksijen-tupu-silah-sayildi-13295884-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:32:00");
 
                     

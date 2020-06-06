@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.183,41.828],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Yusufeli'ndeki yangÄ±nda 7 ev kullanÄ±lamaz hale gelirken, ...</b><br>Yusufeli'ndeki yangÄ±nda 7 ev kullanÄ±lamaz hale gelirken, yangÄ±ndan geriye harabe bir kÃ¶y kaldÄ± Artvin'in Yusufeli ilÃ§esi Yaylalar kÃ¶yÃ¼nde dÃ¼n gece Ã§Ä±kan yangÄ±nda 7 ahÅŸap yandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yusufeli-ndeki-yanginda-7-ev-kullanilamaz-hale-13286591-haberi/>https://www.haberler.com/yusufeli-ndeki-yanginda-7-ev-kullanilamaz-hale-13286591-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:48:00");
+                        marker.bindPopup("<b>Karadenizli kafe işletmecisinden ilginç sosyal mesafe ...</b><br>Karadenizli kafe işletmecisinden ilginç sosyal mesafe önlemi İşletme sahibi sosyal mesafeyi sağlamak için bir masa boşluk bırakmak yerine masalara cansız mankenler yerleştirdi Korona virüs tedbirleri sonrasında restoran ve kafelerin 1 Haziran itibariyle Türkiye genelinde açılmasının...<br><b>Kaynak :</b> <a href=https://www.haberler.com/karadenizli-kafe-isletmecisinden-ilginc-sosyal-13295900-haberi/>https://www.haberler.com/karadenizli-kafe-isletmecisinden-ilginc-sosyal-13295900-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:44:00");
 
                     

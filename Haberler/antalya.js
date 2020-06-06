@@ -1,5 +1,5 @@
 
                         var marker = L.marker([36.900,30.693],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Karantinada kalan babaya doÄŸum gÃ¼nÃ¼ sÃ¼rprizi</b><br>Antalya'da yaÅŸayan DoÄŸukan KÄ±ndÄ±r, korona virÃ¼sten dolayÄ± karantina altÄ±na alÄ±nan babasÄ±na doÄŸum gÃ¼nÃ¼ sÃ¼rprizi yaptÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karantinada-kalan-babaya-dogum-gunu-surprizi-13286635-haberi/>https://www.haberler.com/karantinada-kalan-babaya-dogum-gunu-surprizi-13286635-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:55:00");
+                        marker.bindPopup("<b>Antalya'da bir kişi av tüfeğiyle vurularak öldürüldü</b><br>Antalya'nın Korkuteli ilçesinde bir kişi av tüfeğiyle vurularak öldürüldü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/antalya-da-bir-kisi-av-tufegiyle-vurularak-13295662-haberi/>https://www.haberler.com/antalya-da-bir-kisi-av-tufegiyle-vurularak-13295662-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:49:00");
 
                     

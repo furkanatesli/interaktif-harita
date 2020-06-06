@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.916,40.222],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Sur olaylarÄ±nda zarar gÃ¶ren 5 yÄ±ldÄ±zlÄ± otel tadilata ...</b><br>DiyarbakÄ±r'Ä±n Sur ilÃ§esindeki hendek operasyonlarÄ±nda terÃ¶ristler tarafÄ±ndan tahribata uÄŸratÄ±lan kentin ilk 5 yÄ±ldÄ±zlÄ± oteli, huzur ve gÃ¼ven ortamÄ±nÄ±n yeniden inÅŸa edilmesi ile birlikte tadilata alÄ±ndÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sur-olaylarinda-zarar-goren-5-yildizli-otel-13286622-haberi/>https://www.haberler.com/sur-olaylarinda-zarar-goren-5-yildizli-otel-13286622-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:53:00");
+                        marker.bindPopup("<b>Diyarbakır OSB'de 5'inci etap sevinci</b><br>Diyarbakır Organize Sanayi Bölgesi'nde (OSB), 5'inci etabın imara açılması için çalışma başlatıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/diyarbakir-osb-de-5-inci-etap-sevinci-13295645-haberi/>https://www.haberler.com/diyarbakir-osb-de-5-inci-etap-sevinci-13295645-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:39:00");
 
                     

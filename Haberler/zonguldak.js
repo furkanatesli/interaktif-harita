@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.452,31.789],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>EkmeÄŸin iÃ§inden Ã§Ä±kanlar mide bulandÄ±rdÄ±</b><br>Zonguldak'Ä±n Ã‡aycuma ilÃ§esinde ekmekten Ã§Ä±kanlar mide bulandÄ±rdÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ekmegin-icinden-cikanlar-mide-bulandirdi-13286552-haberi/>https://www.haberler.com/ekmegin-icinden-cikanlar-mide-bulandirdi-13286552-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:41:00");
+                        marker.bindPopup("<b>Testi pozitif çıkan madencinin mahallesi karantinaya ...</b><br>Zonguldak'ın Ereğli ilçesinde korona virüs testi pozitif çıkan maden işçisinin yaşadığı Akköy Köyü'ne bağlı İbrahimce Mahallesi karantinaya alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/testi-pozitif-cikan-madencinin-mahallesi-13295797-haberi/>https://www.haberler.com/testi-pozitif-cikan-madencinin-mahallesi-13295797-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:44:00");
 
                     

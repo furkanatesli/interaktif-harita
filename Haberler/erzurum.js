@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.906,41.273],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Erzincan'da otomobilin Ã¶nÃ¼nde seyreden araca Ã§arpmasÄ± ...</b><br>Erzincan'da otomobilin Ã¶nÃ¼nde seyreden araca Ã§arpmasÄ± sonucu 2'si Ã§ocuk 5 kiÅŸi yaralandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/erzincan-da-otomobilin-onunde-seyreden-araca-13286491-haberi/>https://www.haberler.com/erzincan-da-otomobilin-onunde-seyreden-araca-13286491-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:27:00");
+                        marker.bindPopup("<b>Erzurum Ticaret Borsası</b><br>Erzurum Ticaret Borsasında (ETB) patatesin kilogramı ortalama 2,01 liradan işlem gördü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/erzurum-ticaret-borsasi-13294556-haberi/>https://www.haberler.com/erzurum-ticaret-borsasi-13294556-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 16:23:00");
 
                     

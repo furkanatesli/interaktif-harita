@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.615,27.425],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>DHA YURT BÜLTEN - 8</b><br>Köpeği fırça sapıyla döven kişiye 4 bin 495 lira cezaMANİSA'nın Alaşehir ilçesinde, bir sokak köpeğine ayakkabısını fırlatıp, fırça sapıyla dövdüğü için gözaltına alınan ve polisteki işlemlerinin ardından adli kontrol şartıyla serbest bırakılan mobilya mağazası işleten Hüseyin A.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dha-yurt-bulten-8-13286440-haberi/>https://www.haberler.com/dha-yurt-bulten-8-13286440-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:15:00");
+                        marker.bindPopup("<b>Son dakika haber... Manisa'da b��akl� kavga: 1 �l�</b><br>Son dakika 3. sayfa haberine g�re Manisa'n�n Soma il�esinde meydana gelen b��akl� kavgada 1 ki�i ya�am�n� yitirdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haber-manisa-da-bicakli-kavga-1-olu-13295877-haberi/>https://www.haberler.com/son-dakika-haber-manisa-da-bicakli-kavga-1-olu-13295877-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:26:00");
 
                     

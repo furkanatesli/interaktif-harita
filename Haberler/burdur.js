@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.724,30.288],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika haber | Burdur'da yeni toplu taÅŸÄ±ma kurallarÄ±</b><br>Gelen son dakika haberine gÃ¶re Burdur Ä°l Umumi HÄ±fzÄ±ssÄ±hha Kurulu tarafÄ±ndan ÅŸehir iÃ§i ve ÅŸehirler arasÄ± toplu taÅŸÄ±ma araÃ§larÄ±na yÃ¶nelik yeni Korona virÃ¼s Ã¶nlemleri alÄ±ndÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haber-burdur-da-yeni-toplu-tasima-kurallari-13286476-haberi/>https://www.haberler.com/son-dakika-haber-burdur-da-yeni-toplu-tasima-kurallari-13286476-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:23:00");
+                        marker.bindPopup("<b>Çocuklar güzel havanın tadını çıkardı</b><br>Antalya, Muğla, Isparta ve Burdur'da, yeni tip koronavirüs (Kovid-19) tedbirleri kapsamında sokağa çıkmaları kısıtlanan 18 yaş ve altı çocuklar, 6 saatlik serbestlikte parklarda güneşli havanın tadını çıkardı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/cocuklar-guzel-havanin-tadini-cikardi-13294921-haberi/>https://www.haberler.com/cocuklar-guzel-havanin-tadini-cikardi-13294921-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 17:42:00");
 
                     

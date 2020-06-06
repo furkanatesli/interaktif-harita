@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.768,29.968],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>YaÅŸlÄ± kadÄ±n 3 metrelik istinat duvarÄ±ndan aÄŸaÃ§lÄ±k ...</b><br>YaÅŸlÄ± kadÄ±n 3 metrelik istinat duvarÄ±ndan aÄŸaÃ§lÄ±k alana dÃ¼ÅŸtÃ¼ Yaralanan kadÄ±nÄ± dÃ¼ÅŸtÃ¼ÄŸÃ¼ yerden itfaiye ekipleri kurtardÄ± Kocaeli'nin Gebze ilÃ§esinde sokaktan yÃ¼rÃ¼rken dengesini kaybedip 3 metrelik istinat duvarÄ±ndan aÄŸaÃ§lÄ±k alana dÃ¼ÅŸen 69 yaÅŸÄ±ndaki kadÄ±n itfaiye ekipleri tarafÄ±ndan kurtarÄ±ldÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yasli-kadin-3-metrelik-istinat-duvarindan-agaclik-13286263-haberi/>https://www.haberler.com/yasli-kadin-3-metrelik-istinat-duvarindan-agaclik-13286263-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:42:00");
+                        marker.bindPopup("<b>Hafta sonunu İstanbul dışında geçirmek isteyenler ...</b><br>SOKAĞA çıkma kısıtlaması kararının iptal edilmesinin ardından hafta sonunu İstanbul dışında geçirmek isteyenler, TEM yolu ve D-100 yolu Kocaeli geçişinde yoğunluk oluşmasına neden oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/hafta-sonunu-istanbul-disinda-gecirmek-isteyenler-13295768-haberi/>https://www.haberler.com/hafta-sonunu-istanbul-disinda-gecirmek-isteyenler-13295768-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:33:00");
 
                     

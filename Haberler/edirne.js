@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.675,26.559],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Korona sonrasÄ± 'umut' geÃ§iÅŸleri yeniden baÅŸladÄ±</b><br>Korona sonrasÄ± 'umut' geÃ§iÅŸleri yeniden baÅŸladÄ± Botlarla 'Nonstop' Yunanistan'a MeriÃ§ Nehri Ã¼zerinden 'umut' yolculuÄŸu Edirne, gÃ¶Ã§menlerin Avrupa hayaliyle Ã§Ä±ktÄ±klarÄ± 'umut' yolculuÄŸunda vazgeÃ§ilmez kÃ¶prÃ¼leri olmaya devam ediyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/korona-sonrasi-umut-gecisleri-yeniden-basladi-13286499-haberi/>https://www.haberler.com/korona-sonrasi-umut-gecisleri-yeniden-basladi-13286499-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:28:00");
+                        marker.bindPopup("<b>Türk avcılardan 'komşuya göz dağı'</b><br>Yunanistan tarafından 10-12 kişilik askeri kamuflajlı bir grup tarafından Meriç Nehri'ndeki polis harekat botuna taciz ateşi açıldığının açıklanmasının ardından Edirneli avcılar, 'Edirne'deki avcılar olarak biz Yunanistan'a yeteriz. Ordumuzun yorulmasını gerek yok' açıklamasında bulundu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/turk-avcilardan-komsuya-goz-dagi-13295698-haberi/>https://www.haberler.com/turk-avcilardan-komsuya-goz-dagi-13295698-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:03:00");
 
                     

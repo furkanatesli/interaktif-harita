@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.073,36.255],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Ãœzerine aÄŸaÃ§ dalÄ± dÃ¼ÅŸen PTT Ã§alÄ±ÅŸanÄ± yaralandÄ±</b><br>Osmaniye'de, Kadirli KaymakamlÄ±ÄŸÄ± bahÃ§esinde kesimi yapÄ±lan aÄŸaÃ§ dalÄ± Ã¼zerine dÃ¼ÅŸen PTT Ã§alÄ±ÅŸanÄ± kadÄ±n yaralandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/uzerine-agac-dali-dusen-ptt-calisani-yaralandi-13286200-haberi/>https://www.haberler.com/uzerine-agac-dali-dusen-ptt-calisani-yaralandi-13286200-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:31:00");
+                        marker.bindPopup("<b>Doğu Akdeniz'de çocuklar güneşli havanın tadını çıkardı ...</b><br>Adana, Mersin, Hatay ve Osmaniye'de yeni tip koronavirüs (Kovid-19) tedbirleri kapsamında sokağa çıkmaları kısıtlanan 18 yaş ve altı çocuklar, getirilen 6 saatlik serbestlikle dışarıda olmanın keyfini yaşadı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-akdeniz-de-cocuklar-gunesli-havanin-tadini-13294564-haberi/>https://www.haberler.com/dogu-akdeniz-de-cocuklar-gunesli-havanin-tadini-13294564-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 16:25:00");
 
                     

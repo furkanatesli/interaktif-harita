@@ -1,5 +1,5 @@
 
                         var marker = L.marker([42.026,35.150],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>600 yÄ±llÄ±k anÄ±t aÄŸacÄ± ziyaretÃ§ilerini bekliyor</b><br>600 yÄ±llÄ±k anÄ±t aÄŸacÄ± ziyaretÃ§ilerini bekliyor Sinop'un Erfelek ilÃ§esinde anÄ±t aÄŸacÄ± olarak tescillenen 600 yÄ±llÄ±k kestane aÄŸacÄ±, ziyaretÃ§ilerini bekliyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/600-yillik-anit-agaci-ziyaretcilerini-bekliyor-13285594-haberi/>https://www.haberler.com/600-yillik-anit-agaci-ziyaretcilerini-bekliyor-13285594-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 10:34:00");
+                        marker.bindPopup("<b>Sinop'ta salgın sürecindeki ikinci cuma namazı kılındı</b><br>Sinop'ta salgın sürecindeki ikinci cuma namazı kılındı Sinop'ta korona virüs salgını nedeniyle cemaatle kısıtlamalı bütünleşen Alaaddin Camisi'nde ikinci defa cuma namazı kılındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sinop-ta-salgin-surecindeki-ikinci-cuma-namazi-13294443-haberi/>https://www.haberler.com/sinop-ta-salgin-surecindeki-ikinci-cuma-namazi-13294443-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 15:59:00");
 
                     

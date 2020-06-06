@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.600,33.616],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>20 yÄ±ldÄ±r yarasalar Ã¼zerinde Ã§alÄ±ÅŸan biyologdan "yarasalarÄ± ...</b><br>Ã‡ankÄ±rÄ± Karatekin Ãœniversitesi Dr. Ã–ÄŸr. Ãœyesi ve Yaban HayatÄ± Uygulama ve AraÅŸtÄ±rma Merkez MÃ¼dÃ¼rÃ¼ Tarkan Yorulmaz, yarasalarÄ±n veya diÄŸer yaban hayvanlarÄ±nÄ±n karÅŸÄ±laÅŸÄ±lan salgÄ±nlarÄ±n suÃ§lusu ilan edilmesinin, insanÄ±n dÃ¼nyadaki yaÅŸamÄ±nÄ± tehdit ettiÄŸini ve ileride telafisi mÃ¼mkÃ¼n olmayan...<br><b>Kaynak :</b> <a href=https://www.haberler.com/20-yildir-yarasalar-uzerinde-calisan-biyologdan-13285969-haberi/>https://www.haberler.com/20-yildir-yarasalar-uzerinde-calisan-biyologdan-13285969-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 11:47:00");
+                        marker.bindPopup("<b>Çankırı'da 600 binin üzerinde maske dağıtıldı</b><br>Çankırı Valiliği, korona virüs (Covid-19) süreci boyunca kent genelinde 600 binin üzerinde koruyucu maske dağıtıldığını açıkladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/cankiri-da-600-binin-uzerinde-maske-dagitildi-13291673-haberi/>https://www.haberler.com/cankiri-da-600-binin-uzerinde-maske-dagitildi-13291673-haberi/</a><br><b>Paylasim Tarihi : <b>4.06.2020 19:10:00");
 
                     

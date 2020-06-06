@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.914,38.388],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>BittiÄŸinde DoÄŸu Karadeniz'in Pamukkalesi olacak</b><br>Giresun'un Dereli ilÃ§esi PÄ±narlar kÃ¶yÃ¼nde yeraltÄ±ndan Ã§Ä±kan sodalÄ± suyun oluÅŸturduÄŸu GÃ¶ksu Travertenleri Projesi tamamlandÄ±ÄŸÄ±nda Pamukkale'yi andÄ±ran gÃ¶rÃ¼ntÃ¼sÃ¼ ile yerli ve yabancÄ± turistlerin ilgisini Ã§ekmesi bekleniyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bittiginde-dogu-karadeniz-in-pamukkalesi-olacak-13285905-haberi/>https://www.haberler.com/bittiginde-dogu-karadeniz-in-pamukkalesi-olacak-13285905-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 11:36:00");
+                        marker.bindPopup("<b>Son Dakika | Rize-Artvin Havalimanı inşaatında üst ...</b><br>Son dakika güncel haberi: Türkiye'nin Ordu-Giresun Havalimanı'ndan sonra denize dolgu yapılarak inşa edilen 2. havalimanı olacak olan Rize-Artvin Havalimanı inşaatının dolgu çalışmalarının yanı sıra üst yapı çalışmaları da sürüyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-rize-artvin-havalimani-insaatinda-ust-yapilar-13294812-haberi/>https://www.haberler.com/son-dakika-rize-artvin-havalimani-insaatinda-ust-yapilar-13294812-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 17:18:00");
 
                     

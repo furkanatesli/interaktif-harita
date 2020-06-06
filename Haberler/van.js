@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.508,43.375],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Ä°zolasyon kuralÄ±na uymadÄ±, 12 kiÅŸiye virÃ¼s bulaÅŸtÄ±rdÄ±(2)</b><br>2 EV DAHA KARANTÄ°NAYA ALINDIVan'Ä±n TuÅŸba ilÃ§esinin Kalecik Mahallesi'nde koronavirÃ¼s tespit edilen ve izolasyon kurallarÄ±na uymayarak 12 kiÅŸiye bulaÅŸtÄ±ran otobÃ¼s ÅŸÃ¶fÃ¶rÃ¼nÃ¼n ziyaret ettiÄŸi Gedikbulak Mahallesi'ndeki 2 ev daha karantinaya alÄ±ndÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/izolasyon-kuralina-uymadi-12-kisiye-virus-13286590-haberi/>https://www.haberler.com/izolasyon-kuralina-uymadi-12-kisiye-virus-13286590-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:48:00");
+                        marker.bindPopup("<b>Aracında 2 kilo uyuşturucu ele geçirilen DİSA-DER ...</b><br>VAN'da, jandarma ekiplerince gerçekleştirilen yol kontrolünde Van Dil Kültür ve Sanat Araştırmaları Derneği (DİSA-DER) Başkanı C.A.'nın aracında yapılan aramada motor kısmına gizlenmiş 2 kilo metamfetamin maddesi ele geçirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/aracinda-2-kilo-uyusturucu-ele-gecirilen-disa-der-13295843-haberi/>https://www.haberler.com/aracinda-2-kilo-uyusturucu-ele-gecirilen-disa-der-13295843-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:08:00");
 
                     

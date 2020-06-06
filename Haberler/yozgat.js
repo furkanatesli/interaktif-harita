@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.820,34.809],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Yozgat'ta kÄ±raathanede oyun oynayan 9 kiÅŸiye "sosyal ...</b><br>Yozgat'Ä±n Sorgun ilÃ§esinde bir kÄ±raathanede, sosyal mesafe kuralÄ±nÄ± ihlal ederek okey oynayan 9 kiÅŸiye, toplam 3 bin 528 lira idari ceza kesildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yozgat-ta-kiraathanede-oyun-oynayan-9-kisiye-13286577-haberi/>https://www.haberler.com/yozgat-ta-kiraathanede-oyun-oynayan-9-kisiye-13286577-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:45:00");
+                        marker.bindPopup("<b>Yozgat'ın Saraykent ilçesi doğal gaza kavuşuyor</b><br>Yozgat'ın Saraykent ilçesinde doğal gaz çalışmaları düzenlenen törenle başladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yozgat-in-saraykent-ilcesi-dogal-gaza-kavusuyor-13295537-haberi/>https://www.haberler.com/yozgat-in-saraykent-ilcesi-dogal-gaza-kavusuyor-13295537-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 21:49:00");
 
                     

@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.842,31.157],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika haberleri! Kanallardan taÅŸan sular bahÃ§eleri, ...</b><br>Son dakika gÃ¼ncel haberi: DÃ¼zce'de gece saatlerinden itibaren etkili olan saÄŸanak yaÄŸÄ±ÅŸlar nedeniyle merkeze baÄŸlÄ± kÃ¶ylerde su baskÄ±nlarÄ± meydana geldi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-kanallardan-tasan-sular-bahceleri-tarlalari-basti-13286189-haberi/>https://www.haberler.com/son-dakika-haberleri-kanallardan-tasan-sular-bahceleri-tarlalari-basti-13286189-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:29:00");
+                        marker.bindPopup("<b>Son dakika haberleri | Düzce'de bakkala inek girdi</b><br>Son dakika güncel haberi: Düzce'de bakkala inek girdi DÜZCE'nin Akçakoca ilçesinde sahibi tarafından ahıra götürülen inek köy bakkalına girdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-duzce-de-bakkala-inek-girdi-13295842-haberi/>https://www.haberler.com/son-dakika-haberleri-duzce-de-bakkala-inek-girdi-13295842-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:08:00");
 
                     

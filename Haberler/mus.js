@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.739,41.496],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>MuÅŸ'ta, bazÄ± bÃ¶lgelerde maske zorunluluÄŸu</b><br>MUÅ'ta, koronavirÃ¼sle mÃ¼cadele kapsamÄ±nda, belli alanlarda maske takma zorunluluÄŸu getirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/mus-ta-bazi-bolgelerde-maske-zorunlulugu-13286551-haberi/>https://www.haberler.com/mus-ta-bazi-bolgelerde-maske-zorunlulugu-13286551-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:40:00");
+                        marker.bindPopup("<b>Muş'ta 2 köy Kovid-19 tedbirleri kapsamında karantinaya ...</b><br>Muş'un Bulanık ve Hasköy ilçesinde 2 köy, yeni tip koronavirüs (Kovid-19) tedbirleri kapsamında karantinaya alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/mus-ta-2-koy-kovid-19-tedbirleri-kapsaminda-13295650-haberi/>https://www.haberler.com/mus-ta-2-koy-kovid-19-tedbirleri-kapsaminda-13295650-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:43:00");
 
                     

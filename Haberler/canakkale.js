@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.150,26.414],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Gelibolu Tarihi Alan BaÅŸkanÄ± KaÅŸdemir: "BurasÄ± dalÄ±ÅŸ ...</b><br>Ã‡anakkale SavaÅŸlarÄ± Gelibolu Tarihi Alan BaÅŸkanÄ± Ä°smail KaÅŸdemir, Ã‡anakkale BoÄŸazÄ±'ndaki ve aÃ§Ä±klarÄ±ndaki batÄ±klarÄ±n dalÄ±ÅŸ turizmine kazandÄ±rÄ±lmasÄ± projesinin sÃ¼rdÃ¼ÄŸÃ¼nÃ¼ belirterek, 'BurasÄ± dalÄ±ÅŸ iÃ§in Ã§ok Ã¶nemli bir merkez olacak.<br><b>Kaynak :</b> <a href=https://www.haberler.com/gelibolu-tarihi-alan-baskani-kasdemir-burasi-dalis-13285672-haberi/>https://www.haberler.com/gelibolu-tarihi-alan-baskani-kasdemir-burasi-dalis-13285672-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 10:52:00");
+                        marker.bindPopup("<b>Lapseki devi kiraz, çay bardağına sığmıyor</b><br>TÜRKİYE'nin önemli kiraz üretim merkezlerinden Çanakkale'nin Lapseki ilçesinde, lezzeti ve iriliğiyle meşhur olan 'Lapseki devi' türü kiraz, çay bardağına sığmıyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/lapseki-devi-kiraz-cay-bardagina-sigmiyor-13295680-haberi/>https://www.haberler.com/lapseki-devi-kiraz-cay-bardagina-sigmiyor-13295680-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:55:00");
 
                     

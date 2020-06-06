@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.765,30.407],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Sakarya'da yolcu taÅŸÄ±yan araÃ§lar denetlendi</b><br>Sakarya'da yolcu taÅŸÄ±yan araÃ§lar denetlendiSAKARYA'da, trafik ekipleri ÅŸehir iÃ§i ve ÅŸehirler arasÄ± yolcu taÅŸÄ±yan araÃ§larda yolcu kapasiteleri konusunda denetimde bulunarak, araÃ§larda maske takÄ±lmasÄ± konusunda uyarÄ±da bulundu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sakarya-da-yolcu-tasiyan-araclar-denetlendi-13286492-haberi/>https://www.haberler.com/sakarya-da-yolcu-tasiyan-araclar-denetlendi-13286492-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:27:00");
+                        marker.bindPopup("<b>Sakarya Millet Bahçesi açıldı</b><br>SAKARYA'nın Adapazarı ilçesinde büyük bir bölümü tamamlanan millet bahçesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın Ankara'da gerçekleştirdiği programla açıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sakarya-millet-bahcesi-acildi-13295720-haberi/>https://www.haberler.com/sakarya-millet-bahcesi-acildi-13295720-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:12:00");
 
                     

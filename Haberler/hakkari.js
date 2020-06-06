@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.574,43.738],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Baharda karla mÃ¼cadele devam ediyor</b><br>Hakkari'nin YÃ¼ksekova ilÃ§esinde, kar kalÄ±nlÄ±ÄŸÄ±nÄ±n 3 metreyi bulduÄŸu Ã¼s bÃ¶lgesi yolunun aÃ§Ä±lmasÄ± iÃ§in Ã§alÄ±ÅŸmalar sÃ¼rÃ¼yor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/baharda-karla-mucadele-devam-ediyor-13286510-haberi/>https://www.haberler.com/baharda-karla-mucadele-devam-ediyor-13286510-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:31:00");
+                        marker.bindPopup("<b>Yüksekova'da 'dolunay' hayran bıraktı</b><br>Yüksekova'da 'dolunay' hayran bıraktı Hakkari'nin Yüksekova ilçesinde akşam saatlerinde çıkan dolunay büyüledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yuksekova-da-dolunay-hayran-birakti-13295836-haberi/>https://www.haberler.com/yuksekova-da-dolunay-hayran-birakti-13295836-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:04:00");
 
                     

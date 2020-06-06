@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.255,40.224],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>YaÄŸmurlarÄ±n ardÄ±ndan vatandaÅŸlar mantar topluyor</b><br>DoÄŸada kendiliÄŸinden yetiÅŸen protein deposu mantarlar, yaÄŸan yaÄŸmurlarÄ±n ardÄ±ndan mantar yemeyi seven vatandaÅŸlarÄ±n ilgi odaÄŸÄ± oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yagmurlarin-ardindan-vatandaslar-mantar-topluyor-13286618-haberi/>https://www.haberler.com/yagmurlarin-ardindan-vatandaslar-mantar-topluyor-13286618-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:52:00");
+                        marker.bindPopup("<b>Vauk Tüneli'nde çalışmalar sürüyor</b><br>AK Parti Bayburt Milletvekili Fetani Battal, Bayburt-Gümüşhane karayolu güzergahındaki 1875 rakımlı Vauk Dağı'nda yapımı süren tünel inşaatında incelemelerde bulundu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/vauk-tuneli-nde-calismalar-suruyor-13293337-haberi/>https://www.haberler.com/vauk-tuneli-nde-calismalar-suruyor-13293337-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 12:07:00");
 
                     

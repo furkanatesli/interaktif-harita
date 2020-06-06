@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.749,37.016],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Sivas'ta termal tatil kÃ¶yÃ¼</b><br>Sivas Belediye BaÅŸkanÄ± Hilmi Bilgin, sÄ±cak ve soÄŸuk Ã§ermikte bulunan tesislerle yapÄ±lacak dÃ¼zenleme ile her iki bÃ¶lgenin termal tatil kÃ¶ylerine dÃ¶nÃ¼ÅŸtÃ¼rÃ¼leceÄŸini sÃ¶yledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sivas-ta-termal-tatil-koyu-13286304-haberi/>https://www.haberler.com/sivas-ta-termal-tatil-koyu-13286304-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:49:00");
+                        marker.bindPopup("<b>Ankara-Sivas YHT hattı yıl sonunda seferlere başlıyor</b><br>Ankara-Sivas YHT hattı yıl sonunda seferlere başlıyor YHT hattında çalışmalar hız kesmeden devam ediyor Ankara-Sivas ulaşım mesafesini 2 saate düşürecek Yüksek Hızlı Tren hattı çalışmalarıyla ilgili değerlendirmelerde bulunan AK Parti Kırıkkale Milletvekili Ramazan Can, 'Bu yıl sonu...<br><b>Kaynak :</b> <a href=https://www.haberler.com/ankara-sivas-yht-hatti-yil-sonunda-seferlere-13295815-haberi/>https://www.haberler.com/ankara-sivas-yht-hatti-yil-sonunda-seferlere-13295815-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:54:00");
 
                     

@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.749,39.494],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Erzincan'da otomobilin Ã¶nÃ¼nde seyreden araca Ã§arpmasÄ± ...</b><br>Erzincan'da otomobilin Ã¶nÃ¼nde seyreden araca Ã§arpmasÄ± sonucu 2'si Ã§ocuk 5 kiÅŸi yaralandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/erzincan-da-otomobilin-onunde-seyreden-araca-13286491-haberi/>https://www.haberler.com/erzincan-da-otomobilin-onunde-seyreden-araca-13286491-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:27:00");
+                        marker.bindPopup("<b>Erzincan'da boş arsalarda temizlik ve düzeltme çalışması ...</b><br>Erzincan'da belediye ekiplerince boş arsalarda temizlik ve düzeltme çalışması yapıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/erzincan-da-bos-arsalarda-temizlik-ve-duzeltme-13295879-haberi/>https://www.haberler.com/erzincan-da-bos-arsalarda-temizlik-ve-duzeltme-13295879-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:28:00");
 
                     

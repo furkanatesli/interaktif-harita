@@ -1,5 +1,5 @@
 
                         var marker = L.marker([38.621,34.715],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>KÃ¼ltÃ¼r ve Turizm Bakan YardÄ±mcÄ±sÄ± Demircan, NevÅŸehir'de ...</b><br>KÃ¼ltÃ¼r ve Turizm Bakan YardÄ±mcÄ±sÄ± Ahmet Misbah Demircan, NevÅŸehir'de ziyaret ve incelemelerde bulundu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kultur-ve-turizm-bakan-yardimcisi-demircan-13286613-haberi/>https://www.haberler.com/kultur-ve-turizm-bakan-yardimcisi-demircan-13286613-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:51:00");
+                        marker.bindPopup("<b>Son dakika! Nevşehir Belediyesi çevreyi korumak amacıyla ...</b><br>Son dakika haberi: Nevşehir Belediyesi tarafından, çevre kirliliğini önlemek amacıyla kentin çeşitli noktalarına üzerinde futbol takımlarının armalarının bulunduğu izmarit toplama kutuları yerleştirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-nevsehir-belediyesi-cevreyi-korumak-amaciyla-13294942-haberi/>https://www.haberler.com/son-dakika-nevsehir-belediyesi-cevreyi-korumak-amaciyla-13294942-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 17:47:00");
 
                     

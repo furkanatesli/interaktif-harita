@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.178,33.224],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Karaman'da Ã¼retilen steril dolap, eÅŸyalarÄ± virÃ¼slerden ...</b><br>Karaman'da bir firma tarafÄ±ndan Ã¼retilen steril dolap, iÃ§ine konan tÃ¼m eÅŸyalardaki virÃ¼s ve bakterileri Ã¶ldÃ¼rÃ¼yor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karaman-da-uretilen-steril-dolap-esyalari-13286462-haberi/>https://www.haberler.com/karaman-da-uretilen-steril-dolap-esyalari-13286462-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:20:00");
+                        marker.bindPopup("<b>Karaman'da ev yangını</b><br>Karaman'da kullanılmayan tek katlı evde çıkan yangın itfaiye tarafından söndürüldü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karaman-da-ev-yangini-2-13295173-haberi/>https://www.haberler.com/karaman-da-ev-yangini-2-13295173-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 18:55:00");
 
                     

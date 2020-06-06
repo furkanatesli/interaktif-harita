@@ -1,5 +1,5 @@
 
                         var marker = L.marker([37.323,40.721],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Mardin'de korona virÃ¼s tedbirlerini alan restoran ...</b><br>Mardin'de korona virÃ¼s nedeniyle 2 buÃ§uk ay boyunca kapalÄ± olan restoran, kafe ve oteller, tedbirleri alarak kapÄ±larÄ±nÄ± mÃ¼ÅŸterilerine aÃ§tÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/mardin-de-korona-virus-tedbirlerini-alan-restoran-13286619-haberi/>https://www.haberler.com/mardin-de-korona-virus-tedbirlerini-alan-restoran-13286619-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:52:00");
+                        marker.bindPopup("<b>Son dakika haberleri! Mardin'de 2 teröristin etkisiz ...</b><br>Bir son dakika haberine göre Mardin'in Ömerli ilçesinde 2 teröristin etkisiz hale getirildiği operasyon sona erdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-mardin-de-2-teroristin-etkisiz-hale-getirildigi-13295486-haberi/>https://www.haberler.com/son-dakika-haberleri-mardin-de-2-teroristin-etkisiz-hale-getirildigi-13295486-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 21:27:00");
 
                     

@@ -1,5 +1,5 @@
 
                         var marker = L.marker([41.736,27.224],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>KÄ±rklareli'nden kÄ±sa kÄ±sa</b><br>KÄ±rklareli TarÄ±m ve Orman MÃ¼dÃ¼rlÃ¼ÄŸÃ¼nce gÃ¶letlerde balÄ±klandÄ±rma Ã§alÄ±ÅŸmalarÄ± sÃ¼rdÃ¼rÃ¼lÃ¼yor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kirklareli-nden-kisa-kisa-13286445-haberi/>https://www.haberler.com/kirklareli-nden-kisa-kisa-13286445-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:15:00");
+                        marker.bindPopup("<b>Havadan uçakla ağaçlık alana uyuşturucu atılmasıyla ...</b><br>Kırklareli merkezli 3 ilde düzenlenen 'uluslararası silahlı suç örgütü ve uyuşturucu ticareti' operasyonunda gözaltına alınan 9 zanlıdan 6'sı tutuklandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/havadan-ucakla-agaclik-alana-uyusturucu-13295344-haberi/>https://www.haberler.com/havadan-ucakla-agaclik-alana-uyusturucu-13295344-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 20:08:00");
 
                     

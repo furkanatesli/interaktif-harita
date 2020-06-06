@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.647,27.885],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Edremit KÃ¶rfezi'nde turizmci, yaz sezonundan umutlu</b><br>BALIKESÄ°R'in Edremit KÃ¶rfezi'ndeki turizm iÅŸletmelerinin kapÄ±larÄ±, koronavirÃ¼s tedbirleri kapsamÄ±ndaki normalleÅŸme sÃ¼recinde mÃ¼ÅŸterilere yeniden aÃ§Ä±ldÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/edremit-korfezi-nde-turizmci-yaz-sezonundan-umutlu-13286549-haberi/>https://www.haberler.com/edremit-korfezi-nde-turizmci-yaz-sezonundan-umutlu-13286549-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 13:40:00");
+                        marker.bindPopup("<b>Çevreyi kirlettiği savunulan fabrikanın önünde çevreci ...</b><br>Çevreyi kirlettiği savunulan fabrikanın önünde çevreci mitingi Balıkesir'in Ayvalık ilçesinde, bir prina fabrikasının bacalarından yayılan atıklar ilçedeki çevrecileri ayağa kaldırdı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/cevreyi-kirlettigi-savunulan-fabrikanin-onunde-13295106-haberi/>https://www.haberler.com/cevreyi-kirlettigi-savunulan-fabrikanin-onunde-13295106-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 18:36:00");
 
                     

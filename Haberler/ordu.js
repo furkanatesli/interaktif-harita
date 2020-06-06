@@ -1,5 +1,5 @@
 
                         var marker = L.marker([40.980,37.884],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Ordu'da 17 katlÄ± binalarÄ±n yÄ±kÄ±mÄ± tamamlandÄ±, moloz ...</b><br>Ordu'da 17 katlÄ± binalarÄ±n yÄ±kÄ±mÄ± tamamlandÄ±, moloz yÄ±ÄŸÄ±nÄ± kaldÄ±rÄ±lÄ±yorORDU'da, kÄ±yÄ± kenar Ã§izgisi iÃ§erisinde kaldÄ±ÄŸÄ± gerekÃ§esiyle mahkeme tarafÄ±ndan yÄ±kÄ±m kararÄ± verilen, 3 bloktan oluÅŸan 17'ÅŸer katlÄ± binalarÄ±n yÄ±kÄ±m iÅŸlemi tamamlandÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ordu-da-17-katli-binalarin-yikimi-tamamlandi-moloz-13286130-haberi/>https://www.haberler.com/ordu-da-17-katli-binalarin-yikimi-tamamlandi-moloz-13286130-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 12:16:00");
+                        marker.bindPopup("<b>Ordu'da cinayet zanlısı 3 yıl sonra yakalandı</b><br>Ordu'nun Fatsa ilçesinde 3 yıl önce Gürcistan uyruklu kadını öldürdüğü iddiasıyla aranan şüpheli tutuklandı, olayla ilgili 5 zanlı da gözaltına alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ordu-da-cinayet-zanlisi-3-yil-sonra-yakalandi-13295717-haberi/>https://www.haberler.com/ordu-da-cinayet-zanlisi-3-yil-sonra-yakalandi-13295717-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:11:00");
 
                     

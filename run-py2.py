@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # coding=utf-8
 import bs4 as bs
-import urllib.request, urllib.parse, urllib.error
-import time, random, datetime
+import urllib
+import time, random
 sehirler=['adana','adiyaman','afyon','agri','amasya','ankara','antalya','artvin','aydin','balikesir',
           'bilecik','bingol','bitlis','bolu','burdur','bursa','canakkale','cankiri','corum','denizli',
           'diyarbakir','edirne','elazig','erzincan','erzurum','eskisehir','gaziantep','giresun','gumushane','hakkari',
@@ -20,51 +20,36 @@ koordinatlar=[  '37.002,35.326','37.763,38.276','38.757,30.534','39.720,43.050',
                 '41.005,39.718','39.107,39.548','37.159,38.792','38.681,29.403','38.508,43.375','39.820,34.809','41.452,31.789','38.370,34.027','40.255,40.224','37.178,33.224',
                 '39.847,33.528','37.884,41.128','37.518,42.461','41.632,32.338','41.109,42.704','39.921,44.046','40.655,29.272','41.197,32.623','36.717,37.116','37.073,36.255','40.842,31.157',]
 def deprem_cek():
-    oku=urllib.request.urlopen('http://udim.koeri.boun.edu.tr/zeqmap/xmlt/son24saat.xml').read()
+    oku=urllib.urlopen('http://udim.koeri.boun.edu.tr/zeqmap/xmlt/son24saat.xml').read()
     kaynak=bs.BeautifulSoup(oku,'xml')
     dosya = open("Depremler\\Depremler.js","w")
     for ic in kaynak.find_all('earhquake'):
         dosya.write(""" var marker = L.marker(["""+ic.get('lat')+""","""+ic.get('lng')+"""],{icon: depremicon}).addTo(map);
                         marker.bindPopup("<b>Lokasyon :"""+ic.get('lokasyon')+"""</b><br><b>Buyukluk :"""+ic.get('mag')+"""</b><br><b>Derinlik :"""+ic.get('Depth')+"""</b><br><b>Olus Tarihi :"""+ic.get('name')+"""");
                     """)
-        print((ic.get('name')))
+        print(ic.get('name'))
     dosya.close()
 def haber_cek():
     sayac=0
     for sehir in sehirler:
-        print(sehir)
-        oku=urllib.request.urlopen('http://rss.haberler.com/rsskonu.asp?konu='+sehir).read()
+        print sehir
+        oku=urllib.urlopen('https://rss.haberler.com/rsskonu.asp?konu='+sehir).read()
         kaynak=bs.BeautifulSoup(oku,'xml')
         kaynak=kaynak.find('item')
         dosya = open("Haberler\\"+sehir+".js","w")
         dosya.write("""
                         var marker = L.marker(["""+koordinatlar[sayac]+"""],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>"""+kaynak.title.text.strip()+"""</b><br>"""+kaynak.description.text.strip()+"""<br><b>Kaynak :</b> <a href="""+kaynak.link.text.strip()+""">"""+kaynak.link.text.strip()+"""</a><br><b>Paylasim Tarihi : <b>"""+kaynak.pubDate.text.strip()+"""");
+                        marker.bindPopup("<b>"""+kaynak.title.text.encode('utf-8').strip()+"""</b><br>"""+kaynak.description.text.encode('utf-8').strip()+"""<br><b>Kaynak :</b> <a href="""+kaynak.link.text.encode('utf-8').strip()+""">"""+kaynak.link.text.encode('utf-8').strip()+"""</a><br><b>Paylasim Tarihi : <b>"""+kaynak.pubDate.text.encode('utf-8').strip()+"""");
 
                     """)
         dosya.close()
-        dosya = open("aaa.js","w")
-        an = datetime.datetime.now()
-        uc = datetime.timedelta(hours=3) #time zone hesaplamak için
-        tarih = an+uc
-        tarih = datetime.datetime.strftime(an, '%x %X')
-        dosya.write("""
-var map = L.map('map').setView([38.722278, 35.487246], 6);
-
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '<a href="index.html">Harita Haber</a> Son Güncelleme Tarihi: """+tarih+"""'
-}).addTo(map);        
-                    """
-        )
-        dosya.close()
         sayac=sayac+1
-        print("Baslık = ",kaynak.title.text) 
+        print "Basl�k = ",kaynak.title.text 
         time.sleep(random.randint(3,10))
 while 1:
     try:
 	    deprem_cek()
 	    haber_cek()
 	    time.sleep(600)
-    except Exception as exception:
-	    print(exception)
-	    time.sleep(5)
+    except:
+	    print "Bir Hata olu�tu."

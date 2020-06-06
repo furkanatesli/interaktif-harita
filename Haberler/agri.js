@@ -1,5 +1,5 @@
 
                         var marker = L.marker([39.720,43.050],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Bir yanÄ± kar bir yanÄ± bahar yaylada gÃ¶Ã§erlere soÄŸuk ...</b><br>DoÄŸu Anadolu BÃ¶lgesi'nde her yÄ±l yaz mevsiminde yÃ¼zlerce gÃ¶Ã§ere ev sahipliÄŸi yapan AÄŸrÄ±'nÄ±n TaÅŸlÄ±Ã§ay ilÃ§esindeki Derecek YaylasÄ±'nda, olumsuz hava koÅŸullarÄ± nedeniyle yayla hayatÄ± henÃ¼z baÅŸlamadÄ±.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bir-yani-kar-bir-yani-bahar-yaylada-gocerlere-13285972-haberi/>https://www.haberler.com/bir-yani-kar-bir-yani-bahar-yaylada-gocerlere-13285972-haberi/</a><br><b>Paylasim Tarihi : <b>3.06.2020 11:48:00");
+                        marker.bindPopup("<b>AİÇÜ'den  Üniversite Öğrencilerine Dijital Destek</b><br>Ağrı İbrahim Çeçen Üniversitesi (AİÇÜ), Korona virüs pandemisi nedeniyle Yükseköğretim Kurulu'nun (YÖK) aldığı dönem sonu sınavlarının dijital ortamda veya ödev, proje gibi alternatif yöntemlerle yapılması kararı sonrası bilgisayar laboratuvarlarını farklı üniversitelerde öğrenim gören...<br><b>Kaynak :</b> <a href=https://www.haberler.com/aicu-den-universite-ogrencilerine-dijital-destek-13294484-haberi/>https://www.haberler.com/aicu-den-universite-ogrencilerine-dijital-destek-13294484-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 16:08:00");
 
                     

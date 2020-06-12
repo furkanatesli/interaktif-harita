@@ -106,7 +106,9 @@ Deprem İşaretçisi: Depremin olduğu noktayı gösterir, tıklandığında pop
 
 #### :warning: Gereksinimler Matrisi
 ```
-*Bot için Python 2.7.15 sürümü.
+*Bot için Python.
+*Python 2 versiyonları için run-py2.py kullanılır.
+*Python 3 versiyonları için run.py kullanılır.
 *Python’da URL’leri açmak için urllib kütüphanesi.
 *Python’da açılan URL’leri okumak için BeautifulSoup kütüphanesi.
 *Haberler için haber kaynağı.
@@ -114,6 +116,12 @@ Deprem İşaretçisi: Depremin olduğu noktayı gösterir, tıklandığında pop
 *Arayüzde harita göstermek için OpenStreetMap.
 *Harita üzerinde işaretçilerin gösterilmesi ve popup olayları için "JavaScript" dili.
 *Harita üzerinde işaretçileri göstermek için JavaScript Leaflet kütüphanesi.
+
+```
+#### :heavy_check_mark: Test Edilen Python Versiyonları
+```
+Python 3.8.1
+Python 2.7.15
 ```
 
 #### Ekler
@@ -121,3 +129,11 @@ Deprem İşaretçisi: Depremin olduğu noktayı gösterir, tıklandığında pop
 Leaflet Dokümantasyonu – https://leafletjs.com/reference-1.3.4.html</br>
 Urllib Modülü Dokümantasyonu – https://docs.python.org/3/library/urllib.html</br>
 BeautifulSoup Modülü Dokümantasyonu – https://www.crummy.com/software/BeautifulSoup/bs4/doc/</br>
+
+#### Katkı İçin
+
+	1. Forkla (https://github.com/furkanatesli/interaktif-harita/fork)
+	2. Yeni özellik dalını oluştur (`git checkout -b [dal_adi]`)
+	3. Değişiklikleri ekleyin (`git commit -am 'yenilikler eklendi'`)
+	4. Dalı gönderin (`git push origin [dal_adi]`)
+	5. Yeni bir Pull Request isteği oluşturun

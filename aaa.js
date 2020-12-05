@@ -1,3 +1,4 @@
+
 var depremler = L.layerGroup();
 var haberler = L.layerGroup();
 
@@ -25,5 +26,6 @@ L.control.layers(baseLayers, overlays).addTo(map);
 
 
 L.tileLayer('', {
-    attribution: '<a href="https://www.mapbox.com/">Mapbox</a> |' + '<a href="index.html">Harita Haber</a> Son Gï¿½ncelleme Tarihi: 12/05/20 15:03:09'
-}).addTo(map);        
+    attribution: '<a href="https://www.mapbox.com/">Mapbox</a> |' + '<a href="index.html">Harita Haber</a> Son Güncelleme Tarihi: 12/05/20 21:01:26'
+}).addTo(map);
+                    

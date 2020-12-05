@@ -1,5 +1,4 @@
 
                         var haber = L.marker([38.347,38.319],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Emanetoðlu: "Azerbaycan'ýn KKTC'yi tanýmasý Karabað ...</b><br>Yeniden Refah Genel Baþkan Yardýmcýsý Emanetoðlu, Türk topraklarý olan Daðlýk Karabað'ýn 29 yýl sonra iþgalden kurtarýlmasýnýn büyük sevincini yaþadýklarýný, bu sevincin Azerbaycan'ýn KKTC'yi devlet olarak tanýmasýyla bayrama dönüþeceðini söyledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/emanetoglu-azerbaycan-in-kktc-yi-tanimasi-karabag-13780741-haberi/>https://www.haberler.com/emanetoglu-azerbaycan-in-kktc-yi-tanimasi-karabag-13780741-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:41:00");
-
+                        haber.bindPopup("<b>Malatya'da yol kenarýnda çanta içinde bebek cesedi ...</b><br>Malatya'nýn Yeþilyurt ilçesinde yol kenarýndaki çanta içinde bebek cesedi bulundu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/malatya-da-yol-kenarinda-canta-icinde-bebek-cesedi-13781281-haberi/>https://www.haberler.com/malatya-da-yol-kenarinda-canta-icinde-bebek-cesedi-13781281-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 19:45:00");
                     

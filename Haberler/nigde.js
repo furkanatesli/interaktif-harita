@@ -1,5 +1,4 @@
 
                         var haber = L.marker([37.970,34.679],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Yatýrýmcý rehberi (9)</b><br>Borsa Ýstanbul'da geçen hafta iþlem gören hisse senetlerinin kapanýþ fiyatlarý ile haftalýk ve yýl baþýna göre deðiþim oranlarý þöyle: Tüm hisselerKapanýþ FiyatýHaftalýk Getiri (%)Yýl Baþýna Göre Getiri (%)Ýþ Bankasý (A)338.785,00104,30Ýþ Bankasý (B)42.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yatirimci-rehberi-9-13780228-haberi/>https://www.haberler.com/yatirimci-rehberi-9-13780228-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 11:06:00");
-
+                        haber.bindPopup("<b>Sokaða çýkma kýsýtlamasýndan muaf tutulan esnaflar ...</b><br>Niðde, Kýrýkkale, Sivas, Nevþehir ve Kýrþehir'de yeni tip koronavirüs (Kovid-19) salgýnýnýn önlenmesine yönelik uygulanan sokaða çýkma kýsýtlamasý kapsamýnda 10.00-17.00 saatleri arasýnda izin verilen iþ yerlerinde mesai devam etti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sokaga-cikma-kisitlamasindan-muaf-tutulan-esnaflar-13780814-haberi/>https://www.haberler.com/sokaga-cikma-kisitlamasindan-muaf-tutulan-esnaflar-13780814-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 15:13:00");
                     

@@ -1,5 +1,4 @@
 
                         var haber = L.marker([40.326,36.554],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Sýcak yemekler evlere ulaþtýrýldý</b><br>Tokat'ýn Niksar ilçesinde sokaða çýkma kýsýtlamasý nedeniyle ihtiyaç sahibi aileler ile korona virüs hastalarýna yemekleri aþevi ekipleri tarafýndan ulaþtýrýldý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sicak-yemekler-evlere-ulastirildi-13780722-haberi/>https://www.haberler.com/sicak-yemekler-evlere-ulastirildi-13780722-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:34:00");
-
+                        haber.bindPopup("<b>Voleybol: AXA Sigorta Efeler Ligi</b><br>Salon: TVF Cengiz GöllüHakemler: Erdal Akýncý, Mehmet TopalBursa Büyükþehir Belediyespor: Baroti, Husaj, Murathan Kýsal, Boðaçhan Zambak, Esat Dalgýç, Uður Kýlýnç (Çaðatay Durmuþ, Serkan Kýlýç, Fatih Cihan, Anýl Tokat, Berk Dilmenler)Haliliye Belediyespor: Cüneyt Daðcý, Vilimanovic, Enes Atlý,...<br><b>Kaynak :</b> <a href=https://www.haberler.com/voleybol-axa-sigorta-efeler-ligi-13781208-haberi/>https://www.haberler.com/voleybol-axa-sigorta-efeler-ligi-13781208-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 18:37:00");
                     

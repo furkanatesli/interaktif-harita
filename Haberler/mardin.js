@@ -1,5 +1,4 @@
 
                         var haber = L.marker([37.323,40.721],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Mardin'da aþýrý hýz ve dikkatsizlik sonucu yaþanan ...</b><br>Mardin'de Kasým ayý içerisinde meydana gelen bir trafik kazasý þehir polis kameralarýna yansýrken, kazada otomobil sürücüsünün aþýrý hýz sebebiyle direksiyon hakimiyetini kaybederek kaza yaptýðý görüldü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/mardin-da-asiri-hiz-ve-dikkatsizlik-sonucu-yasanan-13780737-haberi/>https://www.haberler.com/mardin-da-asiri-hiz-ve-dikkatsizlik-sonucu-yasanan-13780737-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:40:00");
-
+                        haber.bindPopup("<b>Alkollü motosiklet sürücüsü otomobile çarptý: 2 kiþi ...</b><br>Alkollü motosiklet sürücüsü otomobile çarptý: 2 kiþi aðýr yaralandý Nusaybin'de aþýrý alkol alan motosiklet sürücüsü ve arkadaþý dengesini kaybedip önünde seyir halinde olan otomobile çarptý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/alkollu-motosiklet-surucusu-otomobile-carpti-2-13781228-haberi/>https://www.haberler.com/alkollu-motosiklet-surucusu-otomobile-carpti-2-13781228-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 19:05:00");
                     

@@ -1,5 +1,4 @@
 
                         var haber = L.marker([37.871,32.485],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Ankara-Konya kara yollunda sessizlik hakim</b><br>Yeni tip koronavirüse (Kovid-19) karþý alýnan tedbirler kapsamýnda 81 ilde uygulanan hafta sonu sokaða çýkma kýsýtlamasýna vatandaþlarýn uyduðu gözlenen Ankara-Konya kara yolunda sessizlik hakim oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ankara-konya-kara-yollunda-sessizlik-hakim-13780685-haberi/>https://www.haberler.com/ankara-konya-kara-yollunda-sessizlik-hakim-13780685-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:19:00");
-
+                        haber.bindPopup("<b>Konya'da dört aylýk eþini býçaklayarak öldüren koca ...</b><br>Konya'da dört aylýk eþini býçaklayarak öldüren koca tutuklandý Konya'nýn Beyþehir ilçesinde, Ankara'dan kaçýrarak evlendiði 4 aylýk eþini tartýþtýktan sonra geçirdiði cinnet sonucu boðazýndan ve karýn bölgesinden býçaklayarak öldüren koca tutuklanarak cezaevine konuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/konya-da-4-aylik-esini-bicaklayarak-olduren-koca-13781327-haberi/>https://www.haberler.com/konya-da-4-aylik-esini-bicaklayarak-olduren-koca-13781327-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 20:18:00");
                     

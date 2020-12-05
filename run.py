@@ -40,7 +40,6 @@ def haber_cek():
         dosya.write("""
                         var haber = L.marker(["""+koordinatlar[sayac]+"""],{icon: habericon}).addTo(haberler);
                         haber.bindPopup("<b>"""+kaynak.title.text.strip()+"""</b><br>"""+kaynak.description.text.strip()+"""<br><b>Kaynak :</b> <a href="""+kaynak.link.text.strip()+""">"""+kaynak.link.text.strip()+"""</a><br><b>Paylasim Tarihi : <b>"""+kaynak.pubDate.text.strip()+"""");
-
                     """)
         dosya.close()
         dosya = open("aaa.js","w")
@@ -49,11 +48,35 @@ def haber_cek():
         tarih = an+uc
         tarih = datetime.datetime.strftime(an, '%x %X')
         dosya.write("""
-var map = L.map('map').setView([38.722278, 35.487246], 6);
+var depremler = L.layerGroup();
+var haberler = L.layerGroup();
 
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '<a href="index.html">Harita Haber</a> Son Güncelleme Tarihi: """+tarih+"""'
-}).addTo(map);        
+var mbAttr = '',
+    mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
+
+var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox/light-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr}),
+    streets  = L.tileLayer(mbUrl, {id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1, attribution: mbAttr});
+
+var map = L.map('map', {
+    center: [38.722278, 35.487246],
+    zoom: 6,    
+    layers: [grayscale, depremler,haberler]
+});
+
+var baseLayers = {
+};
+
+var overlays = {
+    "Depremler": depremler,
+    "Haberler": haberler
+};
+
+L.control.layers(baseLayers, overlays).addTo(map);
+
+
+L.tileLayer('', {
+    attribution: '<a href="https://www.mapbox.com/">Mapbox</a> |' + '<a href="index.html">Harita Haber</a> Son Güncelleme Tarihi: """+tarih+"""'
+}).addTo(map);
                     """
         )
         dosya.close()

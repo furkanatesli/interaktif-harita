@@ -1,5 +1,4 @@
 
                         var haber = L.marker([41.005,39.718],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Trabzon'da sokak hayvanlarý için mama býrakýldý</b><br>Trabzon Büyükþehir Belediyesince, sokaða çýkma kýsýtlamasý dolayýsýyla beslenmekte güçlük çeken sokak hayvanlarý için kentin farklý noktalarýna mama býrakýldý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/trabzon-da-sokak-hayvanlari-icin-mama-birakildi-13780677-haberi/>https://www.haberler.com/trabzon-da-sokak-hayvanlari-icin-mama-birakildi-13780677-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:17:00");
-
+                        haber.bindPopup("<b>Trabzon'da yaþlý adamý evinde gasbeden 4 þüpheliden ...</b><br>Trabzon'un Vakfýkebir ilçesinde, evine girdikleri yaþlý adamý gasbeden 4 þüpheliden 3'ü tutuklandý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/trabzon-da-yasli-adami-evinde-gasbeden-4-13781155-haberi/>https://www.haberler.com/trabzon-da-yasli-adami-evinde-gasbeden-4-13781155-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 17:59:00");
                     

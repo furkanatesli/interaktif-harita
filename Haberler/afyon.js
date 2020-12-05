@@ -1,5 +1,4 @@
 
                         var haber = L.marker([38.757,30.534],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>AFYONKARAHÝSAR - Sokaklar boþ kaldý</b><br>Afyonkarahisar'da sokaða çýkma kýsýtlamasýnýn baþlamasýyla cadde ve sokaklar sessizliðe büründü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sessizliginin-hakim-oldugu-konya-da-cadde-ve-13780454-haberi/>https://www.haberler.com/sessizliginin-hakim-oldugu-konya-da-cadde-ve-13780454-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 12:37:00");
-
+                        haber.bindPopup("<b>Afyonkarahisar Belediyesinden karantinadaki vatandaþlara ...</b><br>Afyonkarahisar Belediyesi, yeni tip koronavirüs (Kovid-19) testi pozitif çýkan ve karantina sürelerini evlerinde geçiren vatandaþlara baðýþýklýk sistemlerini güçlendirmeleri amacýyla elma, portakal, mandalina ve muzdan oluþan meyve paketleri daðýttý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/afyonkarahisar-belediyesinden-karantinadaki-13781319-haberi/>https://www.haberler.com/afyonkarahisar-belediyesinden-karantinadaki-13781319-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 20:13:00");
                     

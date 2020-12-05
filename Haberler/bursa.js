@@ -1,5 +1,4 @@
 
                         var haber = L.marker([40.182,29.066],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Türkiye'de 590 bin Bursa'da 34 bin ailenin doðalgazý ...</b><br>CHP Bursa Milletvekili Erkan Aydýn'ýn soru önergesi acý gerçeði ortaya çýkardý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/turkiye-de-590-bin-bursa-da-34-bin-ailenin-13780632-haberi/>https://www.haberler.com/turkiye-de-590-bin-bursa-da-34-bin-ailenin-13780632-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 13:58:00");
-
+                        haber.bindPopup("<b>Kýsýtlamada boþ yoldaki kazada can pazarý</b><br>Bursa'da tali yoldan ana yola dikkatsiz þekilde çýkan yol bakým ekibine ait kamyonet ana yolda lüks otomobille çarpýþarak takla attý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kisitlamada-bos-yoldaki-kazada-can-pazari-13781337-haberi/>https://www.haberler.com/kisitlamada-bos-yoldaki-kazada-can-pazari-13781337-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 20:28:00");
                     

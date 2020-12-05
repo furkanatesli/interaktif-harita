@@ -1,5 +1,4 @@
 
                         var haber = L.marker([37.930,41.940],{icon: habericon}).addTo(haberler);
                         haber.bindPopup("<b>Siirt depreminde yýkýlan 35 yýllýk ev 2 ay önce boþaltýlmýþ</b><br>Siirt'in Kurtalan ilçesinde meydana gelen 5 büyüklüðündeki depremde yýkýlan evin kum taþý ve kerpiçten yapýldýðý ve 2 ay önce boþaltýldýðý öðrenildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/siirt-depreminde-yikilan-35-yillik-ev-2-ay-once-13780348-haberi/>https://www.haberler.com/siirt-depreminde-yikilan-35-yillik-ev-2-ay-once-13780348-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 11:53:00");
-
                     

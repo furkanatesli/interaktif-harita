@@ -1,5 +1,4 @@
 
                         var haber = L.marker([38.508,43.375],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Felçli tilkiyi yürüteçle "ayak"landýrdýlar</b><br>Van Yüzüncü Yýl Üniversitesi (YYÜ) Yaban Hayvanlarý Koruma Rehabilitasyon Merkezince bir hayvanseverin geliþtirdiði yürüteç, felçli tilkiye takýldý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/felcli-tilkiyi-yurutecle-ayak-landirdilar-13780736-haberi/>https://www.haberler.com/felcli-tilkiyi-yurutecle-ayak-landirdilar-13780736-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:39:00");
-
+                        haber.bindPopup("<b>Karantinada olmasý gereken aile kontrole takýldý</b><br>Karantinada olmasý gereken aile kontrole takýldý Hafta sonu sokaða çýkma yasaðý olan Tatvan'da denetimler sýký tutuldu Bitlis'in Tatvan'da sokaða çýkma kýsýtlamasýnýn baþladýðý ilk dakikalardan itibaren yapýlan sýký denetimlerde kýsýtlamalarý ve sokaða çýkma yasaðýný ihlal eden vatandaþlara...<br><b>Kaynak :</b> <a href=https://www.haberler.com/karantinada-olmasi-gereken-aile-kontrole-takildi-13781030-haberi/>https://www.haberler.com/karantinada-olmasi-gereken-aile-kontrole-takildi-13781030-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 16:47:00");
                     

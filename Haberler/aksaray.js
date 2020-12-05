@@ -1,5 +1,4 @@
 
                         var haber = L.marker([38.370,34.027],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>DHA YURT BÜLTENÝ - 14</b><br>Ekmek almaya maskesiz giden genç, polise yakalandýAKSARAY'da ekmek almaya maskesiz giden Abdulsamet U. (22), polis tarafýndan fark edilince hakkýnda Ýl Umumi Hýfzýssýhha Kurulu kararý gereði 900 lira para cezasý uygulandý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dha-yurt-bulteni-14-13780666-haberi/>https://www.haberler.com/dha-yurt-bulteni-14-13780666-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:13:00");
-
+                        haber.bindPopup("<b>Tüfeðini temizlerken eþini vurup kaçan koca yakalandý ...</b><br>TUTUKLANDI Aksaray'da iddiaya göre temizlediði av tüfeðinin ateþ almasý sonucu eþi Tuðçe Uðurlu'nun (24) karnýndan ve bacaðýndan yaralanmasýna neden olan Hidayet Uðurlu (30), sevk edildiði adliyede çýkarýldýðý mahkemece tutuklandý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tufegini-temizlerken-esini-vurup-kacan-koca-13781261-haberi/>https://www.haberler.com/tufegini-temizlerken-esini-vurup-kacan-koca-13781261-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 19:30:00");
                     

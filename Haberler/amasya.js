@@ -1,5 +1,4 @@
 
                         var haber = L.marker([40.650,35.834],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Amasya'da kýsýtlamada sokak hayvanlarý unutulmadý</b><br>AMASYA'da sokaða çýkma kýsýtlamasýnda belediye ekipleri sokak hayvanlarýna mama býraktý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/amasya-da-kisitlamada-sokak-hayvanlari-unutulmadi-13780694-haberi/>https://www.haberler.com/amasya-da-kisitlamada-sokak-hayvanlari-unutulmadi-13780694-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:23:00");
-
+                        haber.bindPopup("<b>Son dakika haber... AMASYA/TOKAT - Sokaða çýkma kýsýtlamasý ...</b><br>Son dakika haber: AMASYA; Kent merkezinde hakim olan sakinliðin drone ile görüntülenmesi Cadde ve sokaklarda hakim olan sakinlik Polis ekiplerinin denetimlerde bulunmasýTOKAT; Tokat'ta boþ sokak ve caddeler AMASYA/TOKAT - Sokaða çýkma kýsýtlamasý nedeniyle sokaklar sessizliðe büründü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haber-amasya-tokat-sokaga-cikma-kisitlamasi-nedeniyle-13780966-haberi/>https://www.haberler.com/son-dakika-haber-amasya-tokat-sokaga-cikma-kisitlamasi-nedeniyle-13780966-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 16:20:00");
                     

@@ -34,9 +34,9 @@ Leaflet: Mobil uyumlu interaktif haritalar için açık kaynaklı bir JavaScript
 
 Sistem Python’da yazılan bot sayesinde kaynaklardan gerekli olan verileri çekip gelen bu verileri Leaflet kütüphanesinin anlayacağı bir şekilde .js uzantılı bir dosya olarak kayıt eder. Kaynaklardan gelen bu verileri güncel olarak görmek için botun en az bir kez çalışması gereklidir. Gelen verileri harita üzerinde görmek için Html dosyası olan index.html açılır.
 
-![](medya/İnteraktif-Harita-Projesi/4.jpg)
+![](medya/4.jpg)
 
-![](medya/İnteraktif-Harita-Projesi/5.jpg)
+![](medya/5.jpg)
 
 #### Tasarım Gerekçesi
 
@@ -91,11 +91,15 @@ def haber_cek():
 	//dosyayı kapat
 	//sayacı 1 arttır
 ```
-![](medya/İnteraktif-Harita-Projesi/1.jpg)
+![](medya/6.png)
 
-![](medya/İnteraktif-Harita-Projesi/2.jpg)
+![](medya/7.png)
 
-![](medya/İnteraktif-Harita-Projesi/3.jpg)
+![](medya/8.png)
+
+![](medya/9.png)
+
+![](medya/10.png)
 
 #### Ekran Nesneleri Ve Eylemleri
 

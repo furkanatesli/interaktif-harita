@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([38.885,40.496],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Özlüce Barajý Gölü'ndeki kafeslere 500 bin yavru alabalýk ...</b><br>Geçen yýl su ürünleri yetiþtiriciliðine açýlan Bingöl'ün Yayladere ilçesindeki Özlüce Barajý Gölü'nde kurulan 5 çiftliðe törenle 500 bin yavru alabalýk býrakýldý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ozluce-baraji-golu-ndeki-kafeslere-500-bin-yavru-13295430-haberi/>https://www.haberler.com/ozluce-baraji-golu-ndeki-kafeslere-500-bin-yavru-13295430-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 20:55:00");
+                        var haber = L.marker([38.885,40.496],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Sokaða çýkma kýsýtlamasý da evlat nöbetindeki ailelere ...</b><br>Sokaða çýkma kýsýtlamasý da evlat nöbetindeki ailelere engel olamadý Evlat nöbetindeki anne ve babalar, çocuklarýný PKK'dan almakta kararlý Evlat nöbetine gidemeyen aileler, eylemini kaldýklarý otelde devam ettiriyor HDP Diyarbakýr Ýl Baþkanlýðý önünde evlat nöbeti tutan aileler, Ýçiþleri...<br><b>Kaynak :</b> <a href=https://www.haberler.com/sokaga-cikma-kisitlamasi-da-evlat-nobetindeki-13780598-haberi/>https://www.haberler.com/sokaga-cikma-kisitlamasi-da-evlat-nobetindeki-13780598-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 13:43:00");
 
                     

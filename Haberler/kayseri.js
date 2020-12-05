@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([38.724,35.485],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Kayseri ve Niðde'de Cuma namazýnda avlular doldu taþtý</b><br>Kayseri ve Niðde'de Cuma namazýnda avlular doldu taþtý Korona virüs salgýný nedeniyle alýnan önlemlerin ardýndan geçilen normalleþme sürecinde cemaatle kýlýnan cuma namazýný Kayserili ve Niðdeli vatandaþlar sosyal mesafe ve maske kurallarýna uyarak kýldý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kayseri-ve-nigde-de-cuma-namazinda-avlular-doldu-13295687-haberi/>https://www.haberler.com/kayseri-ve-nigde-de-cuma-namazinda-avlular-doldu-13295687-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:58:00");
+                        var haber = L.marker([38.724,35.485],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika... Kayseri Emar Grup FK, 11  transfer yaptý</b><br>Son dakika haber: Kayseri Emar Grup Futbol Kulübü, yeni sezon öncesi dýþ transferde kadrosuna 11 yeni ismi dahil etti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-kayseri-emar-grup-fk-11-transfer-yapti-13780729-haberi/>https://www.haberler.com/son-dakika-kayseri-emar-grup-fk-11-transfer-yapti-13780729-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:36:00");
 
                     

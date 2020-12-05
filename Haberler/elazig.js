@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([38.675,39.222],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Elazýð'da "Ay Tutulmasý" Harput'tan izlendi</b><br>Elazýð'da Ay tutulmasýna tanýklýk etmek isteyen amatör fotoðrafçýlar, güzel kareler yakalamak için tarihi Harput'a çýktý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/elazig-da-ay-tutulmasi-harput-tan-izlendi-13295889-haberi/>https://www.haberler.com/elazig-da-ay-tutulmasi-harput-tan-izlendi-13295889-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:34:00");
+                        var haber = L.marker([38.675,39.222],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Emanetoðlu: "Azerbaycan'ýn KKTC'yi tanýmasý Karabað ...</b><br>Yeniden Refah Genel Baþkan Yardýmcýsý Emanetoðlu, Türk topraklarý olan Daðlýk Karabað'ýn 29 yýl sonra iþgalden kurtarýlmasýnýn büyük sevincini yaþadýklarýný, bu sevincin Azerbaycan'ýn KKTC'yi devlet olarak tanýmasýyla bayrama dönüþeceðini söyledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/emanetoglu-azerbaycan-in-kktc-yi-tanimasi-karabag-13780741-haberi/>https://www.haberler.com/emanetoglu-azerbaycan-in-kktc-yi-tanimasi-karabag-13780741-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:41:00");
 
                     

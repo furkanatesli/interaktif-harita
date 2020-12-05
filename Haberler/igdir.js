@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([39.921,44.046],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Hayvanlarýnýn aþýsýný yaptýramayan çifte ekiplerden ...</b><br>Koran avirüs tedbirleri kapsamýnda dýþarýya çýkamayan ve hayvanlarýnýn aþýsý için baþvuruda bulunamayan çifte ekipler destek verdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/hayvanlarinin-asisini-yaptiramayan-cifte-13294066-haberi/>https://www.haberler.com/hayvanlarinin-asisini-yaptiramayan-cifte-13294066-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 14:49:00");
+                        var haber = L.marker([39.921,44.046],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Doðu Anadolu sokaða çýkma kýsýtlamasýyla sessizliðe ...</b><br>Yeni tip koronavirüs (Kovid-19) salgýný nedeniyle alýnan tedbirler kapsamýnda getirilen sokaða çýkma kýsýtlamasýna Doðu Anadolu Bölgesi'ndeki 7 ilde büyük oranda uyuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/>https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:39:00");
 
                     

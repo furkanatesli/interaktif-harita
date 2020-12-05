@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.605,43.097],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika güncel: Fidanlar Kovid-19 ile mücadele ...</b><br>Son dakika haberi... Kars'ta yeni tip koronavirüsle (Kovid-19) mücadelede fedakarca görev yapan saðlýkçýlar için hatýra ormaný oluþturuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-guncel-fidanlar-kovid-19-ile-mucadele-eden-kahraman-13295559-haberi/>https://www.haberler.com/son-dakika-guncel-fidanlar-kovid-19-ile-mucadele-eden-kahraman-13295559-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 21:59:00");
+                        var haber = L.marker([40.605,43.097],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Doðu Anadolu sokaða çýkma kýsýtlamasýyla sessizliðe ...</b><br>Yeni tip koronavirüs (Kovid-19) salgýný nedeniyle alýnan tedbirler kapsamýnda getirilen sokaða çýkma kýsýtlamasýna Doðu Anadolu Bölgesi'ndeki 7 ilde büyük oranda uyuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/>https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:39:00");
 
                     

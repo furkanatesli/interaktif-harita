@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([37.970,34.679],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Kayseri ve Niðde'de Cuma namazýnda avlular doldu taþtý</b><br>Kayseri ve Niðde'de Cuma namazýnda avlular doldu taþtý Korona virüs salgýný nedeniyle alýnan önlemlerin ardýndan geçilen normalleþme sürecinde cemaatle kýlýnan cuma namazýný Kayserili ve Niðdeli vatandaþlar sosyal mesafe ve maske kurallarýna uyarak kýldý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kayseri-ve-nigde-de-cuma-namazinda-avlular-doldu-13295687-haberi/>https://www.haberler.com/kayseri-ve-nigde-de-cuma-namazinda-avlular-doldu-13295687-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:58:00");
+                        var haber = L.marker([37.970,34.679],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Yatýrýmcý rehberi (9)</b><br>Borsa Ýstanbul'da geçen hafta iþlem gören hisse senetlerinin kapanýþ fiyatlarý ile haftalýk ve yýl baþýna göre deðiþim oranlarý þöyle: Tüm hisselerKapanýþ FiyatýHaftalýk Getiri (%)Yýl Baþýna Göre Getiri (%)Ýþ Bankasý (A)338.785,00104,30Ýþ Bankasý (B)42.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yatirimci-rehberi-9-13780228-haberi/>https://www.haberler.com/yatirimci-rehberi-9-13780228-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 11:06:00");
 
                     

@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([41.009,28.965],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Ýstanbul'da dolunay kartpostallýk görüntüler oluþturdu</b><br>ÝSTANBUL da bu akþam gerçekleþen ay tutulmasý kartpostallýk görüntüler oluþturdu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/istanbul-da-dolunay-kartpostallik-goruntuler-13295810-haberi/>https://www.haberler.com/istanbul-da-dolunay-kartpostallik-goruntuler-13295810-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:52:00");
+                        var haber = L.marker([41.009,28.965],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Baðcýlar Belediyesi pandeminin öyküsünü yazan gençleri ...</b><br>Baðcýlar Belediyesi Gönül Baðý Platformunca düzenlenen 'Pandemi Sürecinde Bireysel Duyarlýlýk ve Birlikte Hareket' konulu öykü yarýþmasýnda ödüller sahiplerini buldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bagcilar-belediyesi-pandeminin-oykusunu-yazan-13780757-haberi/>https://www.haberler.com/bagcilar-belediyesi-pandeminin-oykusunu-yazan-13780757-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:45:00");
 
                     

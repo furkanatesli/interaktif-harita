@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.978,27.515],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Kızı tarafından istediği ayakkabıyı almadığı için ...</b><br>Tekirdağ'da pahalı bulduğu ayakkabıyı almadığı için kızı tarafından merdivenlerden itildiği iddia edilen anne, kızını karakolda affetti. İfadesi alınan anne, kızından şikayetçi olmadı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kizi-tarafindan-istedigi-ayakkabiyi-almadigi-icin-13295455-haberi/>https://www.haberler.com/kizi-tarafindan-istedigi-ayakkabiyi-almadigi-icin-13295455-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 21:09:00");
+                        var haber = L.marker([40.978,27.515],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Tekirdağ'da karantinada olması gereken 2 kişi adliyeye ...</b><br>Tekirdağ'ın Çerkezköy ilçesinde yeni tip koronaviirüs (Kovid-19) tedbirleri kapsamında karantinada olması gereken 2 kişi, adliyeye girişte tespit edilerek evlerine gönderildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tekirdag-da-karantinada-olmasi-gereken-2-kisi-13780701-haberi/>https://www.haberler.com/tekirdag-da-karantinada-olmasi-gereken-2-kisi-13780701-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:25:00");
 
                     

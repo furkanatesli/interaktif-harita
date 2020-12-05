@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([41.109,42.704],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Doðu Anadolu'daki 4 ilde gök gürültülü saðanak bekleniyor</b><br>Doðu Anadolu Bölgesi'ndeki Erzurum, Erzincan, Kars ve Ardahan'da gök gürültülü saðanaðýn etkili olacaðý bildirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-anadolu-daki-4-ilde-gok-gurultulu-saganak-13293284-haberi/>https://www.haberler.com/dogu-anadolu-daki-4-ilde-gok-gurultulu-saganak-13293284-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 11:59:00");
+                        var haber = L.marker([41.109,42.704],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Doðu Anadolu sokaða çýkma kýsýtlamasýyla sessizliðe ...</b><br>Yeni tip koronavirüs (Kovid-19) salgýný nedeniyle alýnan tedbirler kapsamýnda getirilen sokaða çýkma kýsýtlamasýna Doðu Anadolu Bölgesi'ndeki 7 ilde büyük oranda uyuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/>https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:39:00");
 
                     

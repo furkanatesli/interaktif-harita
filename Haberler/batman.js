@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([37.884,41.128],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son Dakika: Gercüş'te bir köy ikinci defa karantinaya ...</b><br>Son dakika genel haberine göre Gercüş'te bir köy ikinci defa karantinaya alındı Batman'ın Gercüş ilçesine bağlı Gönüllü köyü, korona virüs tedbirleri kapsamında ikinci defa karantinaya alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-gercus-te-bir-koy-ikinci-defa-karantinaya-alindi-13295412-haberi/>https://www.haberler.com/son-dakika-gercus-te-bir-koy-ikinci-defa-karantinaya-alindi-13295412-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 20:50:00");
+                        var haber = L.marker([37.884,41.128],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Karşıyaka'ya kaptan garantisi</b><br>Misli.com 3'üncü Lig 3'üncü Grup'ta 22 puanla dördüncü sırada bulunan Karşıyaka'da takım kaptanı Mustafa Aşan, haftaya perşembe günü 25 puanlı İçel İdmanyurdu maçıyla yeni bir sayfa açmak istediklerini belirtti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karsiyaka-ya-kaptan-garantisi-13780376-haberi/>https://www.haberler.com/karsiyaka-ya-kaptan-garantisi-13780376-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 12:04:00");
 
                     

@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([39.768,30.521],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Kontrolsüz þerit deðiþikliði kazaya neden oldu...O ...</b><br>Kontrolsüz þerit deðiþikliði kazaya neden oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kontrolsuz-serit-degisikligi-kazaya-neden-oldu-o-13295702-haberi/>https://www.haberler.com/kontrolsuz-serit-degisikligi-kazaya-neden-oldu-o-13295702-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:04:00");
+                        var haber = L.marker([39.768,30.521],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika! ESKÝÞEHÝR - Cumhurbaþkaný Erdoðan: "Arifiye'deki ...</b><br>Edinilen son dakika geliþmesine göre Programýn yapýldýðý alan ve katýlýmcýlar Cumhurbaþkaný Recep Tayyip Erdoðan'ýn konuþmasý ESKÝÞEHÝR - Cumhurbaþkaný Recep Tayyip Erdoðan, Ýlk Milli Helikopter Motorumuz TEÝ-TS1400'ün Teslimi ve Tasarým Merkezi Açýlýþ Töreni'ne canlý baðlantý yoluyla katýldý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-eskisehir-cumhurbaskani-erdogan-arifiye-deki-13780764-haberi/>https://www.haberler.com/son-dakika-eskisehir-cumhurbaskani-erdogan-arifiye-deki-13780764-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:48:00");
 
                     

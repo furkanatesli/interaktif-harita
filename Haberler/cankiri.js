@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.600,33.616],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Çankýrý'da 600 binin üzerinde maske daðýtýldý</b><br>Çankýrý Valiliði, korona virüs (Covid-19) süreci boyunca kent genelinde 600 binin üzerinde koruyucu maske daðýtýldýðýný açýkladý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/cankiri-da-600-binin-uzerinde-maske-dagitildi-13291673-haberi/>https://www.haberler.com/cankiri-da-600-binin-uzerinde-maske-dagitildi-13291673-haberi/</a><br><b>Paylasim Tarihi : <b>4.06.2020 19:10:00");
+                        var haber = L.marker([40.600,33.616],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>CHP Genel Baþkaný Kýlýçdaroðlu, "YaþamHak" Projesinin ...</b><br>CHP Kadýn Kollarý'nýn düzenlediði CHP Genel Merkezinde tanýtýmý yapýlan 'Yaþamhak' projesi kapsamýnda, CHP Genel Baþkaný Kemal Kýlýçdaroðlu kadýnlara seslendi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/chp-genel-baskani-kilicdaroglu-yasamhak-projesinin-13780484-haberi/>https://www.haberler.com/chp-genel-baskani-kilicdaroglu-yasamhak-projesinin-13780484-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 12:48:00");
 
                     

@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([39.906,41.273],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Erzurum Ticaret Borsasý</b><br>Erzurum Ticaret Borsasýnda (ETB) patatesin kilogramý ortalama 2,01 liradan iþlem gördü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/erzurum-ticaret-borsasi-13294556-haberi/>https://www.haberler.com/erzurum-ticaret-borsasi-13294556-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 16:23:00");
+                        var haber = L.marker([39.906,41.273],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Doðu Anadolu sokaða çýkma kýsýtlamasýyla sessizliðe ...</b><br>Yeni tip koronavirüs (Kovid-19) salgýný nedeniyle alýnan tedbirler kapsamýnda getirilen sokaða çýkma kýsýtlamasýna Doðu Anadolu Bölgesi'ndeki 7 ilde büyük oranda uyuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/>https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:39:00");
 
                     

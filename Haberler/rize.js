@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([41.022,40.519],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son Dakika | Rize-Artvin Havalimaný inþaatýnda üst ...</b><br>Son dakika güncel haberi: Türkiye'nin Ordu-Giresun Havalimaný'ndan sonra denize dolgu yapýlarak inþa edilen 2. havalimaný olacak olan Rize-Artvin Havalimaný inþaatýnýn dolgu çalýþmalarýnýn yaný sýra üst yapý çalýþmalarý da sürüyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-rize-artvin-havalimani-insaatinda-ust-yapilar-13294812-haberi/>https://www.haberler.com/son-dakika-rize-artvin-havalimani-insaatinda-ust-yapilar-13294812-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 17:18:00");
+                        var haber = L.marker([41.022,40.519],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>CHP Genel Baþkaný Kýlýçdaroðlu, "YaþamHak" Projesinin ...</b><br>CHP Kadýn Kollarý'nýn düzenlediði CHP Genel Merkezinde tanýtýmý yapýlan 'Yaþamhak' projesi kapsamýnda, CHP Genel Baþkaný Kemal Kýlýçdaroðlu kadýnlara seslendi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/chp-genel-baskani-kilicdaroglu-yasamhak-projesinin-13780484-haberi/>https://www.haberler.com/chp-genel-baskani-kilicdaroglu-yasamhak-projesinin-13780484-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 12:48:00");
 
                     

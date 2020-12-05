@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([37.770,30.555],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Isparta'da düðünlerde kiþiye özel vakumlanmýþ yemek ...</b><br>Isparta'da düðünlerde kiþiye özel vakumlanmýþ yemek dönemi Düðün yemeklerine koronavirüs etkisi Isparta'da firmalar düðünlerde kiþiye özel paketli yemek hizmeti sunacak Isparta'da yeni tip korona virüs salgýný süreciyle birlikte düðünlerdeki yemek alýþkanlarý da deðiþiyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/isparta-da-dugunlerde-kisiye-ozel-vakumlanmis-13295904-haberi/>https://www.haberler.com/isparta-da-dugunlerde-kisiye-ozel-vakumlanmis-13295904-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:46:00");
+                        var haber = L.marker([37.770,30.555],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika... Kayseri Emar Grup FK, 11  transfer yaptý</b><br>Son dakika haber: Kayseri Emar Grup Futbol Kulübü, yeni sezon öncesi dýþ transferde kadrosuna 11 yeni ismi dahil etti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-kayseri-emar-grup-fk-11-transfer-yapti-13780729-haberi/>https://www.haberler.com/son-dakika-kayseri-emar-grup-fk-11-transfer-yapti-13780729-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:36:00");
 
                     

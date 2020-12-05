@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.461,39.476],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Silahla arkadan yaklaþýp muhtarý böyle öldürmüþ</b><br>Trabzon'un Araklý ilçesinde geçtiðimiz yýl 22 Aralýk akþamý Gümüþhane merkeze baðlý Alçakdere Köyü Muhtarý Beyler Bal'ýn hayatýný kaybettiði silahlý saldýrý olayýnýn güvenlik kamerasý görüntüleri ortaya çýktý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/silahla-arkadan-yaklasip-muhtari-boyle-oldurmus-13294890-haberi/>https://www.haberler.com/silahla-arkadan-yaklasip-muhtari-boyle-oldurmus-13294890-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 17:35:00");
+                        var haber = L.marker([40.461,39.476],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika haber: TRABZON/ORDU/SAMSUN - Sokaklar boþ ...</b><br>Son dakika gündem haberi: Yeni tip koronavirüs (Kovid-19) salgýnýnýn önlenmesine yönelik ülke genelinde uygulanan sokaða çýkma kýsýtlamasý kapsamýnda Trabzon'da sakin bir gün yaþanýyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-gundem-osmaniye-de-sokaklar-bos-kaldi-13780423-haberi/>https://www.haberler.com/son-dakika-gundem-osmaniye-de-sokaklar-bos-kaldi-13780423-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 12:23:00");
 
                     

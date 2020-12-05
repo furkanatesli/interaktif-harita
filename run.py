@@ -24,8 +24,8 @@ def deprem_cek():
     kaynak=bs.BeautifulSoup(oku,'xml')
     dosya = open("Depremler\\Depremler.js","w")
     for ic in kaynak.find_all('earhquake'):
-        dosya.write(""" var marker = L.marker(["""+ic.get('lat')+""","""+ic.get('lng')+"""],{icon: depremicon}).addTo(map);
-                        marker.bindPopup("<b>Lokasyon :"""+ic.get('lokasyon')+"""</b><br><b>Buyukluk :"""+ic.get('mag')+"""</b><br><b>Derinlik :"""+ic.get('Depth')+"""</b><br><b>Olus Tarihi :"""+ic.get('name')+"""");
+        dosya.write(""" var deprem = L.marker(["""+ic.get('lat')+""","""+ic.get('lng')+"""],{icon: depremicon}).addTo(depremler);
+                        deprem.bindPopup("<b>Lokasyon :"""+ic.get('lokasyon')+"""</b><br><b>Buyukluk :"""+ic.get('mag')+"""</b><br><b>Derinlik :"""+ic.get('Depth')+"""</b><br><b>Olus Tarihi :"""+ic.get('name')+"""");
                     """)
         print((ic.get('name')))
     dosya.close()
@@ -38,8 +38,8 @@ def haber_cek():
         kaynak=kaynak.find('item')
         dosya = open("Haberler\\"+sehir+".js","w")
         dosya.write("""
-                        var marker = L.marker(["""+koordinatlar[sayac]+"""],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>"""+kaynak.title.text.strip()+"""</b><br>"""+kaynak.description.text.strip()+"""<br><b>Kaynak :</b> <a href="""+kaynak.link.text.strip()+""">"""+kaynak.link.text.strip()+"""</a><br><b>Paylasim Tarihi : <b>"""+kaynak.pubDate.text.strip()+"""");
+                        var haber = L.marker(["""+koordinatlar[sayac]+"""],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>"""+kaynak.title.text.strip()+"""</b><br>"""+kaynak.description.text.strip()+"""<br><b>Kaynak :</b> <a href="""+kaynak.link.text.strip()+""">"""+kaynak.link.text.strip()+"""</a><br><b>Paylasim Tarihi : <b>"""+kaynak.pubDate.text.strip()+"""");
 
                     """)
         dosya.close()

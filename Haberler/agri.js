@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([39.720,43.050],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>AÝÇÜ'den  Üniversite Öðrencilerine Dijital Destek</b><br>Aðrý Ýbrahim Çeçen Üniversitesi (AÝÇÜ), Korona virüs pandemisi nedeniyle Yükseköðretim Kurulu'nun (YÖK) aldýðý dönem sonu sýnavlarýnýn dijital ortamda veya ödev, proje gibi alternatif yöntemlerle yapýlmasý kararý sonrasý bilgisayar laboratuvarlarýný farklý üniversitelerde öðrenim gören...<br><b>Kaynak :</b> <a href=https://www.haberler.com/aicu-den-universite-ogrencilerine-dijital-destek-13294484-haberi/>https://www.haberler.com/aicu-den-universite-ogrencilerine-dijital-destek-13294484-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 16:08:00");
+                        var haber = L.marker([39.720,43.050],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Doðu Anadolu sokaða çýkma kýsýtlamasýyla sessizliðe ...</b><br>Yeni tip koronavirüs (Kovid-19) salgýný nedeniyle alýnan tedbirler kapsamýnda getirilen sokaða çýkma kýsýtlamasýna Doðu Anadolu Bölgesi'ndeki 7 ilde büyük oranda uyuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/>https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:39:00");
 
                     

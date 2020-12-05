@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([36.900,30.693],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Antalya'da bir kiþi av tüfeðiyle vurularak öldürüldü</b><br>Antalya'nýn Korkuteli ilçesinde bir kiþi av tüfeðiyle vurularak öldürüldü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/antalya-da-bir-kisi-av-tufegiyle-vurularak-13295662-haberi/>https://www.haberler.com/antalya-da-bir-kisi-av-tufegiyle-vurularak-13295662-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:49:00");
+                        var haber = L.marker([36.900,30.693],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>AK Parti Antalya Milletvekili Çokal, filyasyon ekipleriyle ...</b><br>AK Parti Antalya Milletvekili Tuba Vural Çokal, Manavgat ilçesinde filyasyon ekiplerinin taleplerini dinledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ak-parti-antalya-milletvekili-cokal-filyasyon-13780753-haberi/>https://www.haberler.com/ak-parti-antalya-milletvekili-cokal-filyasyon-13780753-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:43:00");
 
                     

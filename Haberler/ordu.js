@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.980,37.884],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Ordu'da cinayet zanlýsý 3 yýl sonra yakalandý</b><br>Ordu'nun Fatsa ilçesinde 3 yýl önce Gürcistan uyruklu kadýný öldürdüðü iddiasýyla aranan þüpheli tutuklandý, olayla ilgili 5 zanlý da gözaltýna alýndý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ordu-da-cinayet-zanlisi-3-yil-sonra-yakalandi-13295717-haberi/>https://www.haberler.com/ordu-da-cinayet-zanlisi-3-yil-sonra-yakalandi-13295717-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:11:00");
+                        var haber = L.marker([40.980,37.884],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Ordu'da Kovid-19 tedbirleri kapsamýnda teleferik ulaþýmýna ...</b><br>Ordu'nun turistik alaný Boztepe'ye ulaþýmý saðlayan teleferik hizmetine, yeni tip koronavirüs (Kovid-19) ile mücadele kapsamýnda alýnan tedbirler dolayýsýyla ara verildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ordu-da-kovid-19-tedbirleri-kapsaminda-teleferik-13780490-haberi/>https://www.haberler.com/ordu-da-kovid-19-tedbirleri-kapsaminda-teleferik-13780490-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 12:49:00");
 
                     

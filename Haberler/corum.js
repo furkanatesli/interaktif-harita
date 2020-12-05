@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.548,34.960],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika haberleri | Kadeþ Barýþ meydanýnda Cuma ...</b><br>Gelen son dakika haberine göre Kadeþ Barýþ meydanýnda Cuma namazý Çorum'da korona virüs tedbirleri kapsamýnda 16 Mart'ta ibadete kapatýlan camilerin yeniden açýlmasýyla birlikte ikinci Cuma namazýnda da camiler dolup taþtý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-kades-baris-meydaninda-cuma-namazi-13295595-haberi/>https://www.haberler.com/son-dakika-haberleri-kades-baris-meydaninda-cuma-namazi-13295595-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:18:00");
+                        var haber = L.marker([40.548,34.960],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Çorum Belediyesi sokaða çýkma kýsýtlamasý döneminde ...</b><br>Çorum Belediye Baþkaný Halil Ýbrahim Aþgýn, Ýçiþleri Bakanlýðýnca yayýmlanan genelge kapsamýnda, 81 ilde uygulanan sokaða çýkma kýsýtlamasý süresince sokak hayvanlarýnýn beslenme ihtiyaçlarýný karþýladýklarýný belirterek, 'Sokaktaki hayvanlar, meydandaki kuþlar bize emanet.<br><b>Kaynak :</b> <a href=https://www.haberler.com/corum-belediyesi-sokaga-cikma-kisitlamasi-13780711-haberi/>https://www.haberler.com/corum-belediyesi-sokaga-cikma-kisitlamasi-13780711-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:29:00");
 
                     

@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.150,26.414],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Lapseki devi kiraz, çay bardaðýna sýðmýyor</b><br>TÜRKÝYE'nin önemli kiraz üretim merkezlerinden Çanakkale'nin Lapseki ilçesinde, lezzeti ve iriliðiyle meþhur olan 'Lapseki devi' türü kiraz, çay bardaðýna sýðmýyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/lapseki-devi-kiraz-cay-bardagina-sigmiyor-13295680-haberi/>https://www.haberler.com/lapseki-devi-kiraz-cay-bardagina-sigmiyor-13295680-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 22:55:00");
+                        var haber = L.marker([40.150,26.414],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Bolu Valisi Ümit'in 5 Aralýk Dünya Kadýn Haklarý Günü ...</b><br>Bolu Valisi Ahmet Ümit, 5 Aralýk Dünya Kadýn Haklarý Günü dolayýsýyla bir mesaj yayýmladý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bolu-valisi-umit-in-5-aralik-dunya-kadin-haklari-13780554-haberi/>https://www.haberler.com/bolu-valisi-umit-in-5-aralik-dunya-kadin-haklari-13780554-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 13:15:00");
 
                     

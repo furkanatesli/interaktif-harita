@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.650,35.834],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Bulduðu parayý belediye görevlilerine teslim etti</b><br>Amasya'nýn Taþova ilçesinde 20 yaþýndaki Resul Þahin, yolda bulduðu parayý belediyeye teslim etti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/buldugu-parayi-belediye-gorevlilerine-teslim-etti-13294764-haberi/>https://www.haberler.com/buldugu-parayi-belediye-gorevlilerine-teslim-etti-13294764-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 17:07:00");
+                        var haber = L.marker([40.650,35.834],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Amasya'da kýsýtlamada sokak hayvanlarý unutulmadý</b><br>AMASYA'da sokaða çýkma kýsýtlamasýnda belediye ekipleri sokak hayvanlarýna mama býraktý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/amasya-da-kisitlamada-sokak-hayvanlari-unutulmadi-13780694-haberi/>https://www.haberler.com/amasya-da-kisitlamada-sokak-hayvanlari-unutulmadi-13780694-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:23:00");
 
                     

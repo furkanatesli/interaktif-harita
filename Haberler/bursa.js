@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.182,29.066],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Otomobil ile çarpýþan motosikletin sürücüsü öldü</b><br>BURSA'nýn Ýnegöl ilçesinde, otomobil ile çarpýþan motosikletin sürücüsü Abdulkadir Yazar (64), hayatýný kaybetti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/otomobil-ile-carpisan-motosikletin-surucusu-oldu-13295730-haberi/>https://www.haberler.com/otomobil-ile-carpisan-motosikletin-surucusu-oldu-13295730-haberi/</a><br><b>Paylasim Tarihi : <b>5.06.2020 23:16:00");
+                        var haber = L.marker([40.182,29.066],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Türkiye'de 590 bin Bursa'da 34 bin ailenin doðalgazý ...</b><br>CHP Bursa Milletvekili Erkan Aydýn'ýn soru önergesi acý gerçeði ortaya çýkardý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/turkiye-de-590-bin-bursa-da-34-bin-ailenin-13780632-haberi/>https://www.haberler.com/turkiye-de-590-bin-bursa-da-34-bin-ailenin-13780632-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 13:58:00");
 
                     

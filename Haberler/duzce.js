@@ -1,5 +1,5 @@
 
-                        var marker = L.marker([40.842,31.157],{icon: habericon}).addTo(map);
-                        marker.bindPopup("<b>Son dakika haberleri | Düzce'de bakkala inek girdi</b><br>Son dakika güncel haberi: Düzce'de bakkala inek girdi DÜZCE'nin Akçakoca ilçesinde sahibi tarafýndan ahýra götürülen inek köy bakkalýna girdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-duzce-de-bakkala-inek-girdi-13295842-haberi/>https://www.haberler.com/son-dakika-haberleri-duzce-de-bakkala-inek-girdi-13295842-haberi/</a><br><b>Paylasim Tarihi : <b>6.06.2020 00:08:00");
+                        var haber = L.marker([40.842,31.157],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Düzce'de ýsýnmaya iliþkin nakdi yardýmlar doðal gaz ...</b><br>Düzce Valiliði, kente hava kalitesinin iyileþtirilmesine yönelik tedbirler kapsamýnda ihtiyaç sahiplerine sýnmaya iliþkin saðlanan nakdi yardýmlarýn doðal gaz kullanýmýnýn teþvikine yönelik yapýlmasýný kararlaþtýrdý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/duzce-de-isinmaya-iliskin-nakdi-yardimlar-dogal-13780686-haberi/>https://www.haberler.com/duzce-de-isinmaya-iliskin-nakdi-yardimlar-dogal-13780686-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:19:00");
 
                     

@@ -3,7 +3,6 @@
 Yazılım Tasarım Ve Mimarisi Dersi için geliştirdiğim İnteraktif Harita Uygulaması.
 
 Proje Demosu: https://furkanatesli.github.io/interaktif-harita/index.html</br>
-Canlı Demo: http://3.121.99.33/</br>
 
 #### Amaç
 

@@ -1,4 +1,4 @@
 
                         var haber = L.marker([40.461,39.476],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Özel çocukların el emeği ürünleri Özel Eller Sanat Şenliği'nde sergilendi</b><br>Özel çocukların el emeği ürünleri Özel Eller Sanat Şenliği'nde sergilendi Gümüşhane'de, 10-16 Mayıs Engelliler Haftası çerçevesinde 'Özel Eller Sanat Şenliği' açılışı yapıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ozel-cocuklarin-el-emegi-urunleri-ozel-eller-sanat-14937257-haberi/>https://www.haberler.com/ozel-cocuklarin-el-emegi-urunleri-ozel-eller-sanat-14937257-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:12:00 +0300");
+                        haber.bindPopup("<b>2022 yılı sulama tesisleri ücret tarifesi belirlendi</b><br>Bazı sulama tesislerinden faydalananlardan 2022'de alınacak işletme ve bakım ücreti tutarları belirlendi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/2022-yili-sulama-tesisleri-ucret-tarifesi-14937874-haberi/>https://www.haberler.com/2022-yili-sulama-tesisleri-ucret-tarifesi-14937874-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 09:03:00 +0300");
                     

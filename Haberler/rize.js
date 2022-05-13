@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([41.022,40.519],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Son dakika haberi: DHA YURT BÜLTENÝ - 21</b><br>Son dakika haber... Cumhurbaþkaný Erdoðan,Sarýkamýþ-Karakurt-Horasan karayolu açýlýþýna video konferansla katýldýBakan Karaismailoðlu: Yapacaðýmýz yatýrýmlar bizi lojistikte süper güç haline getirecek (2)Ulaþtýrma ve Altyapý Bakaný Adil Karaismailoðlu, 45,7 kilometre uzunluðundaki...<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberi-dha-yurt-bulteni-21-13781099-haberi/>https://www.haberler.com/son-dakika-haberi-dha-yurt-bulteni-21-13781099-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 17:20:00");
-                    

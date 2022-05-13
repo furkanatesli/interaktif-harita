@@ -1,4 +1,4 @@
 
                         var haber = L.marker([39.847,33.528],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>KIRIKKALE - Kuyumcunun dikkati sayesinde dolandırılmaktan kurtuldu</b><br>Kırıkkale'de bir kuyumcu, 73 yaşındaki müşterisinin 257 bin lirasını dolandırıcılara kaptırmasını engelledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kirikkale-kuyumcunun-dikkati-sayesinde-14937246-haberi/>https://www.haberler.com/kirikkale-kuyumcunun-dikkati-sayesinde-14937246-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:04:00 +0300");
+                        haber.bindPopup("<b>Gerçek kuyumcuda ortaya çıktı: Az kalsın dolandırıcıya 257 bin lirasını kaptırıyordu</b><br>Kırıkkale'de bir kuyumcu, altınlarını bozdurmak için iş yerine geldiği 73 yaşındaki adamın 257 bin lirasını kendisini 'başkomiser' olarak tanıtan dolandırıcıya kaptırmasını engelledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/gercek-kuyumcuda-ortaya-cikti-az-kalsin-14937850-haberi/>https://www.haberler.com/gercek-kuyumcuda-ortaya-cikti-az-kalsin-14937850-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 08:53:00 +0300");
                     

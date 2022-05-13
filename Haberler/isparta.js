@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([37.770,30.555],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Son dakika haberleri! Uzman Çavuþ Ahmet Acar, korona ...</b><br>Bir son dakika haberine göre Isparta'da Jandarma Uzman Çavuþ olarak görev yapan Nevþehirli 44 yaþýndaki Ahmet Acar, korona virüs tedavisi gördüðü hastanede hayatýný kaybetti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-uzman-cavus-ahmet-acar-korona-viruse-yenik-dustu-13781107-haberi/>https://www.haberler.com/son-dakika-haberleri-uzman-cavus-ahmet-acar-korona-viruse-yenik-dustu-13781107-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 17:25:00");
-                    

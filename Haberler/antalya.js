@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([36.900,30.693],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Son dakika... Cadde ve sokaklarda sessizlik hakim</b><br>Son dakika gündem haberi: 5,2 büyüklüðünde depremle sallanan Antalya'da, yeni tip koronavirüs salgýný nedeniyle cadde, sokak ve meydanlarda sessizlik hakim.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-cadde-ve-sokaklarda-sessizlik-hakim-13781296-haberi/>https://www.haberler.com/son-dakika-cadde-ve-sokaklarda-sessizlik-hakim-13781296-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 19:55:00");
-                    

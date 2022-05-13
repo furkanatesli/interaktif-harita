@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([38.615,27.425],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>TBL: Manisa BBSK: 86Merkezefendi Belediyesi Denizli ...</b><br>Manisa Büyükþehir Belediyespor (Manisa BBSK) Basketbol takýmý Türkiye Basketbol Ligi'nin 8. Haftasýnda, sahasýnda Merkezefendi Belediyesi Denizli Basket'i 86-84 yendi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tbl-manisa-bbsk-86merkezefendi-belediyesi-denizli-13781220-haberi/>https://www.haberler.com/tbl-manisa-bbsk-86merkezefendi-belediyesi-denizli-13781220-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 18:58:00");
-                    

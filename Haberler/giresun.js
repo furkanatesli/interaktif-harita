@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([40.914,38.388],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Eskiþehirspor: 2-0</b><br>STAT: AtatürkHAKEMLER: Yiðit Arslan (xx), Mehmet Emin Tuðral (xx), Emir Eray Eyisoy (xx)GÝRESUNSPOR: Onurcan (xx), Kerem (xxx), Diarra (xx), Sadi (xx) (Dk. 46 Milinkovic xxx), Hayrullah (xxx), Mehmet Taþ (xxx), Erol Can (xxx), Sergio Junior (xxx) (Dk. 86 Traore), Caner Hüseyin (xxx) (Dk.<br><b>Kaynak :</b> <a href=https://www.haberler.com/eskisehirspor-2-0-13780979-haberi/>https://www.haberler.com/eskisehirspor-2-0-13780979-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 16:26:00");
-                    

@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([38.675,39.222],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Çameli Belediyesi iþyerlerinden kira almayacaðýný ...</b><br>Çameli Belediyesi, korona virüs ile mücadele kapsamýnda faaliyetlerini durduran belediyeye ait mülkiyetlerden kira almayacaðýný duyurdu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/cameli-belediyesi-isyerlerinden-kira-almayacagini-13781287-haberi/>https://www.haberler.com/cameli-belediyesi-isyerlerinden-kira-almayacagini-13781287-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 19:51:00");
-                    

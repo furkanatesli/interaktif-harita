@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([40.461,39.476],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Son dakika haber: TRABZON/ORDU/SAMSUN - Sokaklar boþ ...</b><br>Son dakika gündem haberi: Yeni tip koronavirüs (Kovid-19) salgýnýnýn önlenmesine yönelik ülke genelinde uygulanan sokaða çýkma kýsýtlamasý kapsamýnda Trabzon'da sakin bir gün yaþanýyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-gundem-osmaniye-de-sokaklar-bos-kaldi-13780423-haberi/>https://www.haberler.com/son-dakika-gundem-osmaniye-de-sokaklar-bos-kaldi-13780423-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 12:23:00");
-                    

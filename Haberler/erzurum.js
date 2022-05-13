@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([39.906,41.273],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Aðrý'da yangýn faciasý; baba ve 2 çocuðu öldü (2)</b><br>CENAZELER ADLÝ TIP KURUMU'NA GÖNDERÝLDÝAðrý'da evlerinde çýkan yangýnda hayatlarýný kaybeden baba Özgür Murat ile çocuklarý Esmanur Murat ve Berat Murat'ýn cenazeleri, otopsi için Erzurum Adli Týp Kurumu'na gönderildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/agri-da-yangin-faciasi-baba-ve-2-cocugu-oldu-2-13781080-haberi/>https://www.haberler.com/agri-da-yangin-faciasi-baba-ve-2-cocugu-oldu-2-13781080-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 17:12:00");
-                    

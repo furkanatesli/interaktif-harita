@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([37.845,27.834],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Voleybol: Misli.com Sultanlar Ligi</b><br>Salon: Burhan Felek VestelHakemler: Ýlhami Þenyurt, Akif AltýnGalatasaray HDI Sigorta: Ýlkin Aydýn, Selin Arifoðlu, Çaðla Akýn, Kosheleva, Ergül Eroðlu, Ryhkliuk (Gizem Güreþen, Güldeniz Önal)Kuzeyboru: Mitchem, Sabriye Gönülkýrmaz, Arelya Karasoy, Hümay Topaloðlu, Ceren Nur Domac, Boskovic...<br><b>Kaynak :</b> <a href=https://www.haberler.com/voleybol-misli-com-sultanlar-ligi-13781299-haberi/>https://www.haberler.com/voleybol-misli-com-sultanlar-ligi-13781299-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 19:57:00");
-                    

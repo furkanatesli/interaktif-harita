@@ -26,6 +26,6 @@ L.control.layers(baseLayers, overlays).addTo(map);
 
 
 L.tileLayer('', {
-    attribution: '<a href="https://www.mapbox.com/">Mapbox</a> |' + '<a href="index.html">Harita Haber</a> Son Güncelleme Tarihi: 12/05/20 21:01:26'
+    attribution: '<a href="https://www.mapbox.com/">Mapbox</a> |' + '<a href="index.html">Harita Haber</a> Son GÃ¼ncelleme Tarihi: 05/13/22 10:15:37'
 }).addTo(map);
                     

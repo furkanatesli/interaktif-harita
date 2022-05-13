@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([39.768,30.521],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Yaþlý kadýndan 5 gündür haber alýnamýyor</b><br>Yaþlý kadýndan 5 gündür haber alýnamýyor 66 yaþýndaki Fatma Çeri'yi arama çalýþmalarý sokak kýsýtlamasýna raðmen havadan ve karadan devam ediyor Kütahya'nýn Simav ilçesine baðlý Demirciköy beldesinde, 1 Aralýk'tan bu yana kayýp olan Fatma Çeri'yi arama çalýþmalarý, sokak kýsýtlamasýna...<br><b>Kaynak :</b> <a href=https://www.haberler.com/yasli-kadindan-25-gundur-haber-alinamiyor-13781186-haberi/>https://www.haberler.com/yasli-kadindan-25-gundur-haber-alinamiyor-13781186-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 18:18:00");
-                    

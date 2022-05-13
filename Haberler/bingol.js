@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([38.885,40.496],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Bingöl'de, PKK'lý teröristlerin 2 odalý sýðýnaðý imha ...</b><br>BÝNGÖL'ün Adaklý ilçesi kýrsalýnda, terör örgütü PKK'ya yönelik düzenlenen operasyonda tespit edilen 2 odalý sýðýnak, içindeki malzemelerle imha edildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bingol-de-pkk-li-teroristlerin-kullandigi-2-odali-13781207-haberi/>https://www.haberler.com/bingol-de-pkk-li-teroristlerin-kullandigi-2-odali-13781207-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 18:35:00");
-                    

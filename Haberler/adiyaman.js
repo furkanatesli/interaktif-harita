@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([37.763,38.276],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Kýsýtlama kapsamýnda denetimler gün boyu sürdü</b><br>Adýyaman Emniyet Müdürlüðü ekipleri sokaða çýkma kýsýtlamasý kapsamýnda kentin deðiþik noktalarýnda uygulama gerçekleþtirdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kisitlama-kapsaminda-denetimler-gun-boyu-surdu-13781040-haberi/>https://www.haberler.com/kisitlama-kapsaminda-denetimler-gun-boyu-surdu-13781040-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 16:53:00");
-                    

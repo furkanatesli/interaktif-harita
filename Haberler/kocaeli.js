@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([40.768,29.968],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Son dakika haberleri: Kocaeli'de evde çıkan yangında ...</b><br>Gelen son dakika haberine göre Kocaeli'nin Gebze ilçesinde yangın çıkan evdeki 3 kardeş dumandan etkilendi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-kocaeli-de-evde-cikan-yanginda-3-cocuk-dumandan-13781333-haberi/>https://www.haberler.com/son-dakika-haberleri-kocaeli-de-evde-cikan-yanginda-3-cocuk-dumandan-13781333-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 20:23:00");
-                    

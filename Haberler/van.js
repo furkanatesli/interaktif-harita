@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([38.508,43.375],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Karantinada olması gereken aile kontrole takıldı</b><br>Karantinada olması gereken aile kontrole takıldı Hafta sonu sokağa çıkma yasağı olan Tatvan'da denetimler sıkı tutuldu Bitlis'in Tatvan'da sokağa çıkma kısıtlamasının başladığı ilk dakikalardan itibaren yapılan sıkı denetimlerde kısıtlamaları ve sokağa çıkma yasağını ihlal eden vatandaşlara...<br><b>Kaynak :</b> <a href=https://www.haberler.com/karantinada-olmasi-gereken-aile-kontrole-takildi-13781030-haberi/>https://www.haberler.com/karantinada-olmasi-gereken-aile-kontrole-takildi-13781030-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 16:47:00");
-                    

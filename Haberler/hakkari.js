@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([37.574,43.738],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Son dakika haberi! Yýldýrým-2 Cilo/Kasran Operasyonu'nda ...</b><br>Son dakika haber: Hakkari'nin Çukurca ilçesi Kasran Vadisi bölgesinde 15 tim ve 210 personel ile gerçekleþtirilen Yýldýrým-2 CÝLO/KASRAN operasyonu kapsamýnda sýðýnak içerisinde silah ve mühimmat ele geçirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yildirim-2-cilo-kasran-operasyonu-nda-silah-ele-13781329-haberi/>https://www.haberler.com/yildirim-2-cilo-kasran-operasyonu-nda-silah-ele-13781329-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 20:20:00");
-                    

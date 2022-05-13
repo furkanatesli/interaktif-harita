@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([40.842,31.157],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Kýsýtlamada patates servisi yapmaya kalktý, cezadan ...</b><br>Kýsýtlamada patates servisi yapmaya kalktý, cezadan kurtulamadý Korona virüs ile mücadele tedbirleri kapsamýnda sokaða çýkma kýsýtlamasýnda dýþarýda olmamasý gereken bir aracý durduran polis ekipleri, þahsa ceza yazmak istedi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kisitlamada-patates-servisi-yapmaya-kalkti-cezadan-13781340-haberi/>https://www.haberler.com/kisitlamada-patates-servisi-yapmaya-kalkti-cezadan-13781340-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 20:30:00");
-                    

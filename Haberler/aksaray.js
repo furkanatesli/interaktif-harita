@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([38.370,34.027],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Tüfeðini temizlerken eþini vurup kaçan koca yakalandý ...</b><br>TUTUKLANDI Aksaray'da iddiaya göre temizlediði av tüfeðinin ateþ almasý sonucu eþi Tuðçe Uðurlu'nun (24) karnýndan ve bacaðýndan yaralanmasýna neden olan Hidayet Uðurlu (30), sevk edildiði adliyede çýkarýldýðý mahkemece tutuklandý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tufegini-temizlerken-esini-vurup-kacan-koca-13781261-haberi/>https://www.haberler.com/tufegini-temizlerken-esini-vurup-kacan-koca-13781261-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 19:30:00");
-                    

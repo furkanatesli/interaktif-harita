@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([36.217,36.165],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Fatih Terim kadroda deðiþiklik yapmadý</b><br>Galatasaray Teknik Direktörü Fatih Terim, son hafta oynadýklarý ve 4-0 kazandýklarý Çaykur Rizespor maçýnýn 11'ine göre Hatayspor karþýsýnda deðiþiklik yapmadý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/fatih-terim-kadroda-degisiklik-yapmadi-13781230-haberi/>https://www.haberler.com/fatih-terim-kadroda-degisiklik-yapmadi-13781230-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 19:07:00");
-                    

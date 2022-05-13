@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([40.150,26.414],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Biga Belediyesi kýsýtlamada sokak hayvanlarýný unutmadý</b><br>ÇANAKKALE'nin Biga ilçe Belediyesi, hafta sonu uygulanan sokaða çýkma kýsýtlamasý kapsamýnda beslenme imkanlarý azalan sokak hayvanlarýný unutmadý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/biga-belediyesi-kisitlamada-sokak-hayvanlarini-13781151-haberi/>https://www.haberler.com/biga-belediyesi-kisitlamada-sokak-hayvanlarini-13781151-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 17:56:00");
-                    

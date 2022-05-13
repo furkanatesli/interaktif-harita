@@ -1,4 +1,4 @@
 
                         var haber = L.marker([37.574,43.738],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Hakkari Sümbül Spor il birincisi oldu</b><br>Hakkari'de 6 takımın katıldığı Gelişim U-16 Liginde Hakkari Sümbül Spor Takımı il birincisi oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/hakkari-sumbul-spor-il-birincisi-oldu-14936992-haberi/>https://www.haberler.com/hakkari-sumbul-spor-il-birincisi-oldu-14936992-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 18:52:00 +0300");
+                        haber.bindPopup("<b>Hakkari'de özel eğitim öğrencileri Özel Harekat Şube Müdürlüğü'nde ağırlandı</b><br>Hakkari İl Emniyet Müdürlüğü ekipleri, Engelliler Haftası dolayısıyla özel eğitim öğrencilerini Özel Harekat Şube Müdürlüğü'nde misafir etti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/hakkari-de-ozel-egitim-ogrencileri-ozel-harekat-14937891-haberi/>https://www.haberler.com/hakkari-de-ozel-egitim-ogrencileri-ozel-harekat-14937891-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 09:12:00 +0300");
                     

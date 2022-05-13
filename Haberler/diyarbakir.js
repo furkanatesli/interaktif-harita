@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([37.916,40.222],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Bir hayvan vahşeti daha! Kedinin arka ayaklarını kestiler</b><br>Diyarbakır'da aile hekimi Esra Cebe, oturduğu apartmanın bodrum katında site sakinleriyle beraber besledikleri kedilerden birinin arka ayaklarını kesik halde buldu. 'Melek' adını verdikleri kediyi veterinere götüren Cebe, olayı gerçekleştirenlerin yakalanması için şikayetçi oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kedinin-arka-ayaklarini-kestiler-13781189-haberi/>https://www.haberler.com/kedinin-arka-ayaklarini-kestiler-13781189-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 18:19:00");
-                    

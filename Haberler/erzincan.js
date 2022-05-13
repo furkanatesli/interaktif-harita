@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([39.749,39.494],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Son dakika haber... Doðu Anadolu sokaða çýkma kýsýtlamasýyla ...</b><br>Son dakika geliþmesine göre Yeni tip koronavirüs (Kovid-19) salgýný nedeniyle alýnan tedbirler kapsamýnda getirilen sokaða çýkma kýsýtlamasýna Doðu Anadolu Bölgesi'ndeki 7 ilde büyük oranda uyuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/>https://www.haberler.com/dogu-anadolu-sokaga-cikma-kisitlamasiyla-13780735-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 14:39:00");
-                    

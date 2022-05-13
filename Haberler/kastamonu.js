@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([41.375,33.776],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Vali ve Milletvekilleri yapýmý tamamlanan kavþaklarý ...</b><br>Karabük Valisi Fuat Gürel beraberinde AK Parti Milletvekilleri ve il baþkaný ile birlikte yapýmý tamamlanan kavþak ve yollarda incelemelerde bulundu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/vali-ve-milletvekilleri-yapimi-tamamlanan-13780995-haberi/>https://www.haberler.com/vali-ve-milletvekilleri-yapimi-tamamlanan-13780995-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 16:32:00");
-                    

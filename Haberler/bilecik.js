@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([40.143,29.975],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>MSB: Mihalgazi'nin kýlýcý, Osmanlý Devleti'ne ait ...</b><br>Milli Savunma Bakanlýðýnca (MSB) yapýlan envanter güncelleme çalýþmalarýnda Mihalgazi'ye ait kýlýcýn, Osmanlý Devleti'ne ait en eski eser olarak kayýt altýna alýndýðýný bildirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/msb-mihalgazi-nin-kilici-osmanli-devleti-ne-ait-en-13780852-haberi/>https://www.haberler.com/msb-mihalgazi-nin-kilici-osmanli-devleti-ne-ait-en-13780852-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 15:35:00");
-                    

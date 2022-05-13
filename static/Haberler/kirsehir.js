@@ -1,4 +1,4 @@
 
                         var haber = L.marker([39.145,34.161],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Kırşehir'de parka zarar verdikleri iddia edilen 3 kişiye adli işlem yapıldı</b><br>Kırşehir'de Aşıkpaşa Tabiat Parkı'na zarar verdikleri öne sürülen 3 kişi hakkında adli işlem başlatıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kirsehir-de-parka-zarar-verdikleri-iddia-edilen-3-14936538-haberi/>https://www.haberler.com/kirsehir-de-parka-zarar-verdikleri-iddia-edilen-3-14936538-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 16:19:00 +0300");
+                        haber.bindPopup("<b>Kırşehir'de 19 Mayıs Coşkusu "Gençlik Şöleni" ile Yaşanacak</b><br>Kırşehir Belediyesi, 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı dolayısıyla 'Gençlik Şöleni' düzenliyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kirsehir-de-19-mayis-coskusu-genclik-soleni-ile-14937910-haberi/>https://www.haberler.com/kirsehir-de-19-mayis-coskusu-genclik-soleni-ile-14937910-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 09:21:00 +0300");
                     

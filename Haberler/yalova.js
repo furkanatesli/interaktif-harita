@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([40.655,29.272],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Son dakika haberi... Yalova'daki silahlý saldýrýyla ...</b><br>Son dakika habere göre Yalova'daki silahlý saldýrýyla ilgili 7 kiþine gözaltýna alýndý Yalova'da bir iþ yerine yönelik düzenlenen silahlý saldýrýyla ilgili 7 kiþinin gözaltýna alýndý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/yalova-daki-silahli-saldiriyla-ilgili-7-kisi-13781181-haberi/>https://www.haberler.com/yalova-daki-silahli-saldiriyla-ilgili-7-kisi-13781181-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 18:13:00");
-                    

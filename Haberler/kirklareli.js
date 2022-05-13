@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([41.736,27.224],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Son dakika haberi... Sokaða çýkma yasaðýnda kan baðýþçýlarý ...</b><br>Son dakika haberleri... Sokaða çýkma yasaðýnda kan baðýþçýlarý muaf Sokaða çýkma yasaðýnda kan verdiler Koronavirüs pandemisi sebebiyle hafta sonu alýnan sokaða çýkma kýsýtlamasýndan kan baðýþçýlarý muaf tutuldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sokaga-cikma-yasaginda-kan-bagiscilari-muaf-13781126-haberi/>https://www.haberler.com/sokaga-cikma-yasaginda-kan-bagiscilari-muaf-13781126-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 17:33:00");
-                    

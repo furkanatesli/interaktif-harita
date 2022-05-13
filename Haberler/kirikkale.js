@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([39.847,33.528],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Sokaða çýkma kýsýtlamasýndan muaf tutulan esnaflar ...</b><br>Niðde, Kýrýkkale, Sivas, Nevþehir ve Kýrþehir'de yeni tip koronavirüs (Kovid-19) salgýnýnýn önlenmesine yönelik uygulanan sokaða çýkma kýsýtlamasý kapsamýnda 10.00-17.00 saatleri arasýnda izin verilen iþ yerlerinde mesai devam etti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sokaga-cikma-kisitlamasindan-muaf-tutulan-esnaflar-13780814-haberi/>https://www.haberler.com/sokaga-cikma-kisitlamasindan-muaf-tutulan-esnaflar-13780814-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 15:13:00");
-                    

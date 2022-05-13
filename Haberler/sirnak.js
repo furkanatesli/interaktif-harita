@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([37.518,42.461],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Þehit Erkesikbaþ, kabri baþýnda anýldý</b><br>Þýrnak'ta, askeri aracýn geçiþi sýrasýnda, terör örgütü mensuplarýnýn döþediði mayýnýn uzaktan kumandayla patlatýlmasý sonucu þehit düþen Jandarma Er Muhammet Erkesikbaþ, þehadetinin 14. yýlýnda Eskil'deki mezarý baþýnda anýldý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sehit-erkesikbas-kabri-basinda-anildi-13781142-haberi/>https://www.haberler.com/sehit-erkesikbas-kabri-basinda-anildi-13781142-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 17:47:00");
-                    

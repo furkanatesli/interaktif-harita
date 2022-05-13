@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([39.921,32.853],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Sokaða çýkma kýsýtlamasýna genel olarak uyuldu</b><br>Kentteki cadde ve sokaklardan görüntüler Araç ve insan hareketliliðinin azalmasý Polis ekipleri KIRÞEHÝR - Ýçiþleri Bakanlýðýnýn genelgesi doðrultusunda dün saat 21.00'den itibaren baþlayan sokaða çýkma kýsýtlamasýna Kýrþehir'de genel olarak vatandaþlarýn uyduðu görüldü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sokaga-cikma-kisitlamasina-genel-olarak-uyuldu-13781355-haberi/>https://www.haberler.com/sokaga-cikma-kisitlamasina-genel-olarak-uyuldu-13781355-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 20:49:00");
-                    

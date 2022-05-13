@@ -1,4 +1,4 @@
 
                         var haber = L.marker([37.002,35.326],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Serinlemek için Ceyhan Nehri'ne giren çocuk kayboldu</b><br>Adana'da serinlemek için Ceyhan Nehri'ne giren 16 yaşındaki çocuk, akıntıya kapılarak kayboldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/serinlemek-icin-ceyhan-nehri-ne-giren-cocuk-14937230-haberi/>https://www.haberler.com/serinlemek-icin-ceyhan-nehri-ne-giren-cocuk-14937230-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 20:53:00 +0300");
+                        haber.bindPopup("<b>Adana'da yasak aşk intiharı: Kadın öldü, erkek kurtuldu</b><br>Adana'da sevgili oldukları öne sürülen Tuncay K. ve Sonay T. birlikte köprüden Seyhan Baraj Gölü'ne atladı. Tuncay K. polis ve itfaiye erleri tarafından kurtarılırken, Sonay T. ise hayatını kaybetti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/adana-da-yasak-ask-intihari-kadin-oldu-erkek-14938029-haberi/>https://www.haberler.com/adana-da-yasak-ask-intihari-kadin-oldu-erkek-14938029-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 10:03:00 +0300");
                     

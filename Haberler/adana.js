@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([37.002,35.326],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Antalya açýklarýnda 5.2 büyüklüðünde deprem (3)</b><br>DEPREM PROFESÖRÜNDEN AÇIKLMAAÝzmir Dokuz Eylül Üniversitesi (DEÜ) Deprem Araþtýrma ve Uygulama Merkezi (DAUM) Müdürü ve Jeoloji Mühendisliði Bölümü Öðretim Üyesi Prof. Dr. Hasan Sözbilir, Gazipaþa açýklarýnda Akdeniz'de meydana gelen 5.<br><b>Kaynak :</b> <a href=https://www.haberler.com/antalya-aciklarinda-5-2-buyuklugunde-deprem-3-13781044-haberi/>https://www.haberler.com/antalya-aciklarinda-5-2-buyuklugunde-deprem-3-13781044-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 16:55:00");
-                    

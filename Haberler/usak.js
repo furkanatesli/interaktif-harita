@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([38.681,29.403],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Uþak'ta korona denetimleri hýz kesmeden devam ediyor</b><br>Uþak'ta korona denetimleri hýz kesmeden devam ediyor Ýçiþleri Bakanlýðý'nýn korona virüs (Kovid-19) tedbirleri kapsamýnda yayýnladýðý genelge doðrultusunda, Uþak'ta trafik ve asayiþ ekipleri tarafýndan sokaða çýkan yaya ve otomobilli vatandaþlarda maske ve izin denetimleri devam ediyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/usak-ta-korona-denetimleri-hiz-kesmeden-devam-13781124-haberi/>https://www.haberler.com/usak-ta-korona-denetimleri-hiz-kesmeden-devam-13781124-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 17:31:00");
-                    

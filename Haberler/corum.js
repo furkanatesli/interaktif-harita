@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([40.548,34.960],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Çorum'da sokak hayvanlarý unutulmadý</b><br>Çorum'da sokak hayvanlarý unutulmadý Çorum Belediye Baþkaný Dr. Halil Ýbrahim Aþgýn; 'Kentimizde açta açýkta hiçbir canlý kalmayacak' Çorum'da korona virüs tedbirleri kapsamýnda hafta sonu uygulanan sokaða çýkma kýsýtlamasý kapsamýnda sokak hayvanlarý unutulmadý.<br><b>Kaynak :</b> <a href=https://www.haberler.com/corum-da-sokak-hayvanlari-unutulmadi-13781083-haberi/>https://www.haberler.com/corum-da-sokak-hayvanlari-unutulmadi-13781083-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 17:13:00");
-                    

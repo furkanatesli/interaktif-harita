@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([38.414,27.144],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Solhanspor: 3-1</b><br>SALON: Ýzmir AtatürkHAKEMLER: Cihat Küçükboyacý (xx), Ferhat Büyükpamukçu (xx)ARKASSPOR: Vinkelmüller (xxx), Efe (xxx), Mustafa Cengiz (xxx), Yiðit (xxx), Burak Güngör (xxx), Mustafa Koç (xxx), Bravo (xxx), Burak Çevik (xx), Çaðatay (xxx), Matic (xx), Mirza (xxx)SOLHANSPOR: Koray (xx), Orçun...<br><b>Kaynak :</b> <a href=https://www.haberler.com/solhanspor-3-1-13781317-haberi/>https://www.haberler.com/solhanspor-3-1-13781317-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 20:13:00");
-                    

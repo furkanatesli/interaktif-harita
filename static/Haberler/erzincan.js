@@ -1,4 +1,4 @@
 
                         var haber = L.marker([39.749,39.494],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>beklesin Tokat'ta geleneksel okçuluk yarışları başladı</b><br>Tokat'ta, Türkiye Geleneksel Türk Okçuluk Federasyonu (TGTOF) tarafından organize edilen Tokat Danişment Gazi Büyükler Açık Hava Puta ve Hava Koşusu eleme turları başladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/beklesin-tokat-ta-geleneksel-okculuk-yarislari-14936541-haberi/>https://www.haberler.com/beklesin-tokat-ta-geleneksel-okculuk-yarislari-14936541-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 16:19:00 +0300");
+                        haber.bindPopup("<b>Son dakika haber... Üzümlü'de iki aile arasında kavga: 2 yaralı</b><br>Son dakika haber: Erzincan'ın Üzümlü ilçesinde, iki aile arasında çıkan kavgada 2 kişi yaralandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haber-uzumlu-de-iki-aile-arasinda-kavga-2-yarali-14937896-haberi/>https://www.haberler.com/son-dakika-haber-uzumlu-de-iki-aile-arasinda-kavga-2-yarali-14937896-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 09:14:00 +0300");
                     

@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([41.632,32.338],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Güvercinler ve sokak hayvanları ekipler tarafından ...</b><br>Bartın'da yeni tip koronavirüs (Kovid-19) tedbirleri kapsamında hafta sonu yurt genelinde uygulanan sokağa çıkma kısıtlaması nedeniyle yaban ve sokak hayvanlarına yem bırakıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/bartin-da-guvercinler-ve-sokak-hayvanlari-ekipler-13780991-haberi/>https://www.haberler.com/bartin-da-guvercinler-ve-sokak-hayvanlari-ekipler-13780991-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 16:31:00");
-                    

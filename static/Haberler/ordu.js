@@ -1,4 +1,4 @@
 
                         var haber = L.marker([40.980,37.884],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>TFF 3. Lig Play-Off: Orduspor 1967: 1 İçel İdmanyurdu: 0</b><br>TFF 3. Lig 3 Grup Play-Off mücadelesinde Orduspor 1967, sahasında İçel İdmanyurdu Spor Kulübü'nü 1-0 mağlup etti.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tff-3-lig-play-off-orduspor-1967-1-icel-idmanyurdu-14937340-haberi/>https://www.haberler.com/tff-3-lig-play-off-orduspor-1967-1-icel-idmanyurdu-14937340-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 22:10:00 +0300");
+                        haber.bindPopup("<b>Kara yollarında durum</b><br>Kara yollarının yapım, bakım ve onarım çalışmaları sürdürülen kesimlerinde yavaş gidilmesi, trafik işaret ve işaretçilerine uyulması gerekiyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kara-yollarinda-durum-9-14937800-haberi/>https://www.haberler.com/kara-yollarinda-durum-9-14937800-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 08:11:00 +0300");
                     

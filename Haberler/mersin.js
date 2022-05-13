@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([36.812,34.634],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Doðu Akdeniz'de "kýsýtlama" sessizliði</b><br>Yeni tip koronavirüs (Kovid-19) salgýný nedeniyle alýnan tedbirler kapsamýnda getirilen sokaða çýkma kýsýtlamasýyla Adana, Mersin, Hatay ve Osmaniye'deki cadde, sokak ve meydanlarda gün boyu sessizlik hakim oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dogu-akdeniz-de-kisitlama-sessizligi-13781350-haberi/>https://www.haberler.com/dogu-akdeniz-de-kisitlama-sessizligi-13781350-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 20:39:00");
-                    

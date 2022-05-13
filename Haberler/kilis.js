@@ -1,4 +1,0 @@
-
-                        var haber = L.marker([36.717,37.116],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Kilis'te tır lastiğinde sigara kaçakçılığı</b><br>Kilis'te tır lastiğinde sigara kaçakçılığı Kilis'in Elbeyli ilçesi Çobanbey Gümrük Kapısı'nda, Suriye'den Türkiye'ye giren tırın lastiklerinde yapılan aramada, bin 400 paket kaçak sigara ele geçirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kilis-te-tir-lastiginde-sigara-kacakciligi-13780918-haberi/>https://www.haberler.com/kilis-te-tir-lastiginde-sigara-kacakciligi-13780918-haberi/</a><br><b>Paylasim Tarihi : <b>5.12.2020 16:05:00");
-                    

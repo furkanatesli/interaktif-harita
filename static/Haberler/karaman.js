@@ -1,4 +1,4 @@
 
                         var haber = L.marker([37.178,33.224],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Karaman'da kenevir fidesi yetiştiren iki şüpheli yakalandı</b><br>Karaman'da plastik kasada tüpler içerisinde kenevir bitkisi fidesi yetiştiren iki şüpheli yakalandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karaman-da-kenevir-fidesi-yetistiren-iki-supheli-14937302-haberi/>https://www.haberler.com/karaman-da-kenevir-fidesi-yetistiren-iki-supheli-14937302-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:43:00 +0300");
+                        haber.bindPopup("<b>GÜNDEM / 13 Mayıs 2022</b><br>Cumhurbaşkanı Recep Tayyip Erdoğan, Vahdettin Köşkü'nde Katar Emiri Şeyh Temim Bin Hamed Al Sani ile görüşecek, Atatürk Kültür Merkezi'nde 'Zindandan Mehmed'e Mektup' Sergisi ve 'Reis Bey' tiyatrosunun gösterimine katılacak.<br><b>Kaynak :</b> <a href=https://www.haberler.com/gundem-13-mayis-2022-14937863-haberi/>https://www.haberler.com/gundem-13-mayis-2022-14937863-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 08:58:00 +0300");
                     

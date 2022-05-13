@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([39.749,39.494],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>beklesin Tokat'ta geleneksel okçuluk yarışları başladı</b><br>Tokat'ta, Türkiye Geleneksel Türk Okçuluk Federasyonu (TGTOF) tarafından organize edilen Tokat Danişment Gazi Büyükler Açık Hava Puta ve Hava Koşusu eleme turları başladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/beklesin-tokat-ta-geleneksel-okculuk-yarislari-14936541-haberi/>https://www.haberler.com/beklesin-tokat-ta-geleneksel-okculuk-yarislari-14936541-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 16:19:00 +0300");
+                    

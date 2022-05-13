@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([38.739,41.496],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika haber: Son 24 saatte korona virüsten 8 kişi hayatını kaybetti</b><br>Son dakika haberler: Sağlık Bakanlığı, son 24 saatte 8 kişinin korona virüsten hayatını kaybettiğini, bin 542 yeni vakanın olduğunu açıkladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haber-son-24-saatte-korona-virusten-8-kisi-hayatini-14937319-haberi/>https://www.haberler.com/son-dakika-haber-son-24-saatte-korona-virusten-8-kisi-hayatini-14937319-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:53:00 +0300");
+                    

@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([39.145,34.161],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Kırşehir'de parka zarar verdikleri iddia edilen 3 kişiye adli işlem yapıldı</b><br>Kırşehir'de Aşıkpaşa Tabiat Parkı'na zarar verdikleri öne sürülen 3 kişi hakkında adli işlem başlatıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kirsehir-de-parka-zarar-verdikleri-iddia-edilen-3-14936538-haberi/>https://www.haberler.com/kirsehir-de-parka-zarar-verdikleri-iddia-edilen-3-14936538-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 16:19:00 +0300");
+                    

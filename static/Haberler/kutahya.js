@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([39.419,29.985],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika: Altıntaş'ta ev yangını korkuttu</b><br>Son dakika haberi: Kütahya'nın Altıntaş ilçesine bağlı Sadıkkırı köyünde bir evde çıkan yangın itfaiye ekiplerince söndürüldü.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-altintas-ta-ev-yangini-korkuttu-14937361-haberi/>https://www.haberler.com/son-dakika-altintas-ta-ev-yangini-korkuttu-14937361-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 22:27:00 +0300");
+                    

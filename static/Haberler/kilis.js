@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([36.717,37.116],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Kuveyt Türk'ün reel sektöre desteği 150 milyar TL'yi aştı</b><br>Türkiye'nin öncü katılım finans kuruluşlarından Kuveyt Türk, 2022 yılı ilk çeyreğine ilişkin finansal sonuçlarını açıkladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kuveyt-turk-un-reel-sektore-destegi-150-milyar-tl-14935958-haberi/>https://www.haberler.com/kuveyt-turk-un-reel-sektore-destegi-150-milyar-tl-14935958-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 13:31:00 +0300");
+                    

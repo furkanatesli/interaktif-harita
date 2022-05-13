@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([42.026,35.150],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Ağacın kökünün betonla kapatılmasına karşı çıkan çevreci keserle betonu kırdı</b><br>Ağacın kökünün betonla kapatılmasına karşı çıkan çevreci keserle betonu kırdı Sinop'ta yürütülen Meydan Projesi kapsamında Millet Bahçesi olarak belirlenen ağaçlık alana dökülen beton, bazı çevrecileri kızdırdı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/agacin-kokunun-betonla-kapatilmasina-karsi-cikan-14937424-haberi/>https://www.haberler.com/agacin-kokunun-betonla-kapatilmasina-karsi-cikan-14937424-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 23:05:00 +0300");
+                    

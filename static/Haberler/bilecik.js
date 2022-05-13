@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([40.143,29.975],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Başkan Vekili okuduğu okulun kütüphanesi baştan aşağı yeniledi</b><br>Başkan Vekili okuduğu okulun kütüphanesi baştan aşağı yeniledi -15 Temmuz Şehitleri Anadolu Lisesi son sistem kütüphane Bilecik Belediye Başkan V.<br><b>Kaynak :</b> <a href=https://www.haberler.com/baskan-vekili-okudugu-okulun-kutuphanesi-bastan-14937096-haberi/>https://www.haberler.com/baskan-vekili-okudugu-okulun-kutuphanesi-bastan-14937096-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 19:42:00 +0300");
+                    

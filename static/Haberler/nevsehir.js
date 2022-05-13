@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([38.621,34.715],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Nevşehir Belediye Başkanı Savran, belediyeyle ilgili iddialara cevap verdi</b><br>Nevşehir Belediye Başkanı Mehmet Savran, İYİ Parti Nevşehir İl Başkanı Ömer Ay'ın belediye ile ilgili iddialarına yanıt verdi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/nevsehir-belediye-baskani-savran-belediyeyle-14937104-haberi/>https://www.haberler.com/nevsehir-belediye-baskani-savran-belediyeyle-14937104-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 19:46:00 +0300");
+                    

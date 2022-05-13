@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.771,29.086],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Öğrenciler pandemide artan teknoloji bağımlığına dikkat çekti</b><br>Öğrenciler pandemide artan teknoloji bağımlığına dikkat çekti Öğrenci Elifsu Meşe: 'Artan teknoloji bağımlılığı olumsuz yönde etkilemeye başladı' Denizli'nin Pamukkale ilçesinde 4.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ogrenciler-pandemide-artan-teknoloji-bagimligina-14937312-haberi/>https://www.haberler.com/ogrenciler-pandemide-artan-teknoloji-bagimligina-14937312-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:49:00 +0300");
+                    

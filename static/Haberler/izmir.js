@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([38.414,27.144],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Beyoğlu ve Başkent Kültür Yolu Festivalleri AKM'de tanıtıldı</b><br>Beyoğlu ve Başkent Kültür Yolu Festivalleri AKM'de tanıtıldı -Kültür ve Turizm Bakanı Mehmet Nuri Ersoy: 'Sanatta özgün ekollere sahip bir ülke konumuna gelmemize dair hedeflerimize kararlılıkla ilerliyoruz' Beyoğlu ve Başkent Kültür Yolu Festivalleri Taksim'de bulunan Atatürk Kültür...<br><b>Kaynak :</b> <a href=https://www.haberler.com/beyoglu-ve-baskent-kultur-yolu-festivalleri-akm-de-14937392-haberi/>https://www.haberler.com/beyoglu-ve-baskent-kultur-yolu-festivalleri-akm-de-14937392-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 22:43:00 +0300");
+                    

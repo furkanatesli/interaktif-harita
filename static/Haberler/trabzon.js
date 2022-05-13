@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([41.005,39.718],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Dünya Kadınlar Boks Şampiyonası - Milli boksör Busenaz Sürmeneli</b><br>Uluslararası Boks Birliği (IBA) tarafından Türkiye'nin ev sahipliğinde düzenlenen Dünya Kadınlar Boks Şampiyonası'nda 66 kilo son 32 turunda İtalyan rakibi Angela Carini'yi yenerek adını bir üst tura yazdıran milli boksör Busenaz Sürmeneli, hedefinin her zaman şampiyonluk olduğunu söyledi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/dunya-kadinlar-boks-sampiyonasi-14937295-haberi/>https://www.haberler.com/dunya-kadinlar-boks-sampiyonasi-14937295-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:40:00 +0300");
+                    

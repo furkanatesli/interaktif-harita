@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([38.724,35.485],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Kayseri'de aralarında firari hükümlülerin de bulunduğu 18 kişi yakalandı</b><br>Kayseri'de haklarında kesinleşmiş hapis cezası bulunan hükümlülerin de aralarında yer aldığı 18 kişi yakalandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kayseri-de-aralarinda-firari-hukumlulerin-de-14937396-haberi/>https://www.haberler.com/kayseri-de-aralarinda-firari-hukumlulerin-de-14937396-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 22:46:00 +0300");
+                    

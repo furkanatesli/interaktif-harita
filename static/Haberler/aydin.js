@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.845,27.834],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>TFF 2. Lig Play-Off: Isparta 32 Spor: 0 Karacabey Belediyespor: 2</b><br>TFF 2. Lig Play-Off Çeyrek final amçında Isparta 32 Spor, sahasında Karacabey Belediyespor'a 2-0 mağlup oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tff-2-lig-play-off-isparta-32-spor-0-karacabey-14937438-haberi/>https://www.haberler.com/tff-2-lig-play-off-isparta-32-spor-0-karacabey-14937438-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 23:19:00 +0300");
+                    

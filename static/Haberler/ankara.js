@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([39.921,32.853],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika haber... Zeytinburnu'nda öldürülen Afgan gencin katil zanlıları Sakarya'da yakalandı</b><br>Son dakika haberleri... Zeytinburnu'nda Afgan gencin bıçaklanarak öldürülmesine ilişkin Afgan iki zanlı Sakarya'da yakalandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haber-zeytinburnu-nda-oldurulen-afgan-gencin-katil-14937399-haberi/>https://www.haberler.com/son-dakika-haber-zeytinburnu-nda-oldurulen-afgan-gencin-katil-14937399-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 22:48:00 +0300");
+                    

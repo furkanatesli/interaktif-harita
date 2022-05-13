@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.061,37.378],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Kılıçdaroğlu'ndan Karkamış Şehidine Taziye</b><br>CHP Genel Başkanı Kemal Kılıçdaroğlu, Gaziantep Karkamış ilçesine ve Köprübatı Hudut karakoluna terör örgütünün düzenlediği saldırıda şehit düşen asker için taziye mesajı yayınladı. MSB, 'Hain saldırı sonrası başlatılan meşru müdafaa ve cezalandırma atışları sonucunda etkisiz hâle getirilen terörist sayısı 21’e yükselmiştir” açıklamasını yaptı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kilicdaroglu-ndan-karkamis-sehidine-taziye-14937439-haberi/>https://www.haberler.com/kilicdaroglu-ndan-karkamis-sehidine-taziye-14937439-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 23:20:00 +0300");
+                    

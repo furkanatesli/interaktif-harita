@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.159,38.792],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Şanlıurfa'da evlerin oturma odalarındaki gündem bu olay! Yer altında gizli bir oda bulundu</b><br>Şanlıurfa'nın Urfa'nın Başbük ilçesinde Demir Çağı'ndan kalma bir yer altı yapısı keşfedildi. Kentte heyecan yaratan yapının ziyarete açılıp açılmayacağı son günlerde çok merak ediliyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sanliurfa-da-evlerin-oturma-odalarindaki-gundem-14937426-haberi/>https://www.haberler.com/sanliurfa-da-evlerin-oturma-odalarindaki-gundem-14937426-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 23:09:00 +0300");
+                    

@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([40.605,43.097],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Mahkum Efkan kimdir? Mahkum dizisi 'Efkan Dağlı' kimdir, kim canlandırıyor? Talat Bulut kimdir, kaç yaşında, nereli?</b><br>Ekranların sevilen dizisi Mahkum'un karakterleri kimlerdir merak ediliyor. Merak edilen isimlerden birisi de Efkan oldu. Peki, Mahkum Efkan kimdir? Mahkum dizisi Efkan (Talat Bulut) kimdir, kaç yaşında? Talat Bulut'un dizileri nelerdir? Hayatı ve biyografisi! Mahkum Efkan kimdir, kaç yaşında, gerçek adı nedir, aslen nerelidir? Detaylar sizlerle...<br><b>Kaynak :</b> <a href=https://www.haberler.com/mahkum-efkan-kimdir-mahkum-dizisi-efkan-dagli-14937345-haberi/>https://www.haberler.com/mahkum-efkan-kimdir-mahkum-dizisi-efkan-dagli-14937345-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 22:12:00 +0300");
+                    

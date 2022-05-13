@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([41.289,36.332],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Kayıp kedisini ararken gizlenmiş el yapımı bomba buldu</b><br>Kayıp kedisini ararken gizlenmiş el yapımı bomba buldu Samsun'da bir kişi kayıp olan yavru kedisini ararken evlerin arasındaki baraka yanına gizlenmiş el yapımı bomba buldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kayip-kedisini-ararken-gizlenmis-el-yapimi-bomba-14937299-haberi/>https://www.haberler.com/kayip-kedisini-ararken-gizlenmis-el-yapimi-bomba-14937299-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:42:00 +0300");
+                    

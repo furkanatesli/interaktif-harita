@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([40.768,29.968],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>İhtiyaç sahibi vatandaşlar için toplanan kıyafetler yandı</b><br>İhtiyaç sahibi vatandaşlar için toplanan kıyafetler yandı Kocaeli'nin Dilovası ilçesinde ihtiyaç sahibi vatandaşlar için kurulan kıyafet kumbarası yandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/ihtiyac-sahibi-vatandaslar-icin-toplanan-14937390-haberi/>https://www.haberler.com/ihtiyac-sahibi-vatandaslar-icin-toplanan-14937390-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 22:42:00 +0300");
+                    

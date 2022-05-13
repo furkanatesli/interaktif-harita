@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.970,34.679],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Niğde'de 4 milyon 950 bin adet kaçak makaron ele geçirildi</b><br>Niğde'de polis ekipleri tarafından yapılan çalışmalarda, tır dorsesinde 4 milyon 950 bin makaron ele geçirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/nigde-de-4-milyon-950-bin-adet-kacak-makaron-ele-14936841-haberi/>https://www.haberler.com/nigde-de-4-milyon-950-bin-adet-kacak-makaron-ele-14936841-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 17:57:00 +0300");
+                    

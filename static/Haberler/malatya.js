@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([38.347,38.319],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Malatya Bayanlar Spor Kulübü Başkanı Doğan Çelebi: "Başarımızı Kimse Görmüyor"</b><br>Malatya Bayanlar Spor Kulübü Başkanı Doğan Çelebi, 11 yıldır Malatya’da kadınları futbolda en iyi şekilde temsil etmeye çalıştıklarını ifade ederek, 'Bu çocuklar da güzel ve kaliteli giyinsinler. 110 kız çocuğumuz burada spor yapıyor. Geleceklerini garanti altına alıyoruz. Hepsinin eğitimlerini destekliyoruz. Başarımızı kimse görmüyor, kimse gelip bizimle konuşmak istemiyor' dedi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/malatya-bayanlar-spor-kulubu-baskani-dogan-celebi-14936805-haberi/>https://www.haberler.com/malatya-bayanlar-spor-kulubu-baskani-dogan-celebi-14936805-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 17:42:00 +0300");
+                    

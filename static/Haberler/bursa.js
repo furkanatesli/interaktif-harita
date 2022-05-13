@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([40.182,29.066],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika! CHP Genel Başkanı Kılıçdaroğlu, Yargıtayın Kaftancıoğlu kararını değerlendirdi</b><br>Son dakika haberler... CHP Genel Başkanı Kemal Kılıçdaroğlu, Yargıtayın CHP İstanbul İl Başkanı Canan Kaftancıoğlu'na verilen mahkumiyet kararını onamasına ilişkin, 'Cezalandırmaya çalıştırdığın Canan'ın arkasında koca bir halk var. Bunu bir an bile aklından çıkarma.<br><b>Kaynak :</b> <a href=https://www.haberler.com/chp-genel-baskani-kilicdaroglu-yargitayin-14937274-haberi/>https://www.haberler.com/chp-genel-baskani-kilicdaroglu-yargitayin-14937274-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:23:00 +0300");
+                    

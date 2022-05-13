@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.073,36.255],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Sinirlerine hakim olamayan Muharrem İnce, partisinde Ermeni soykırımını kabul edenlere kapıyı gösterdi</b><br>Memleket Partisi Genel Başkanı Muharrem İnce, Osmaniye'de partisinin il binasında konuştu. İnce, Ermeni soykırımı tartışmasına ilişkin değerlendirmelerde de bulundu. 'Türkler, Ermenilere soykırım yapmamıştır nokta' diyen İnce, 'CHP'de bunu kabul edenler var, Memleket Partisi'nde de varsa kapı önü oradadır' ifadelerini kullandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sinirlerine-hakim-olamayan-muharrem-ince-14937338-haberi/>https://www.haberler.com/sinirlerine-hakim-olamayan-muharrem-ince-14937338-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 22:08:00 +0300");
+                    

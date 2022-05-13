@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([38.681,29.403],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika... Araç kundaklayan 3 şüpheli tutuklandı</b><br>Son dakika haberler... Araç kundaklayan 3 şüpheli tutuklandıUŞAK Uşak'ta geçtiğimiz günlerde bir otomobili kundaklayan 3 şüpheli şahıs, çıkarıldıkları mahkemece tutuklandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-arac-kundaklayan-3-supheli-tutuklandi-14936286-haberi/>https://www.haberler.com/son-dakika-arac-kundaklayan-3-supheli-tutuklandi-14936286-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 15:02:00 +0300");
+                    

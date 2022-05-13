@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([36.812,34.634],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Herbalife Nutrition Kadınlar Basketbol Süper Ligi play-off final serisi</b><br>Salon: Fenerbahçe Metro EnerjiHakemler: Murat Ciner, Abdullah Koputan, Çağlar ÖzkanFenerbahçe Safiport: Sabally 25, Olcay Çakır Turgut 5, McBride 23, Stokes 4, Iagupova 16, Williams 6, Tuğçe Canıtez 13, Şerife Alperi Onar, İdil Saçalır, Doğa Adıcan 3, Elif İstanbulluoğluÇBK Mersin...<br><b>Kaynak :</b> <a href=https://www.haberler.com/fenerbahce-safiport-final-serisinde-2-0-one-gecti-14937242-haberi/>https://www.haberler.com/fenerbahce-safiport-final-serisinde-2-0-one-gecti-14937242-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:00:00 +0300");
+                    

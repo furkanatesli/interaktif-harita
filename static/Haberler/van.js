@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([38.508,43.375],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Tarihi Hazır Baba Türbesi yok olma tehlikesiyle karşı karşıya</b><br>Tarihi Hazır Baba Türbesi yok olma tehlikesiyle karşı karşıya Bitlis'in Güroymak ilçesine bağlı Gölbaşı beldesinde bulunan tescilli 'Hazır Baba Türbesi' bakımsızlık ve tahribatlar nedeniyle yok olma tehlikesi yaşıyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tarihi-hazir-baba-turbesi-yok-olma-tehlikesiyle-14937427-haberi/>https://www.haberler.com/tarihi-hazir-baba-turbesi-yok-olma-tehlikesiyle-14937427-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 23:09:00 +0300");
+                    

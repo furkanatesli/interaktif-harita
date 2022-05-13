@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([41.197,32.623],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Son dakika haberleri | Karabük'te iki otomobillin çarpıştığı kazada 4 kişi yaralandı</b><br>Edinilen son dakika gelişmesine göre Karabük'te iki otomobilin çarpışması sonucu yaralanan 4 kişi hastaneye kaldırıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberi-iki-otomobillin-carpistigi-kazada-4-kisi-yaralandi-14937195-haberi/>https://www.haberler.com/son-dakika-haberi-iki-otomobillin-carpistigi-kazada-4-kisi-yaralandi-14937195-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 20:36:00 +0300");
+                    

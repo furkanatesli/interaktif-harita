@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([39.921,44.046],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Mersin ve Adana, göreli yoksullukta birinci, gelir eşitsizliğinde üçüncü sırada</b><br>MERSİN (İHA) – Mersin ve Adana, TÜİK 2021 sonuçlarına göre, göreli yoksulluğun en fazla arttığı bölgeler arasında yüzde 14,4 ile birinci sırada yer aldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/mersin-ve-adana-goreli-yoksullukta-birinci-gelir-14935857-haberi/>https://www.haberler.com/mersin-ve-adana-goreli-yoksullukta-birinci-gelir-14935857-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 13:01:00 +0300");
+                    

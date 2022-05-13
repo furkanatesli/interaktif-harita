@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([40.326,36.554],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>15 Temmuz şehidinin ismi memleketinde yaşatılacak</b><br>15 Temmuz şehidinin ismi memleketinde yaşatılacakTOKAT 15 Temmuz şehidi özel harekat polisi Feramil Ferhat Kaya'nın ismi memleketi Tokat'ın Reşadiye ilçesinde yaşatılacak.<br><b>Kaynak :</b> <a href=https://www.haberler.com/15-temmuz-sehidinin-ismi-memleketinde-yasatilacak-14937244-haberi/>https://www.haberler.com/15-temmuz-sehidinin-ismi-memleketinde-yasatilacak-14937244-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:01:00 +0300");
+                    

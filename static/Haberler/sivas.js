@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([39.749,37.016],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Kuzusu maça alınmadı, stadyumu terk etti</b><br>Kuzusu maça alınmadı, stadyumu terk etti Sivas'ta oynan Ziraat Türkiye Kupası Yarı Final maçına kuzusuyla gelen vatandaş, kuzusu güvenlik görevlileri tarafından maça alınmayınca stadı terk etti Sivas'ta oynan Ziraat Türkiye Kupası Yarı Final maçına kuzusuyla gelen vatandaş, yanından...<br><b>Kaynak :</b> <a href=https://www.haberler.com/kuzusu-maca-alinmadi-stadyumu-terk-etti-14937421-haberi/>https://www.haberler.com/kuzusu-maca-alinmadi-stadyumu-terk-etti-14937421-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 23:03:00 +0300");
+                    

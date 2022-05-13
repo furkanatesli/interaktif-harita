@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([40.733,31.613],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Bisikletlilerin Selanik'ten Samsun'a taşıdığı "Ata toprağı" Düzce'ye ulaştı</b><br>Gazi Mustafa Kemal Atatürk'ün Selanik'te doğduğu evden Samsun'a ulaştırılmak üzere alınan toprak, bisikletliler tarafından Düzce'ye getirildi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-bisikletlilerin-selanik-ten-samsun-a-tasidigi-ata-14936624-haberi/>https://www.haberler.com/son-dakika-bisikletlilerin-selanik-ten-samsun-a-tasidigi-ata-14936624-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 16:42:00 +0300");
+                    

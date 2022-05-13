@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.178,33.224],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Karaman'da kenevir fidesi yetiştiren iki şüpheli yakalandı</b><br>Karaman'da plastik kasada tüpler içerisinde kenevir bitkisi fidesi yetiştiren iki şüpheli yakalandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/karaman-da-kenevir-fidesi-yetistiren-iki-supheli-14937302-haberi/>https://www.haberler.com/karaman-da-kenevir-fidesi-yetistiren-iki-supheli-14937302-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:43:00 +0300");
+                    

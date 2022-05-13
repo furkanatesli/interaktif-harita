@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([38.370,34.027],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Jandarma'nın "Mutluluğa Kurşun Sıkma" çalıştayı tamamlandı</b><br>Jandarma'nın 'Mutluluğa Kurşun Sıkma' çalıştayı tamamlandı Aksaray'da özel günlerde yapılan kutlamalarda silah ve patlayıcı maddelerin kullanılmasının önüne geçmek amacıyla İl Jandarma Komutanlığı tarafından düzenlenen 'Mutluluğa Kurşun Sıkma' çalıştayı tamamlandı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/son-dakika-haberleri-jandarma-nin-mutluluga-kursun-sikma-calistayi-14936303-haberi/>https://www.haberler.com/son-dakika-haberleri-jandarma-nin-mutluluga-kursun-sikma-calistayi-14936303-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 15:05:00 +0300");
+                    

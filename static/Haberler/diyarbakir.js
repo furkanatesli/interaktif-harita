@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.916,40.222],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Mavi Liste'nin hedefi OSB'de istihdam sayısını 40 bine çıkarmak</b><br>Mavi Liste'nin hedefi OSB'de istihdam sayısını 40 bine çıkarmak Diyarbakır OSB Başkanı ve Mavi Liste adayı Mustafa Fidan: 'Bu sene Diyarbakır olarak ihracatta rekor kırmayı hedefliyoruz' 'Başka Diyarbakır yok, tek derdimiz Diyarbakır'daki istihdamı artırmak' 'Bir dört yıl daha gelirsek...<br><b>Kaynak :</b> <a href=https://www.haberler.com/mavi-liste-nin-hedefi-osb-de-istihdam-sayisini-40-14937417-haberi/>https://www.haberler.com/mavi-liste-nin-hedefi-osb-de-istihdam-sayisini-40-14937417-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 23:01:00 +0300");
+                    

@@ -1,0 +1,106 @@
+<html lang="tr">
+
+<head>
+
+  <!--  Meta  -->
+  
+  <title>Harita Haber</title>
+
+  <!--  Styles  -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='ccc.css') }}">
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+
+</head>
+
+<body>
+  <div id="map"></div>
+  <!-- Scripts -->
+  <script src="../static/aaa.js"></script>
+  <script src="../static/icon.js"></script>
+  <script src="../static/Depremler/Depremler.js"></script>
+  <script src="../static/Haberler/adana.js"></script>
+  <script src="../static/Haberler/adiyaman.js"></script>
+  <script src="../static/Haberler/afyon.js"></script>
+  <script src="../static/Haberler/agri.js"></script>
+  <script src="../static/Haberler/amasya.js"></script>
+  <script src="../static/Haberler/ankara.js"></script>
+  <script src="../static/Haberler/antalya.js"></script>
+  <script src="../static/Haberler/artvin.js"></script>
+  <script src="../static/Haberler/aydin.js"></script>
+  <script src="../static/Haberler/balikesir.js"></script>
+  <script src="../static/Haberler/bilecik.js"></script>
+  <script src="../static/Haberler/bingol.js"></script>
+  <script src="../static/Haberler/bitlis.js"></script>
+  <script src="../static/Haberler/bolu.js"></script>
+  <script src="../static/Haberler/burdur.js"></script>
+  <script src="../static/Haberler/bursa.js"></script>
+  <script src="../static/Haberler/canakkale.js"></script>
+  <script src="../static/Haberler/cankiri.js"></script>
+  <script src="../static/Haberler/corum.js"></script>
+  <script src="../static/Haberler/denizli.js"></script>
+  <script src="../static/Haberler/diyarbakir.js"></script>
+  <script src="../static/Haberler/edirne.js"></script>
+  <script src="../static/Haberler/elazig.js"></script>
+  <script src="../static/Haberler/erzincan.js"></script>
+  <script src="../static/Haberler/erzurum.js"></script>
+  <script src="../static/Haberler/eskisehir.js"></script>
+  <script src="../static/Haberler/gaziantep.js"></script>
+  <script src="../static/Haberler/giresun.js"></script>
+  <script src="../static/Haberler/gumushane.js"></script>
+  <script src="../static/Haberler/hakkari.js"></script>
+  <script src="../static/Haberler/hatay.js"></script>
+  <script src="../static/Haberler/isparta.js"></script>
+  <script src="../static/Haberler/mersin.js"></script>
+  <script src="../static/Haberler/istanbul.js"></script>
+  <script src="../static/Haberler/izmir.js"></script>
+  <script src="../static/Haberler/kars.js"></script>
+  <script src="../static/Haberler/kastamonu.js"></script>
+  <script src="../static/Haberler/kayseri.js"></script>
+  <script src="../static/Haberler/kirklareli.js"></script>
+  <script src="../static/Haberler/kirsehir.js"></script>
+  <script src="../static/Haberler/kocaeli.js"></script>
+  <script src="../static/Haberler/konya.js"></script>
+  <script src="../static/Haberler/kutahya.js"></script>
+  <script src="../static/Haberler/malatya.js"></script>
+  <script src="../static/Haberler/manisa.js"></script>
+  <script src="../static/Haberler/maras.js"></script>
+  <script src="../static/Haberler/mardin.js"></script>
+  <script src="../static/Haberler/mugla.js"></script>
+  <script src="../static/Haberler/mus.js"></script>
+  <script src="../static/Haberler/nevsehir.js"></script>
+  <script src="../static/Haberler/nigde.js"></script>
+  <script src="../static/Haberler/ordu.js"></script>
+  <script src="../static/Haberler/rize.js"></script>
+  <script src="../static/Haberler/sakarya.js"></script>
+  <script src="../static/Haberler/samsun.js"></script>
+  <script src="../static/Haberler/siirt.js"></script>
+  <script src="../static/Haberler/sinop.js"></script>
+  <script src="../static/Haberler/sivas.js"></script>
+  <script src="../static/Haberler/tekirdag.js"></script>
+  <script src="../static/Haberler/tokat.js"></script>
+  <script src="../static/Haberler/trabzon.js"></script>
+  <script src="../static/Haberler/tunceli.js"></script>
+  <script src="../static/Haberler/urfa.js"></script>
+  <script src="../static/Haberler/usak.js"></script>
+  <script src="../static/Haberler/van.js"></script>
+  <script src="../static/Haberler/yozgat.js"></script>
+  <script src="../static/Haberler/zonguldak.js"></script>
+  <script src="../static/Haberler/aksaray.js"></script>
+  <script src="../static/Haberler/bayburt.js"></script>
+  <script src="../static/Haberler/karaman.js"></script>
+  <script src="../static/Haberler/kirikkale.js"></script>
+  <script src="../static/Haberler/batman.js"></script>
+  <script src="../static/Haberler/sirnak.js"></script>
+  <script src="../static/Haberler/bartin.js"></script>
+  <script src="../static/Haberler/ardahan.js"></script>
+  <script src="../static/Haberler/igdir.js"></script>
+  <script src="../static/Haberler/yalova.js"></script>
+  <script src="../static/Haberler/karabuk.js"></script>
+  <script src="../static/Haberler/kilis.js"></script>
+  <script src="../static/Haberler/osmaniye.js"></script>
+  <script src="../static/Haberler/duzce.js"></script>
+</body>
+
+</html>

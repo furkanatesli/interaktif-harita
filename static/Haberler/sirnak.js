@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.518,42.461],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Şırnak'ta Hafızlık İcazet Töreni düzenlendi</b><br>Şırnak Valiliği ve İl Müftülüğünce merkez, Silopi ve Cizre ilçelerinde bölge yatılı Kur'an kurslarında 2019, 2020 ve 2021 yıllarında öğrenim gören ve hafızlığını tamamlayan 200 öğrenci için Hafızlık İcazet Töreni yapıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/sirnak-ta-hafizlik-icazet-toreni-duzenlendi-14937266-haberi/>https://www.haberler.com/sirnak-ta-hafizlik-icazet-toreni-duzenlendi-14937266-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 21:19:00 +0300");
+                    

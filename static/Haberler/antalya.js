@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([36.900,30.693],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>Antalya'da Hollanda Kral Günü resepsiyonu düzenlendi</b><br>Hollanda'nın Ankara Büyükelçisi Marjanne de Kwaasteniet, Türkiye ile ilişkilerin çok iyi olduğunu belirterek 'Hollanda Başbakanı Mark Rutte'nin Cumhurbaşkanı Recep Tayyip Erdoğan'a yaptığı ziyaretle çok iyi olan ilişkilerimiz perçinlenmiş oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/antalya-da-hollanda-kral-gunu-resepsiyonu-14937379-haberi/>https://www.haberler.com/antalya-da-hollanda-kral-gunu-resepsiyonu-14937379-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 22:35:00 +0300");
+                    

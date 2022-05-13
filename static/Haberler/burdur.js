@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([37.724,30.288],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>BAKAN YARDIMCISI PAKDİL TARIMDA DİJİTALLEŞMEYİ SAĞLAMAK İÇİN ÇALIŞIYORUZ</b><br>TARIM ve Orman Bakan Yardımcısı Nihat Pakdil, Tarımda dijitalleşmeyi nasıl sağlarız ve bilgisayarla ilgili teknolojiyi bizim alanımızda en yoğun şekilde nasıl kullanırız ve bu teknolojiyi kullanarak üretimimizi nasıl planlarız, tüketicimizin beklentilerini nasıl karşılarız,...<br><b>Kaynak :</b> <a href=https://www.haberler.com/bakan-yardimcisi-pakdil-tarimda-dijitallesmeyi-14937085-haberi/>https://www.haberler.com/bakan-yardimcisi-pakdil-tarimda-dijitallesmeyi-14937085-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 19:36:00 +0300");
+                    

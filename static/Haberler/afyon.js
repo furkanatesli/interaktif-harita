@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([38.757,30.534],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>GIDA SEKTÖRÜ TEMSİLCİLERİ "ENFLASYONLA MÜCADELEDE BİRLİKTEN BEREKETE" TOPLANTISINI DEĞERLENDİRDİ</b><br>HAZİNE ve Maliye Bakanı Nureddin Nebati 'Enflasyonla Mücadelede Birlikten Berekete' programı kapsamında gıda sektörü temsilcileri ile bir araya geldi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/gida-sektoru-temsilcileri-enflasyonla-mucadelede-14936365-haberi/>https://www.haberler.com/gida-sektoru-temsilcileri-enflasyonla-mucadelede-14936365-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 15:22:00 +0300");
+                    

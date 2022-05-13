@@ -1,0 +1,4 @@
+
+                        var haber = L.marker([41.632,32.338],{icon: habericon}).addTo(haberler);
+                        haber.bindPopup("<b>ZONGULDAK - U18 Gençler Türkiye Şampiyonası birinci kademe müsabakaları başladı</b><br>U18 Gençler Türkiye Şampiyonası birinci kademe müsabakalarının Zonguldak ayağı başladı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/u18-gencler-turkiye-sampiyonasi-birinci-kademe-14936506-haberi/>https://www.haberler.com/u18-gencler-turkiye-sampiyonasi-birinci-kademe-14936506-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 16:08:00 +0300");
+                    

@@ -90,6 +90,9 @@ L.tileLayer('', {
         print("Baslık = ",kaynak.title.text) 
         time.sleep(random.randint(3,10))
 
+deprem_cek()
+haber_cek()
+
 schedule.every(1).minutes.do(deprem_cek)
 schedule.every(1).hour.do(haber_cek)
 

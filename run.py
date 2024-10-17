@@ -39,7 +39,7 @@ def haber_cek():
     sayac=0
     for sehir in sehirler:
         print(sehir)
-        oku=urllib.request.urlopen('http://rss.haberler.com/rsskonu.asp?konu='+sehir).read()
+        oku=urllib.request.urlopen('http://rss.haberler.com/rss.asp?kategori='+sehir).read()
         kaynak=bs.BeautifulSoup(oku,'xml')
         kaynak=kaynak.find('item')
         dosya = open("static/Haberler/"+sehir+".js","w",encoding="utf-8")
@@ -48,7 +48,7 @@ def haber_cek():
                         haber.bindPopup("<b>"""+kaynak.title.text.strip()+"""</b><br>"""+kaynak.description.text.strip()+"""<br><b>Kaynak :</b> <a href="""+kaynak.link.text.strip()+""">"""+kaynak.link.text.strip()+"""</a><br><b>Paylasim Tarihi : <b>"""+kaynak.pubDate.text.strip()+"""");
                     """)
         dosya.close()
-        dosya = open("aaa.js","w",encoding="utf-8")
+        dosya = open("static/aaa.js","w",encoding="utf-8")
         an = datetime.datetime.now()
         uc = datetime.timedelta(hours=3) #time zone hesaplamak için
         tarih = an+uc
@@ -58,7 +58,7 @@ var depremler = L.layerGroup();
 var haberler = L.layerGroup();
 
 var mbAttr = '',
-    mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
+    mbUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
 
 var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox/light-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr}),
     streets  = L.tileLayer(mbUrl, {id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1, attribution: mbAttr});
@@ -81,7 +81,7 @@ L.control.layers(baseLayers, overlays).addTo(map);
 
 
 L.tileLayer('', {
-    attribution: '<a href="https://www.mapbox.com/">Mapbox</a> |' + '<a href="index.html">Harita Haber</a> Son Güncelleme Tarihi: """+tarih+"""'
+    attribution: '<a href="https://www.x.com/">X</a> |' + '<a href="index.html">Harita Haber</a> Son Güncelleme Tarihi: """+tarih+"""'
 }).addTo(map);
                     """
         )

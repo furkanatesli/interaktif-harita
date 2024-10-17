@@ -1,4 +1,4 @@
 
                         var haber = L.marker([37.770,30.555],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>TFF 2. Lig Play-Off: Isparta 32 Spor: 0 Karacabey Belediyespor: 2</b><br>TFF 2. Lig Play-Off Çeyrek final amçında Isparta 32 Spor, sahasında Karacabey Belediyespor'a 2-0 mağlup oldu.<br><b>Kaynak :</b> <a href=https://www.haberler.com/tff-2-lig-play-off-isparta-32-spor-0-karacabey-14937438-haberi/>https://www.haberler.com/tff-2-lig-play-off-isparta-32-spor-0-karacabey-14937438-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 12 May 2022 23:19:00 +0300");
+                        haber.bindPopup("<b>Isparta'da Kırmızı Işıkta Geçen Otomobil Yayaya Çarptı</b><br>Isparta'da kırmızı ışıkta geçen bir otomobil, yolun karşısına geçmeye çalışan bir yayaya çarptı. Kaza sonucunda yaya yaralanarak hastaneye kaldırıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/3-sayfa/isparta-da-kirmizi-isikta-gecen-otomobil-yayaya-carpti-17935036-haberi/>https://www.haberler.com/3-sayfa/isparta-da-kirmizi-isikta-gecen-otomobil-yayaya-carpti-17935036-haberi/</a><br><b>Paylasim Tarihi : <b>Wed, 16 Oct 2024 01:47:00 +0300");
                     

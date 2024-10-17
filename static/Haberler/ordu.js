@@ -1,4 +1,4 @@
 
                         var haber = L.marker([40.980,37.884],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>Kara yollarında durum</b><br>Kara yollarının yapım, bakım ve onarım çalışmaları sürdürülen kesimlerinde yavaş gidilmesi, trafik işaret ve işaretçilerine uyulması gerekiyor.<br><b>Kaynak :</b> <a href=https://www.haberler.com/kara-yollarinda-durum-9-14937800-haberi/>https://www.haberler.com/kara-yollarinda-durum-9-14937800-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 08:11:00 +0300");
+                        haber.bindPopup("<b>İsrail Ordusu Lübnan'a Hava Saldırısı Düzenledi</b><br>İsrail ordusu, Lübnan'ın güneyindeki üç beldeye tahliye çağrısı yapmasının ardından hava saldırısı gerçekleştirdi. Saldırıda çok sayıda ev hedef alındı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/guncel/israil-ordusu-lubnan-a-hava-saldirisi-duzenledi-17942404-haberi/>https://www.haberler.com/guncel/israil-ordusu-lubnan-a-hava-saldirisi-duzenledi-17942404-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 17 Oct 2024 18:37:00 +0300");
                     

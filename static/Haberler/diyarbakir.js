@@ -1,4 +1,4 @@
 
                         var haber = L.marker([37.916,40.222],{icon: habericon}).addTo(haberler);
-                        haber.bindPopup("<b>2022 yılı sulama tesisleri ücret tarifesi belirlendi</b><br>Bazı sulama tesislerinden faydalananlardan 2022'de alınacak işletme ve bakım ücreti tutarları belirlendi.<br><b>Kaynak :</b> <a href=https://www.haberler.com/2022-yili-sulama-tesisleri-ucret-tarifesi-14937874-haberi/>https://www.haberler.com/2022-yili-sulama-tesisleri-ucret-tarifesi-14937874-haberi/</a><br><b>Paylasim Tarihi : <b>Fri, 13 May 2022 09:03:00 +0300");
+                        haber.bindPopup("<b>Kulp'ta Sağanak Nedeniyle Mahsur Kalan Sürücü Kurtarıldı</b><br>Diyarbakır'ın Kulp ilçesinde etkili sağanak nedeniyle taşan Kulp Çayı'nda kamyonetiyle mahsur kalan sürücü, sağlık ve arama kurtarma ekipleri tarafından kurtarıldı.<br><b>Kaynak :</b> <a href=https://www.haberler.com/guncel/kulp-ta-saganak-nedeniyle-mahsur-kalan-surucu-kurtarildi-17942336-haberi/>https://www.haberler.com/guncel/kulp-ta-saganak-nedeniyle-mahsur-kalan-surucu-kurtarildi-17942336-haberi/</a><br><b>Paylasim Tarihi : <b>Thu, 17 Oct 2024 18:22:00 +0300");
                     
